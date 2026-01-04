@@ -48,7 +48,7 @@ If you want to search & filters the complete database of [.TO one word domains](
 | absorbing.to      | available | 70       | 3%     | 9      |                                |                  |                  |
 | abundant.to       | available | 80       | 15%    | 8      |                                |                  |                  |
 | abundantly.to     | available | 66       | 2%     | 10     |                                |                  |                  |
-| acappella.to      | available | 66       | 6%     | 10     |                                |                  |                  |
+| acappella.to      | available | 66       | 5%     | 10     |                                |                  |                  |
 | accepting.to      | resell    | 74       | 2%     | 9      | NAMECHEAP                      | 12/04/2023 02:27 | 01/08/2026 00:00 |
 | accomplished.to   | available | 74       | 6%     | 12     |                                |                  |                  |
 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.TO one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
