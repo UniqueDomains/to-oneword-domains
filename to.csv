@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 44a6a224-c680-4630-8aed-1e494dc081b4,pen.to,resell,,,60,22,3,"Spaceship, Inc.",11/06/2024 05:34,01/06/2026 03:41
 8493025b-7551-408f-aa65-6d8107f63d3c,bug.to,resell,,,66,31,3,humbly LLC,03/04/2023 02:27,04/08/2026 10:37
+be1f3432-1d02-4707-96ba-21ce31eb2001,career.to,resell,,,84,28,6,"Spaceship, Inc.",06/09/2024 17:29,06/09/2026 17:29
 a63b9791-8a80-482e-abe1-ac275ab7008f,engineer.to,resell,,,82,25,8,"Spaceship, Inc.",23/02/2026 10:14,23/02/2027 10:14
 4c880f31-7287-4773-a424-bfc84ea32cc0,exhale.to,resell,,,94,12,6,NAMECHEAP,12/07/2025 02:27,01/08/2028 00:00
 cccf981c-55a4-4bef-8366-cc9229957bde,howldown.to,premium,,,66,1,9,,,
@@ -22,7 +23,7 @@ a85061c6-1849-42e8-ae9e-06e00e460697,fancy.to,resell,,,124,29,5,Government of Ki
 92c84a89-705b-4900-822f-a025da6e88b1,award.to,resell,,,104,21,5,NAMECHEAP,04/04/2025 02:27,01/08/2026 00:00
 713eb80a-a0e7-4c6c-a453-d5e238439dc5,dogshot.to,premium,,,76,1,8,,,
 c05c16dc-59bf-424d-a2f1-d4f3e2062ea7,letterspatents.to,premium,,,65,1,15,,,
-da37d6d1-66db-445e-9b2d-d5b9db56addf,poll.to,resell,,,80,23,4,"Spaceship, Inc.",30/01/2025 12:36,16/01/2027 03:29
+da37d6d1-66db-445e-9b2d-d5b9db56addf,poll.to,resell,,,80,21,4,"Spaceship, Inc.",30/01/2025 12:36,16/01/2027 03:29
 d9a20d26-12fa-44a6-a1dc-d9e0afeba725,sensationally.to,premium,,,60,1,13,,,
 ea039456-4fc5-41af-91b4-c186b85245f3,releaseversion.to,premium,,,74,1,15,,,
 922a5ff8-34d9-4116-8ec8-6185fcb4edcc,rang.to,premium,,,,8,4,,,
@@ -39,7 +40,7 @@ e396e78c-2529-47c9-b49b-b438f605c069,coach.to,resell,,,108,39,5,humbly LLC,10/08
 17c1d62d-69a1-4cdb-9b33-5c39bb94de06,inthehand.to,premium,,,48,1,11,,,
 f55b0a30-5727-436e-8e82-2436d355a650,whattheheck.to,premium,,,,3,13,,,
 3b04f6e9-3f5d-4869-a89d-0631142700bd,gore.to,resell,,,56,12,4,NAMECHEAP,13/11/2025 00:34,13/11/2026 00:34
-231faa2a-5a52-4480-b419-5306e63c53d3,sink.to,resell,,,56,16,4,NAMECHEAP,27/04/2023 02:27,01/08/2026 00:00
+231faa2a-5a52-4480-b419-5306e63c53d3,sink.to,resell,,,56,15,4,NAMECHEAP,27/04/2023 02:27,01/08/2026 00:00
 3e21ddc5-8891-42ad-b0df-19a6c9cdec52,cricket.to,resell,,,104,22,7,humbly LLC,01/02/2024 05:20,14/02/2027 05:35
 918242c9-727e-49d5-b9de-2b7d25d31564,gosing.to,premium,,,70,2,7,,,
 8a24eb43-4706-438f-b1b6-a34841e5c5a3,penandink.to,premium,,,,3,11,,,
@@ -57,10 +58,10 @@ f5fa5102-fea8-499f-9701-86d8d3d06878,slowness.to,premium,,,64,3,8,,,
 d49d3b0f-3cb0-4d9d-818e-525475a7447f,clumsy.to,premium,,,74,10,6,,,
 e1f81a19-2d38-4061-bf1a-baa751cb8e53,sincere.to,available,29.98,,72,22,7,namecheap,,
 694229c7-1467-4d0e-9364-57c993f8696f,christian.to,resell,,,88,38,9,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
-8337840e-10fd-4616-a7fd-f263ef1a9ac9,buying.to,resell,,,74,21,6,NAMECHEAP,14/04/2023 02:27,01/08/2026 00:00
+8337840e-10fd-4616-a7fd-f263ef1a9ac9,buying.to,resell,,,74,18,6,NAMECHEAP,14/04/2023 02:27,01/08/2026 00:00
 334cf4fb-63ae-4fb1-8de4-90e03a8b79fa,bean.to,resell,,,66,27,4,NAMECHEAP,04/03/2024 02:27,01/08/2028 00:00
 8d5f2faa-ff48-450c-825b-50b6aec2112f,pronounced.to,premium,,,62,4,10,,,
-010da805-690b-4149-a50c-311ddb393520,clergy.to,resell,,,66,8,6,NAMECHEAP,25/09/2025 16:09,25/09/2026 16:09
+010da805-690b-4149-a50c-311ddb393520,clergy.to,resell,,,66,6,6,NAMECHEAP,25/09/2025 16:09,25/09/2026 16:09
 29dd5a06-7bb2-43e2-a647-fe7dba7bce91,brotherhood.to,resell,,,72,13,11,NAMECHEAP,22/09/2021 22:08,22/09/2026 22:08
 583380bb-683f-4537-ab30-25e83da4f923,supreme.to,resell,,,72,34,7,NAMECHEAP,10/12/2019 02:27,01/08/2026 00:00
 d3219092-2e8a-4468-a6c7-647c3b010e1a,thankyoucard.to,premium,,,,2,14,,,
@@ -91,10 +92,10 @@ f263b890-cd63-4cb7-9425-4609fffda3d7,onehundred.to,premium,,,,8,11,,,
 6c05538d-1761-43c6-916a-e68789362537,badmintoncourt.to,premium,,,72,1,15,,,
 3352a47c-b732-41e9-b312-d6f4c637016c,managing.to,resell,,,70,9,8,NAMECHEAP,09/01/2024 02:27,01/08/2028 00:00
 9543c290-bede-4d23-82b0-e8407997bbbe,generalknowledge.to,premium,,,80,5,17,,,
-71bd4a3d-0459-4f58-8977-8fd73a9e077e,harmony.to,resell,,,83,43,7,NAMECHEAP,19/09/2023 02:27,01/08/2026 00:00
+71bd4a3d-0459-4f58-8977-8fd73a9e077e,harmony.to,resell,,,83,39,7,NAMECHEAP,19/09/2023 02:27,01/08/2026 00:00
 d92549e5-48fb-43a3-9c51-9a38fdff0074,fibre.to,resell,,,76,19,5,NAMECHEAP,13/11/2025 06:28,13/11/2026 06:28
 49586133-334f-4edf-bedd-899771ed397c,haveonemoretime.to,premium,,,62,1,18,,,
-b6fcb6ee-c3d8-4dcb-9a24-1e6f5de87594,kudos.to,resell,,,99,28,5,NAMECHEAP,18/01/2024 17:40,22/07/2028 15:46
+b6fcb6ee-c3d8-4dcb-9a24-1e6f5de87594,kudos.to,resell,,,99,25,5,NAMECHEAP,18/01/2024 17:40,22/07/2028 15:46
 6c178200-2812-496a-80c5-d2a2e79098d2,loved.to,resell,,,80,16,5,NAMECHEAP,02/09/2024 16:28,02/09/2026 16:28
 82428488-c536-4d32-90d0-4fcafbe65dc8,anytime.to,resell,,,100,26,7,NAMECHEAP,19/11/2023 02:27,01/08/2028 00:00
 c98c6f8e-e974-40e7-acd0-3beb6ee1a8f3,capone.to,premium,,,54,9,6,,,
@@ -111,8 +112,8 @@ b496a815-c7a0-4436-b310-d08755353faa,bacterial.to,premium,,,66,3,9,,,
 78446816-c8c2-42d0-8216-3173c53404db,thoseones.to,premium,,,,1,10,,,
 65719335-ce7c-4a97-a8a7-4c36d5e67d99,intruth.to,premium,,,68,3,8,,,
 1a2c46cc-fa75-4ae3-8d91-096f77964556,dime.to,resell,,,66,23,4,NAMECHEAP,11/06/2025 02:27,01/08/2028 00:00
-2317d6be-e119-4693-bec6-027af7b4cb81,contents.to,premium,,,68,15,8,,,
-3a44a0b2-0cbc-4e13-95d4-7819f39bf6e0,claimform.to,premium,,,66,5,10,,,
+2317d6be-e119-4693-bec6-027af7b4cb81,contents.to,premium,,,68,14,8,,,
+3a44a0b2-0cbc-4e13-95d4-7819f39bf6e0,claimform.to,premium,,,66,3,10,,,
 6e6792bc-875b-4c82-80bb-cf0070385a33,aerobic.to,available,29.98,,74,7,7,namecheap,,
 9c248da8-6344-4429-adc3-f3449e91ce83,sitabout.to,premium,,,,1,9,,,
 01c37935-c40f-4ca2-84fd-c1e7f559985a,dogtoothgrass.to,premium,,,90,1,14,,,
@@ -133,7 +134,7 @@ adf75ca1-d2f6-41bd-a84f-6f067925d637,visited.to,premium,,,76,5,7,,,
 50ad3741-a019-493e-81d3-fb29e8956465,grinning.to,premium,,,76,4,8,,,
 c6a938a9-4823-418e-8a2b-1e018023e036,maximum.to,resell,,,98,25,7,NAMECHEAP,20/06/2023 13:50,20/06/2027 13:50
 9fc60379-4664-4058-8c74-98394b2a8abb,AlbertEinstein.to,premium,,,94,6,15,,,
-89d50adf-bd64-4323-9720-966f289d6c92,currency.to,resell,,,74,29,8,NAMECHEAP,04/02/2024 15:27,01/08/2026 00:00
+89d50adf-bd64-4323-9720-966f289d6c92,currency.to,resell,,,74,27,8,NAMECHEAP,04/02/2024 15:27,01/08/2026 00:00
 1efd8395-735c-479e-8bc3-90b2791a9ca7,redmeat.to,premium,,,,3,8,,,
 68faac1f-b389-48df-a1d5-56b1d00d84a9,parkingticket.to,premium,,,64,4,14,,,
 60ff8a7e-a29e-4278-a80d-8186eb86f22e,carefor.to,premium,,,72,7,8,,,
@@ -253,18 +254,18 @@ e9f41aaf-8a82-4627-9c60-30482cdaacfb,unemployed.to,premium,,,49,13,10,,,
 0dd7dc44-2588-4c59-88ba-dd82ce13f179,postaladdress.to,premium,,,66,2,14,,,
 3b385bee-c7fe-4bfb-85a9-329262e68af0,therebe.to,premium,,,,2,8,,,
 216c68ce-9f69-4eec-a3c8-13c86cb7e839,prodigy.to,resell,,,79,29,7,NAMECHEAP,16/05/2022 02:27,01/08/2026 00:00
-c390f758-16ac-4f44-a2ff-4d53d7b03d1f,calloff.to,premium,,,67,4,8,,,
+c390f758-16ac-4f44-a2ff-4d53d7b03d1f,calloff.to,premium,,,67,2,8,,,
 353113b2-3deb-4920-9d99-c48c2215ac2e,abnormal.to,available,29.98,,74,17,8,namecheap,,
 a7edbdf0-68b3-4545-8c88-aaf7bac485e1,comeupwith.to,premium,,,72,1,12,,,
 f1e000ea-dc43-4de9-b443-6607f244ea6d,whitened.to,premium,,,66,2,8,,,
 806f94bb-5c40-4d82-979f-14f680f48c17,enlarged.to,premium,,,66,1,8,,,
 7043dc4d-f6e5-477e-abe5-f1b98a8a4fba,sunbeam.to,premium,,,78,14,7,,,
-fb979776-f782-4c56-b16d-242e2c077820,heal.to,resell,,,70,31,4,NAMECHEAP,12/03/2024 02:27,01/08/2026 00:00
+fb979776-f782-4c56-b16d-242e2c077820,heal.to,resell,,,70,27,4,NAMECHEAP,12/03/2024 02:27,01/08/2026 00:00
 0ae9f236-05e3-4eaa-9bb6-1b440fc0bb39,essayquestion.to,premium,,,68,1,14,,,
 15211e11-f35c-4fae-8fe1-ffb095020834,hidden.to,resell,,,65,35,6,"Spaceship, Inc.",31/10/2023 10:20,30/10/2026 12:40
 b317909d-f7c7-4642-afb4-5acead6a5619,NewDelhi.to,resell,,,,8,9,NAMECHEAP,14/05/2025 02:27,01/08/2028 00:00
 8d7fce83-a77e-48b8-b1ed-720df1b9d0cb,estateinland.to,premium,,,64,1,14,,,
-01fa2eee-8d9d-40a6-8b82-6c1a3579810f,swallow.to,premium,,,66,15,7,,,
+01fa2eee-8d9d-40a6-8b82-6c1a3579810f,swallow.to,premium,,,66,13,7,,,
 f5444f30-2554-4324-bbbc-8192ae9908b1,grandfatherinlaw.to,premium,,,80,1,18,,,
 07f483e8-6bcf-4e84-a110-16c94ea9d2eb,trainup.to,premium,,,,5,8,,,
 42614f6c-0644-48d2-9080-1c4cba8a3f2a,lettertotheeditor.to,premium,,,73,1,20,,,
@@ -293,7 +294,7 @@ b116be5e-597e-473b-a55e-363634ef4028,TexasCity.to,premium,,,,3,10,,,
 6e28f03c-62ac-4e5b-84a3-f7d50b5e0bd5,toast.to,resell,,,68,32,5,NAMECHEAP,05/03/2024 02:27,01/08/2028 00:00
 cb08e7bc-f0ca-4e9e-b315-006854d3d4dc,occurrence.to,premium,,,64,5,10,,,
 582beee2-10fe-4526-acec-108cb0a5e194,potentiality.to,premium,,,,5,12,,,
-d021b02f-9a88-4981-9303-398dd7c2676f,cry.to,resell,,,92,21,3,humbly LLC,03/03/2023 02:27,18/06/2026 04:18
+d021b02f-9a88-4981-9303-398dd7c2676f,cry.to,resell,,,92,19,3,humbly LLC,03/03/2023 02:27,18/06/2026 04:18
 ef3f77dc-e7a8-4950-bb19-03abac7701a6,sneezing.to,premium,,,60,4,8,,,
 8acaa1fd-75af-47fc-a7fa-7d658385af59,finalize.to,premium,,,74,4,8,,,
 690276a3-2e04-428a-b654-fd3883aee503,billgates.to,premium,,,72,9,10,,,
@@ -375,7 +376,7 @@ adab8bb9-b4cd-41b7-a5f0-dc54e6456a41,talkedabout.to,premium,,,62,1,12,,,
 809daeaf-c9da-457a-bcba-d0a4e6023205,nowthat.to,premium,,,,1,8,,,
 69b9589a-455e-453a-a398-bd3b802c8489,ordinarily.to,premium,,,62,2,10,,,
 36142f9e-cd2e-422a-b46e-a1d7937ba38a,union.to,resell,,,90,38,5,NAMECHEAP,09/05/2023 02:27,01/08/2026 00:00
-811ae7c2-0a3e-42fe-a3a7-0a83ec393d2c,rookie.to,premium,,,108,19,6,,,
+811ae7c2-0a3e-42fe-a3a7-0a83ec393d2c,rookie.to,premium,,,108,17,6,,,
 2d330d8a-78ba-40c6-9653-b6a7fe21aa50,wander.to,resell,,,64,32,6,NAMECHEAP,26/01/2024 02:27,01/08/2026 00:00
 8798d1af-eb4e-49f6-8d3e-c091623dbe01,compositionbook.to,premium,,,72,1,16,,,
 93c0097c-2d3e-41b4-b775-6a3ee382a281,toeachhisown.to,premium,,,62,1,15,,,
@@ -403,7 +404,7 @@ f2421a97-d5f6-4668-a231-55cb91bab35f,winning.to,resell,,,70,26,7,NAMECHEAP,25/09
 6d3cbb46-bc8c-4323-9abb-e592e2f4c47a,pinkelephant.to,premium,,,64,7,13,,,
 964bb861-ccce-4418-bf42-30c9f46faec7,atleast.to,premium,,,65,3,8,,,
 94a10bd5-7f79-4385-b7b8-ce18c070eb78,exclusively.to,resell,,,56,5,11,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-ba5a2a7f-046e-49b8-ae5e-2953bc28677c,may.to,resell,,,76,32,3,NAMECHEAP,07/12/2024 02:27,01/08/2026 00:00
+ba5a2a7f-046e-49b8-ae5e-2953bc28677c,may.to,resell,,,76,30,3,NAMECHEAP,07/12/2024 02:27,01/08/2026 00:00
 be643197-06bc-407d-98e2-6600bff2ca54,Christmastree.to,premium,,,78,11,14,,,
 feadd042-7e59-4997-9eb3-05e21f221c16,granddaughterinlaw.to,premium,,,80,1,20,,,
 e20c4f2f-5add-4cd3-972a-0b1390abcf04,warranty.to,resell,,,90,15,8,NAMECHEAP,14/08/2023 02:27,01/08/2026 00:00
@@ -434,7 +435,7 @@ ced42f59-032d-4df1-bbeb-b4e8aaa98164,grandslam.to,premium,,,78,13,10,,,
 d2640d43-ae97-4170-a83c-533a0f02373e,anarmandaleg.to,premium,,,64,1,16,,,
 62262101-c5fa-4958-aa7d-a24ca7e94755,blurred.to,premium,,,62,10,7,,,
 bcb190f0-4308-4341-b9be-997cdd2c2ee0,scrubbed.to,premium,,,60,6,8,,,
-1729f15d-486c-48c6-be22-eb1e48ddb67c,camouflage.to,resell,,,90,12,10,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
+1729f15d-486c-48c6-be22-eb1e48ddb67c,camouflage.to,resell,,,90,10,10,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 ab5e9b18-6cb2-4d9f-8629-c596b9003831,wakening.to,premium,,,75,2,8,,,
 0af497ce-0eb4-42f1-8259-f4aed28c422c,atthesightof.to,premium,,,50,1,15,,,
 9d2e47a8-a2bc-4dcb-a038-7f447d900829,quitean.to,premium,,,64,1,8,,,
@@ -486,7 +487,7 @@ fc657a05-c639-4658-a9bc-e2ab9af5f96d,particles.to,premium,,,,8,9,,,
 b8b4b8fd-2182-4b74-9ca7-cb329afc972e,supplier.to,resell,,,72,17,8,NAMECHEAP,05/09/2023 11:03,05/09/2026 11:03
 4e29a5bf-dbef-4883-81c4-818283b129fe,manytime.to,premium,,,58,1,9,,,
 dd23aafe-fe09-4cd5-803a-717afbe01d99,bordered.to,premium,,,62,2,8,,,
-883ce20c-53a4-4ef6-b40f-ac917b0e6163,cheese.to,resell,,,116,30,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+883ce20c-53a4-4ef6-b40f-ac917b0e6163,cheese.to,resell,,,116,28,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 154fce7b-5b5e-47d6-870a-b1d845668584,reversible.to,premium,,,81,8,10,,,
 e22ef4b7-cce1-4429-8dd7-3f69ef74bd5d,shoe.to,resell,,,72,20,4,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 1ebd579a-b48c-4166-a49d-6d0133405fce,marooned.to,premium,,,50,3,8,,,
@@ -504,7 +505,7 @@ a445d471-29bb-4a9a-988c-cc4d0bdd05dd,chiefly.to,premium,,,80,3,7,,,
 f16746d5-44c3-4f05-9661-5764e2b94fc6,monkey.to,resell,,,66,38,6,NAMECHEAP,17/09/2023 02:27,01/08/2028 00:00
 b6605864-45de-4506-b4a7-988c3413b052,ifthat.to,premium,,,61,1,7,,,
 2e014329-262a-4769-b8a4-02e6809e7fa3,below.to,available,29.98,,66,10,5,namecheap,,
-1ad6a7f2-b856-443b-981f-2b8bbdb2e9e6,impulse.to,resell,,,96,30,7,NAMECHEAP,02/09/2023 01:32,02/09/2026 01:32
+1ad6a7f2-b856-443b-981f-2b8bbdb2e9e6,impulse.to,resell,,,96,28,7,NAMECHEAP,02/09/2023 01:32,02/09/2026 01:32
 f00e7c8b-f2b7-4923-9918-8e965d43d6e2,scotch.to,resell,,,86,14,6,NAMECHEAP,11/07/2022 02:27,01/08/2026 00:00
 1a76c7cb-c935-4cba-b42f-7e71d6235544,working.to,resell,,,80,22,7,NAMECHEAP,03/10/2023 02:27,01/08/2026 00:00
 ed02b2e8-315b-443b-9625-2e86873f0f01,capitalise.to,premium,,,72,4,10,,,
@@ -512,7 +513,7 @@ a5c5c83c-6c34-4344-9978-8458ed2befce,disassemble.to,premium,,,64,3,11,,,
 31301f9d-beb2-4bfb-a5bb-3f1b34859438,bloodpressure.to,premium,,,74,6,14,,,
 52c093c8-197f-4dad-8869-4f6d4e9368b9,supper.to,premium,,,98,12,6,,,
 57641704-affe-4a21-b80f-4ff90f29f497,structure.to,resell,,,94,25,9,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-12b3dd19-5f0f-42d9-9c5c-be4ddd3d2931,clock.to,resell,,,62,22,5,NAMECHEAP,20/09/2023 02:27,01/08/2026 00:00
+12b3dd19-5f0f-42d9-9c5c-be4ddd3d2931,clock.to,resell,,,62,21,5,NAMECHEAP,20/09/2023 02:27,01/08/2026 00:00
 4efc5318-e53a-42f5-868e-2c5706e42dda,terrified.to,premium,,,50,3,9,,,
 3a38eba0-b90c-4856-a8e5-92153bf31588,giveortake.to,premium,,,48,1,12,,,
 a2556096-7e09-459c-a7f4-648b1295c457,pubquiz.to,premium,,,,6,8,,,
@@ -531,16 +532,16 @@ df94bd5f-eb15-4f78-b416-fe68771670a0,makethefirstmove.to,premium,,,74,2,19,,,
 aeea8a93-503b-451b-af4d-3b86eab8c851,deejay.to,premium,,,100,13,6,,,
 91d366e1-1453-4b57-8591-b0cab368a6ad,havesecondthoughts.to,premium,,,64,1,20,,,
 cd3ab7f0-1958-4585-a3b0-81c4e7331fda,extendto.to,premium,,,74,1,9,,,
-36491ad7-1902-496e-b417-77898c629fec,glitter.to,resell,,,96,20,7,NAMECHEAP,15/02/2023 02:27,01/08/2026 00:00
+36491ad7-1902-496e-b417-77898c629fec,glitter.to,resell,,,96,17,7,NAMECHEAP,15/02/2023 02:27,01/08/2026 00:00
 e5e58a93-4e6a-4048-bb57-7034234d3487,respects.to,premium,,,76,4,8,,,
-26f21242-c5ad-48a7-8c00-612162c99690,cent.to,resell,,,74,16,4,NAMECHEAP,12/07/2022 02:27,01/08/2026 00:00
+26f21242-c5ad-48a7-8c00-612162c99690,cent.to,resell,,,74,14,4,NAMECHEAP,12/07/2022 02:27,01/08/2026 00:00
 9778df19-0cb4-49ba-8217-42953787b5dc,Frenchvanilla.to,premium,,,58,2,14,,,
 d6b20823-493e-4ffe-9674-93927a9d516e,tothepowerof.to,premium,,,50,1,15,,,
 b490b09a-478f-4e55-95dd-d2ff2483c618,tough.to,premium,,,122,14,5,,,
 c39f76a6-9eff-4f30-8aa0-d4628417cd2f,jetace.to,premium,,,62,1,7,,,
 0ecb8aa5-90a8-4b07-a762-9463eaae1ba9,potterabout.to,premium,,,,1,12,,,
 4b113c0b-a393-46d8-804a-4e5458c633fc,dauntless.to,premium,,,66,13,9,,,
-b686e6da-8bc5-4988-8992-64d11753235d,costs.to,resell,,,70,9,5,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
+b686e6da-8bc5-4988-8992-64d11753235d,costs.to,resell,,,70,7,5,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 4989d7de-0457-447b-a6d8-1ab7e54942d7,reporting.to,resell,,,66,15,9,NAMECHEAP,12/05/2024 02:27,01/08/2026 00:00
 2f3ff024-0d77-4935-84c5-284a5a2378ed,saveup.to,premium,,,,3,7,,,
 ff9e882e-6965-4363-bd9d-b4df315df1dc,larger.to,premium,,,76,7,6,,,
@@ -586,7 +587,7 @@ bb4ebe8c-ad21-40c8-81c3-0c1badcb20fc,reticent.to,premium,,,61,4,8,,,
 f99a71af-e43c-4037-947d-5ecff94abbb9,brainwash.to,premium,,,80,7,9,,,
 23e411be-ca14-4da7-b7b4-44f94ff19759,undeveloped.to,premium,,,,3,11,,,
 4a2edbfe-cdc9-4743-b07e-6f08c917980c,teaplant.to,premium,,,73,2,9,,,
-3407ebcb-9c31-44e7-81b2-4b4596f04611,luck.to,resell,,,78,36,4,NAMECHEAP,19/05/2023 02:27,01/08/2026 00:00
+3407ebcb-9c31-44e7-81b2-4b4596f04611,luck.to,resell,,,78,30,4,NAMECHEAP,19/05/2023 02:27,01/08/2026 00:00
 dd9242f4-364c-4ec7-b3eb-fe7ffa04a933,Atacama.to,premium,,,62,8,7,,,
 208bf601-a1fe-4081-a531-5f80aa97741e,enterin.to,premium,,,66,1,10,,,
 41917960-9744-4442-bcd5-d7b2d61542e3,really.to,resell,,,112,23,6,NAMECHEAP,09/03/2023 02:27,01/08/2026 00:00
@@ -607,7 +608,7 @@ efbb75e2-a6ca-4262-b8fb-28e71835186c,getofftheground.to,premium,,,75,2,18,,,
 78e72dd4-8b25-4576-a261-dc6f6e7a40ea,ranking.to,resell,,,94,22,7,NAMECHEAP,22/02/2023 02:27,01/08/2026 00:00
 db9fb2af-4a28-4932-ab02-c207cca395e4,sperm.to,resell,,,72,13,5,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
 d3c15dd1-4411-4368-b6d8-3568e2230047,maxim.to,resell,,,79,25,5,NAMECHEAP,07/08/2025 01:23,07/08/2026 01:23
-0eac6f85-997a-429d-bc09-28db4a328039,commission.to,resell,,,84,16,10,NAMECHEAP,13/11/2025 06:27,13/11/2026 06:27
+0eac6f85-997a-429d-bc09-28db4a328039,commission.to,resell,,,84,15,10,NAMECHEAP,13/11/2025 06:27,13/11/2026 06:27
 abff33a9-dc4a-4682-99b3-4d130ad920c5,oddnumbered.to,premium,,,,1,12,,,
 f230dd45-7ba8-4d3a-8b60-4436db934ddb,since.to,premium,,,74,13,5,,,
 9b1976e5-cfa7-4d37-a777-1b2585d9d1b3,cometomind.to,premium,,,70,1,12,,,
@@ -685,12 +686,12 @@ b8dd01ac-e7bb-48e9-843f-d93b5307433e,MiddleAges.to,premium,,,58,2,11,,,
 b615e030-cd8a-41b1-be05-a798424deac7,pubichair.to,premium,,,,2,10,,,
 48b36402-5cf6-4dc7-bd2f-73698e462d28,middleage.to,premium,,,58,3,10,,,
 2322fd99-5380-4b7b-b9dd-200b159ea501,foodcoma.to,premium,,,64,3,9,,,
-9053174d-20e8-4c48-9ff0-07ea54612da1,climate.to,resell,,,94,39,7,NAMECHEAP,17/01/2024 02:27,01/08/2028 00:00
+9053174d-20e8-4c48-9ff0-07ea54612da1,climate.to,resell,,,94,38,7,NAMECHEAP,17/01/2024 02:27,01/08/2028 00:00
 65ed2e06-8301-479b-b34b-8c8501e8c517,contest.to,resell,,,96,18,7,NAMECHEAP,02/07/2023 02:27,01/08/2026 00:00
 9f8007f0-61f6-485e-b487-6f5df6a0909e,envious.to,available,29.98,,62,7,7,namecheap,,
 0d9875d8-c2d9-4ffe-b6c4-5d45a4d59ced,abit.to,available,29.98,,66,15,5,namecheap,,
 74c259e1-becf-4330-bea5-f103a4057bd2,saler.to,premium,,,68,5,5,,,
-06b402d5-13d2-465a-bf45-1010773171e1,dentist.to,resell,,,74,27,7,NAMECHEAP,23/04/2024 02:27,01/08/2026 00:00
+06b402d5-13d2-465a-bf45-1010773171e1,dentist.to,resell,,,74,26,7,NAMECHEAP,23/04/2024 02:27,01/08/2026 00:00
 65990c0c-d08b-4b07-ad8b-2927d4d1292d,haircut.to,premium,,,95,11,7,,,
 62de5b51-a0dd-4398-837a-12c9ec63f191,abovewritten.to,available,29.98,,58,1,13,namecheap,,
 cc31aeab-26a4-45a9-9ba2-8b81594dffee,Idoubtit.to,premium,,,54,2,10,,,
@@ -701,9 +702,9 @@ c90c9a17-0745-4892-86cd-486e715ce094,bass.to,resell,,,64,27,4,NAMECHEAP,25/09/20
 edc04c7b-5e6a-4171-bb05-a0cc61bd6c7c,retrieve.to,premium,,,92,8,8,,,
 1f82d8a8-e90e-45cd-857e-3959725ff529,memorise.to,premium,,,80,6,8,,,
 21aa86cf-f1ea-45f1-bb2b-0850abb657c1,Philadelphia.to,resell,,,74,14,12,NAMECHEAP,07/08/2025 01:24,07/08/2026 01:24
-13973819-a91b-4838-b4b7-9b5d797de9cd,marihuana.to,premium,,,67,14,9,,,
+13973819-a91b-4838-b4b7-9b5d797de9cd,marihuana.to,premium,,,67,11,9,,,
 0b660988-ab0f-4f46-b59c-248d151e9e3b,racingline.to,premium,,,76,4,11,,,
-733d9508-e169-4231-b49a-d611afce7f32,exhaustion.to,premium,,,46,5,10,,,
+733d9508-e169-4231-b49a-d611afce7f32,exhaustion.to,premium,,,46,3,10,,,
 268863ef-344d-4f8a-af6c-af48aeba8723,beatenup.to,premium,,,44,1,9,,,
 6b4549b4-5f07-4607-a7b4-8a721768a1c3,strategic.to,resell,,,70,27,9,NAMECHEAP,07/08/2025 01:23,07/08/2026 01:23
 c2f45096-a5b5-4dc2-85af-2f93b0df4874,technique.to,resell,,,74,11,9,NAMECHEAP,13/01/2024 02:27,01/08/2026 00:00
@@ -730,7 +731,7 @@ ec7ae981-feb9-43b3-acc3-5bed514e8acc,thorpe.to,premium,,,69,12,6,,,
 2445ceed-7af0-4618-b772-829c4976cc60,howwouldIknow.to,premium,,,52,1,16,,,
 265c9d36-0e01-41ae-bbf7-b2f38afb1990,generalpractice.to,premium,,,72,4,16,,,
 5cda10d5-07ff-4fde-93ef-d762228b9286,rectangle.to,premium,,,80,13,9,,,
-e8066751-6330-4580-b77d-d009b0532b10,cinnamon.to,premium,,,68,19,8,,,
+e8066751-6330-4580-b77d-d009b0532b10,cinnamon.to,premium,,,68,18,8,,,
 da0f1541-b859-4673-8dc2-b546a6fc1632,willingness.to,premium,,,,2,11,,,
 0a80301d-2c83-41d3-a6a2-f41a00cd7109,amiable.to,available,29.98,,80,6,7,namecheap,,
 612c70af-1a52-4c57-804e-ed855e86b7fb,watercooler.to,premium,,,84,10,12,,,
@@ -812,13 +813,13 @@ ea863906-05cc-40bd-83d3-08ea35011ce9,whom.to,premium,,,,6,4,,,
 c21c6c3f-5487-4fb8-85b7-e780565bf0b4,dragrace.to,premium,,,96,3,9,,,
 c052c97c-c56b-4d8f-a341-e72beae9866e,retained.to,premium,,,64,4,8,,,
 db5c091e-080a-4f6d-8524-a6faceac4c00,nineteen.to,available,29.98,,84,9,8,namecheap,,
-6508c737-e171-4492-96ca-a11e8624be69,fascinate.to,resell,,,84,9,9,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+6508c737-e171-4492-96ca-a11e8624be69,fascinate.to,resell,,,84,6,9,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 c5403edf-19e2-49a6-8958-47e4d06b884b,conflicted.to,premium,,,58,3,10,,,
 2730b12e-bc10-48d6-8d36-a99646ab4d28,portuguese.to,resell,,,92,11,10,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 366fd987-57d8-49e9-a3b0-cd3651b0dc24,hangloose.to,premium,,,78,4,10,,,
 952ec5ff-be3d-45a4-9eb6-edd5cc91a9de,lunchmeat.to,premium,,,74,2,10,,,
 e1c23e3b-b9d2-49ef-b320-cf388d175e0a,selfworth.to,premium,,,78,5,10,,,
-8754fd80-a566-4a24-b535-895ed901158e,turmeric.to,premium,,,72,10,8,,,
+8754fd80-a566-4a24-b535-895ed901158e,turmeric.to,premium,,,72,9,8,,,
 51f32ada-df1c-437e-9d00-cbd31b5829e4,informed.to,resell,,,78,21,8,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 bde60377-2fd8-43c2-a585-618ee26054e9,trafficsign.to,premium,,,66,4,12,,,
 101d1077-9006-4423-9c7d-9b74ee6ff8d3,arts.to,resell,,,76,30,4,NAMECHEAP,16/07/2023 02:27,01/08/2026 00:00
@@ -835,11 +836,11 @@ c73da7f9-913b-49a7-a4d9-b3e722643a23,supernatural.to,resell,,,84,21,12,NAMECHEAP
 2c67f6a2-d3c1-4e8f-90a8-92c67d096e94,faith.to,resell,,,78,33,5,NAMECHEAP,09/04/2023 02:27,01/08/2026 00:00
 37ea0046-c616-4a87-b642-8b67306fa5fc,relish.to,resell,,,104,13,6,NAMECHEAP,25/08/2025 18:43,25/08/2026 18:43
 7ebdf53f-6227-4c38-8749-e0800d10ea7e,qualification.to,premium,,,,6,13,,,
-e84bd8a3-01ee-4eb7-8af9-1365731a87e2,lockbox.to,resell,,,68,15,7,NAMECHEAP,25/04/2024 02:27,01/08/2028 00:00
+e84bd8a3-01ee-4eb7-8af9-1365731a87e2,lockbox.to,resell,,,68,14,7,NAMECHEAP,25/04/2024 02:27,01/08/2028 00:00
 f623d827-5123-46cd-bfb6-69b20b97761c,ear.to,resell,,,78,25,3,NAMECHEAP,14/07/2023 02:27,01/08/2026 00:00
 820bc2c4-92f5-46ae-af2c-a390b0291b88,solongas.to,premium,,,,1,10,,,
 95b8d224-8e23-4468-a167-f41c97599073,adjustable.to,available,29.98,,84,6,10,namecheap,,
-74799765-d069-4d96-8d53-33c06be70a4b,hole.to,resell,,,60,21,4,NAMECHEAP,05/11/2023 02:27,01/08/2028 00:00
+74799765-d069-4d96-8d53-33c06be70a4b,hole.to,resell,,,60,19,4,NAMECHEAP,05/11/2023 02:27,01/08/2028 00:00
 f30c063d-a6a0-418d-acaf-c0ae6ce77ad3,acrosstheboard.to,premium,,,72,4,16,,,
 12953baf-8428-4afc-beab-0e7f9f72261c,wrecked.to,premium,,,60,6,7,,,
 8596eccd-6bc3-4eaa-b140-a114601af332,psychic.to,resell,,,85,24,7,NAMECHEAP,07/08/2025 00:36,07/08/2026 00:36
@@ -853,7 +854,7 @@ d85c24e7-1d1a-490c-9933-22913daf1bd8,pissabout.to,premium,,,,1,10,,,
 eccff79f-981c-40c1-b371-972d8c68e979,illuminated.to,premium,,,72,9,11,,,
 0db97008-a023-48eb-919b-b58417018761,safersex.to,premium,,,,2,9,,,
 1975a333-28c3-4d2e-a468-3d9a9ce3e212,corresponding.to,premium,,,84,2,13,,,
-faa158ba-6743-48ae-904b-eae0659e2e1d,courtyard.to,premium,,,70,13,9,,,
+faa158ba-6743-48ae-904b-eae0659e2e1d,courtyard.to,premium,,,70,11,9,,,
 d260df2c-68a6-4ec8-a58b-642cf417ddc3,therealityis.to,premium,,,,1,14,,,
 3bf43e9c-cd3e-4bea-8bf4-547fe9e3eb5e,relief.to,resell,,,98,22,6,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
 6353d62d-87ed-48f1-86a4-8069b6f557bf,nutritious.to,available,29.98,,80,6,10,namecheap,,
@@ -880,7 +881,7 @@ b404e8d7-f528-4772-bc10-9a7518d4e5de,baggagecarousel.to,premium,,,68,1,16,,,
 0bf85b8f-7411-4fbe-8e06-e58055e62e99,havethetime.to,premium,,,72,1,13,,,
 71e4a9e0-6cf4-4c36-b9a2-41ae59d4ea99,freshaspaint.to,premium,,,66,1,14,,,
 f5a26cee-1c84-41a0-92a1-610d971641cb,caper.to,premium,,,92,9,5,,,
-77c2ca13-d22e-4824-83bf-c725b4ade6ff,checkout.to,resell,,,68,28,9,NAMECHEAP,29/05/2024 02:27,01/08/2026 00:00
+77c2ca13-d22e-4824-83bf-c725b4ade6ff,checkout.to,resell,,,68,79,9,NAMECHEAP,29/05/2024 02:27,01/08/2026 00:00
 fa4c0871-7833-40b5-b85e-d6094e9b8820,enterinto.to,premium,,,66,1,10,,,
 3ff99785-e618-4c72-b55f-b5a7869eabb5,whoever.to,premium,,,,5,7,,,
 3d5ca61d-e3a0-4755-a855-1fe73ddbf193,walkietalkie.to,resell,,,76,9,13,NAMECHEAP,01/07/2024 02:27,01/08/2026 00:00
@@ -895,7 +896,7 @@ f1c2a337-3765-4bc8-9663-2fa20024976f,seventyfour.to,premium,,,70,4,12,,,
 72be1467-d5b1-42c5-9876-53bf22b55fc7,taxassessment.to,premium,,,62,2,14,,,
 420cd3c3-b44c-4606-99b2-54dca9f73efe,antenatal.to,premium,,,70,3,9,,,
 7f86e52a-4254-4a1d-a60a-9a26a31d6de0,learned.to,resell,,,71,11,7,NAMECHEAP,31/05/2024 02:27,01/08/2026 00:00
-ad8bdeae-9c21-4ae4-9c73-bb72fb485a86,executing.to,premium,,,60,5,9,,,
+ad8bdeae-9c21-4ae4-9c73-bb72fb485a86,executing.to,premium,,,60,3,9,,,
 2ef30991-578b-4f29-8388-1ff6446873dc,generically.to,premium,,,52,1,11,,,
 cacdd01b-3f6c-4304-9231-809254b20cd2,furthest.to,premium,,,58,2,8,,,
 47adb633-5130-4afa-ae21-b08d111de965,orchestra.to,resell,,,76,24,9,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
@@ -910,7 +911,7 @@ eaf05019-54aa-40fc-9673-793e7e548e2e,chemicalweapon.to,premium,,,52,1,15,,,
 795b6205-ed19-4b59-9294-a9696108ee7f,saddle.to,premium,,,96,11,6,,,
 ba858763-974f-48e7-9d3d-09dda0514375,tohell.to,premium,,,,2,7,,,
 f229a355-89bd-46c5-9dc0-4a65fc1efe86,atall.to,premium,,,66,4,6,,,
-420e8492-bb50-4e8b-91b2-c0639ada5560,cameraman.to,premium,,,77,8,9,,,
+420e8492-bb50-4e8b-91b2-c0639ada5560,cameraman.to,premium,,,77,7,9,,,
 06407b55-6913-496e-a128-ba57de2f439a,forward.to,resell,,,68,38,7,Government of Kingdom of Tonga,30/07/1999 06:21,19/09/2026 23:00
 30782aca-0ae2-40f3-bddc-4524a262a49e,youngatheart.to,premium,,,,3,14,,,
 0304da3c-9134-43a0-989c-18169d8f00f5,pokeabout.to,premium,,,,1,10,,,
@@ -944,7 +945,7 @@ fda32ad1-37a2-46c8-927f-a3f06ed26bbe,adaptive.to,resell,,,76,32,8,NAMECHEAP,13/0
 ada38498-037f-4265-ad63-8ebdcd915884,sailor.to,resell,,,70,17,6,NAMECHEAP,28/09/2023 02:27,01/08/2028 00:00
 79314d9a-8f78-4831-92e7-5548b3554ce2,Ann.to,resell,,,74,17,3,NAMECHEAP,28/02/2024 02:27,01/08/2028 00:00
 4a936f75-880c-46e7-a42d-7af01f7c6c91,Nutella.to,premium,,,72,9,7,,,
-dc72d6dd-1697-45d7-afec-fe21319cbcdd,pig.to,resell,,,70,24,3,NAMECHEAP,10/04/2024 03:10,13/05/2026 22:13
+dc72d6dd-1697-45d7-afec-fe21319cbcdd,pig.to,resell,,,70,21,3,NAMECHEAP,10/04/2024 03:10,13/05/2026 22:13
 32935b48-db79-4a75-aaae-3e8fed158d25,brass.to,resell,,,108,19,5,NAMECHEAP,05/09/2022 02:27,01/08/2026 00:00
 f9289bd8-00f3-4d10-986c-e8807985286d,moveinto.to,premium,,,75,1,9,,,
 808f757e-fcd1-4662-a83a-dbc7fee87b36,vomiting.to,premium,,,60,5,8,,,
@@ -989,12 +990,12 @@ e6699273-c422-4c9f-8081-01402e915ba0,diversify.to,premium,,,74,12,9,,,
 cc37e391-6083-4b79-bbbe-e909572cdb86,muckabout.to,premium,,,,2,10,,,
 7e4f2979-29f9-4a14-b8ee-3a78c1f57862,hardwork.to,premium,,,72,9,9,,,
 25e7daac-413e-4d6a-9380-0d5c5cda8083,animals.to,resell,,,64,18,7,NAMECHEAP,07/08/2025 00:34,07/08/2026 00:34
-b3953985-26e5-4b6f-bbf6-39d6b6d37345,nashville.to,resell,,,86,28,9,NAMECHEAP,16/10/2023 02:27,01/08/2028 00:00
+b3953985-26e5-4b6f-bbf6-39d6b6d37345,nashville.to,resell,,,86,25,9,NAMECHEAP,16/10/2023 02:27,01/08/2028 00:00
 282be74b-e34b-4bad-9e82-02463f4b4267,graywolf.to,premium,,,70,6,9,,,
 67efa1ea-26e4-4a46-aa35-56ab8c83024e,trafficlights.to,premium,,,,3,14,,,
 1a896802-0e20-4bb7-8e5b-587af9805025,aids.to,resell,,,66,12,4,NAMECHEAP,25/02/2025 02:27,01/08/2026 00:00
 6be555b3-69b9-4a66-829d-13cb562c49de,decide.to,resell,,,74,19,6,NETIM SARL,04/12/2025 02:01,04/12/2026 02:01
-b9b7ebe0-5f8b-459d-aeee-631de4bbc1c3,detective.to,resell,,,86,22,9,NAMECHEAP,28/05/2024 19:40,28/05/2026 19:40
+b9b7ebe0-5f8b-459d-aeee-631de4bbc1c3,detective.to,resell,,,86,21,9,NAMECHEAP,28/05/2024 19:40,28/05/2026 19:40
 2af62646-5346-4399-8eb9-e136e3edaac3,valued.to,premium,,,74,14,6,,,
 c7d959f9-acec-4154-8511-f4d59b56cef9,applaud.to,resell,,,100,9,7,NAMECHEAP,09/11/2023 02:27,01/08/2026 00:00
 b2c3be4a-6556-4b79-821d-5cf905512c22,experimentally.to,premium,,,56,2,14,,,
@@ -1012,7 +1013,7 @@ a5a4a07b-37e0-434e-a7c7-366ab28686ac,serveup.to,premium,,,74,6,8,,,
 4f046c32-6fa7-4737-a51e-df61203dbe41,gelpen.to,premium,,,82,1,7,,,
 8e63530f-75ce-43ae-a464-3488cfe67fc6,RedSquare.to,premium,,,,7,10,,,
 10d914b9-a228-4f58-af73-b82f4f54ae33,schoolbook.to,premium,,,,4,11,,,
-d06b482c-d87b-4c39-a85b-183c3950e120,madison.to,resell,,,78,28,7,NAMECHEAP,09/05/2021 02:27,01/08/2026 00:00
+d06b482c-d87b-4c39-a85b-183c3950e120,madison.to,resell,,,78,26,7,NAMECHEAP,09/05/2021 02:27,01/08/2026 00:00
 8a16a68f-ee0d-42a2-a773-fcefa1936fe8,thankyou.to,resell,,,100,23,9,NAMECHEAP,27/03/2023 02:27,01/08/2026 00:00
 730f2f6e-cfa7-4f9a-b65b-ef1edd0a7a32,downtown.to,resell,,,94,20,8,NAMECHEAP,11/07/2025 02:27,01/08/2026 00:00
 17cffa70-0df1-4cf2-8196-4e93c20017bd,pieceofpaper.to,premium,,,,2,14,,,
@@ -1031,15 +1032,15 @@ a33ded5c-f5dc-43a9-b134-35018932ea9a,quite.to,resell,,,106,10,5,NAMECHEAP,25/09/
 9832f2cf-415b-4933-a4e2-621da0471dbe,pink.to,resell,,,89,34,4,NAMECHEAP,13/05/2023 02:27,01/08/2026 00:00
 cad23fd1-25d3-4975-98b2-c34285539d0c,fellowcitizen.to,premium,,,48,1,14,,,
 5616e40a-8c71-453a-9efb-f2859a8c98fe,sundeck.to,premium,,,76,5,8,,,
-3f41582c-c85b-45e3-87e2-d40fffcfca1b,connection.to,resell,,,68,27,10,Government of Kingdom of Tonga,02/07/2022 01:17,01/06/2026 03:28
+3f41582c-c85b-45e3-87e2-d40fffcfca1b,connection.to,resell,,,68,24,10,Government of Kingdom of Tonga,02/07/2022 01:17,01/06/2026 03:28
 fc868aa4-d8d3-411b-988b-3018c93fef2a,oreo.to,premium,,,78,14,4,,,
 0bf6f01d-e1cb-4d6d-ab74-2d64f5ddcb9d,sure.to,resell,,,110,19,4,NAMECHEAP,07/01/2024 07:51,30/12/2026 02:14
 4ce6facb-a5c1-4b3b-a061-1d892c103af4,somewhat.to,premium,,,80,8,8,,,
-87b1ab82-573a-409a-857d-32108daf940e,colombo.to,premium,,,74,16,7,,,
+87b1ab82-573a-409a-857d-32108daf940e,colombo.to,premium,,,74,14,7,,,
 8b01030b-3810-49e1-9b88-03c8a2c70fcf,accountancy.to,premium,,,64,10,11,,,
 a3e0039b-b871-4ead-b275-36847584957a,creatively.to,premium,,,66,6,10,,,
 6a81da2e-2ed1-4619-9c8a-4ecdd83a2021,gointo.to,premium,,,78,4,7,,,
-87626494-73b6-4fdc-bcc4-b50b4b0c16de,glance.to,resell,,,92,18,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+87626494-73b6-4fdc-bcc4-b50b4b0c16de,glance.to,resell,,,92,17,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 de288790-e45c-44fd-b23f-ed97aa01674c,plague.to,premium,,,84,10,6,,,
 c6e83c6d-31e2-4d41-bcaf-88f37c729c4c,asyouknow.to,premium,,,46,1,11,,,
 81d6b2b8-f55b-454c-832e-f0b0279da6be,abandoned.to,available,29.98,,58,10,9,namecheap,,
@@ -1052,9 +1053,9 @@ ceade21b-5270-4d7e-bfcc-a6b25994cbd4,contraband.to,premium,,,96,8,10,,,
 c78aae0e-fbff-4bf2-80d9-9aa8974a2201,atthemoment.to,premium,,,74,3,13,,,
 651fccf1-a532-4d63-b125-5400ce3660d4,told.to,resell,,,,7,4,NAMECHEAP,16/04/2023 02:27,01/08/2026 00:00
 676c3ce5-6a42-4e4a-87dc-e41bf2947fc4,Cindy.to,resell,,,80,13,5,NAMECHEAP,07/08/2025 00:37,07/08/2026 00:37
-5a40ed4b-a20c-4c76-ad34-f080f57cee77,toying.to,premium,,,68,4,6,,,
+5a40ed4b-a20c-4c76-ad34-f080f57cee77,toying.to,premium,,,68,3,6,,,
 86289ea6-c46f-4e07-a1f8-961f37c69eb3,booted.to,premium,,,66,3,6,,,
-3c4882f4-6673-49e8-9cf4-ab7f3267e292,casket.to,premium,,,84,10,6,,,
+3c4882f4-6673-49e8-9cf4-ab7f3267e292,casket.to,premium,,,84,8,6,,,
 f8ede581-a37a-460d-9bb3-a141bf8bf944,felt.to,resell,,,76,16,4,NAMECHEAP,13/11/2025 00:30,13/11/2026 00:30
 b13122c0-14be-47d1-bf56-675ed969abe8,none.to,resell,,,86,21,4,NAMECHEAP,27/06/2023 02:27,01/08/2026 00:00
 45d8420b-e04b-42d3-8294-20764ffc1f00,keytothecity.to,premium,,,74,3,15,,,
@@ -1089,8 +1090,8 @@ fb0105a0-1fcb-4ef8-8457-749450594d25,roughly.to,available,29.98,,62,6,7,namechea
 24ee7828-8bdd-44b2-a80b-4badf4cbbbf0,toilet.to,resell,,,86,15,6,NAMECHEAP,07/08/2025 00:36,07/08/2026 00:36
 2a2cb532-b74c-4255-b5db-080fddf60601,arabic.to,resell,,,96,22,6,NAMECHEAP,02/01/2024 02:27,01/08/2026 00:00
 06e9d803-a3c7-4481-bf94-065828068e5f,naturalperson.to,premium,,,,1,14,,,
-ef85b10d-a34e-410e-beac-1a49c7ab06ca,condiment.to,premium,,,95,7,9,,,
-30f3df04-43f8-4f5a-bf00-a85cf567bdd6,disguise.to,premium,,,87,11,8,,,
+ef85b10d-a34e-410e-beac-1a49c7ab06ca,condiment.to,premium,,,95,4,9,,,
+30f3df04-43f8-4f5a-bf00-a85cf567bdd6,disguise.to,premium,,,87,9,8,,,
 cc1f3bbe-4d0f-4a01-9c4c-5c274f180cdb,foolish.to,available,29.98,,60,15,7,namecheap,,
 b2780f32-d614-4627-a41f-b52fd0107511,financial.to,resell,,,62,28,9,NAMECHEAP,20/06/2023 13:50,20/06/2027 13:50
 bc964671-89ad-4f9b-846e-7acf6430bfda,sympathize.to,premium,,,79,2,10,,,
@@ -1144,7 +1145,7 @@ a8ba6afe-bdfb-44b0-b77a-a4c8a86c0f68,ifyouaskme.to,premium,,,57,2,13,,,
 69646de0-eee9-4e64-b22e-4ec786b0f43a,makelemonade.to,premium,,,76,4,13,,,
 9bdb2da3-0253-4c9e-851b-e3fc3b305451,mothafucka.to,premium,,,62,1,10,,,
 792e89aa-e564-4bef-9baf-e7f380504161,bar.to,resell,,,86,37,3,NAMECHEAP,10/05/2023 02:27,01/08/2026 00:00
-50d12057-73c5-4609-ac35-fc55bfbe2db4,yell.to,resell,,,60,16,4,NAMECHEAP,04/12/2024 02:27,01/08/2026 00:00
+50d12057-73c5-4609-ac35-fc55bfbe2db4,yell.to,resell,,,60,15,4,NAMECHEAP,04/12/2024 02:27,01/08/2026 00:00
 730b5f54-675b-40ab-a0c3-6b529439b94a,develop.to,resell,,,80,26,7,NAMECHEAP,26/05/2024 02:27,01/08/2026 00:00
 ea92a1ea-139a-4b8c-916d-5f6c43e4ba6d,inch.to,resell,,,64,13,4,NAMECHEAP,20/03/2023 02:27,01/08/2026 00:00
 a0dc86d4-3e6d-4a9a-9c03-f52327ff65e5,tours.to,resell,,,70,21,5,NAMECHEAP,30/09/2023 02:27,01/08/2026 00:00
@@ -1180,13 +1181,13 @@ a67ca043-9a2f-4488-ae85-23f53e900f57,rootbeer.to,premium,,,,6,9,,,
 e371a6c9-02ec-44fc-8ff8-c4b4cc768c12,granddad.to,premium,,,78,3,8,,,
 23964e3c-a889-49ef-9b79-66ecde7ab00a,controlling.to,resell,,,78,8,11,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 47bbf632-a2c6-4d61-a690-f0631ae73975,nailclipper.to,premium,,,68,1,12,,,
-8fb7ee9f-f75c-47c9-aff3-2bb3bffa5e34,roller.to,resell,,,70,19,6,NAMECHEAP,25/08/2025 18:43,25/08/2026 18:43
+8fb7ee9f-f75c-47c9-aff3-2bb3bffa5e34,roller.to,resell,,,70,18,6,NAMECHEAP,25/08/2025 18:43,25/08/2026 18:43
 6286974d-452d-417b-bc35-34b73e75d7e0,accountstatement.to,premium,,,66,1,17,,,
 b4b04a10-7b88-4c77-842c-a188ddb6263b,intears.to,premium,,,44,1,8,,,
 30c29127-3ae9-479e-8fd0-d7bb65c0cf13,wellcovered.to,premium,,,70,1,12,,,
 91f88f9b-3084-4466-99fa-11511e54d548,eve.to,resell,,,78,41,3,NAMECHEAP,08/05/2023 02:27,01/08/2026 00:00
 e65fca11-9414-4a0d-9394-0b253a346edd,knowof.to,premium,,,68,1,7,,,
-68532fd9-5e93-437b-b8c0-4c2c13c93c62,lisboa.to,premium,,,66,16,6,,,
+68532fd9-5e93-437b-b8c0-4c2c13c93c62,lisboa.to,premium,,,66,13,6,,,
 1faa52c4-0b56-42fd-a671-89feb0537548,Westwood.to,premium,,,,13,8,,,
 cde9ed9a-50c2-4206-8cd7-693500491d65,saucer.to,premium,,,96,9,6,,,
 c42c0f59-30f0-43e6-94af-0ee00a47d05d,teens.to,resell,,,76,18,5,NAMECHEAP,28/06/2022 02:27,01/08/2026 00:00
@@ -1247,7 +1248,7 @@ b9985bf4-602e-4f00-82f6-60ddcc7a266b,upstart.to,premium,,,106,20,7,,,
 d63d6126-ab6d-4e5a-b6bf-4795e6303fd3,attachment.to,premium,,,72,12,10,,,
 4d1405c3-bdd8-4314-915e-be9ec2399704,manymoonsago.to,premium,,,50,1,14,,,
 1959b468-2e12-44a6-af26-a840059f28ec,actionable.to,available,29.98,,88,15,10,namecheap,,
-5298da88-ada0-4a22-9373-5a101fd306f6,result.to,resell,,,116,20,6,NAMECHEAP,03/03/2024 02:27,01/08/2026 00:00
+5298da88-ada0-4a22-9373-5a101fd306f6,result.to,resell,,,116,19,6,NAMECHEAP,03/03/2024 02:27,01/08/2026 00:00
 6c372dcb-accc-465d-b98a-155455b0b419,vain.to,premium,,,68,13,4,,,
 c42daae9-e2c6-49eb-9f55-8239b801fedb,yourstruly.to,premium,,,60,12,11,,,
 0336535c-2ba4-47ce-afe8-b99e3f5daa09,susceptible.to,premium,,,74,1,11,,,
@@ -1304,7 +1305,7 @@ e48c4292-cb42-4363-834e-8456fd23fcff,WestHill.to,premium,,,,7,9,,,
 6086e352-8249-4d41-9972-336a0adb6673,butthenagain.to,premium,,,42,1,14,,,
 dad8ee0d-b7eb-4340-bc01-bbe4b5b24962,highdefinition.to,premium,,,72,4,15,,,
 dfb6eac2-02e4-495f-9842-e43760151147,senior.to,resell,,,70,30,6,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
-a9cda74d-63de-4568-8844-b14cc6053ef4,daytime.to,premium,,,92,10,7,,,
+a9cda74d-63de-4568-8844-b14cc6053ef4,daytime.to,premium,,,92,8,7,,,
 b11b0ea4-afcd-4cc2-ae64-ad3ff0e556b1,piss.to,resell,,,112,18,4,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 c3201e6c-542d-4e66-a4a4-b0b73bac3e37,typically.to,premium,,,56,4,9,,,
 ca40d738-67ce-4878-93db-8e782d49bc30,uncontrollable.to,premium,,,56,3,14,,,
@@ -1362,7 +1363,7 @@ d332ce00-e175-4fd9-8a52-58344df12b22,howthehell.to,premium,,,44,2,12,,,
 37666b16-06bb-4d79-89f7-59793d792211,atbest.to,premium,,,67,3,7,,,
 90f3b138-7376-4f3a-9008-2633b72c95b9,dragout.to,premium,,,60,1,8,,,
 4e54228f-4c3e-47ec-8e01-748a1bd2dd19,StStephen.to,premium,,,66,2,10,,,
-08c06067-6c8f-4cbc-9683-08792f7ad5fa,cleaver.to,premium,,,56,11,7,,,
+08c06067-6c8f-4cbc-9683-08792f7ad5fa,cleaver.to,premium,,,56,8,7,,,
 eaa7b93b-d570-4c0c-8beb-c218db72a5ee,russia.to,resell,,,90,43,6,NAMECHEAP,30/01/2024 02:27,01/08/2026 00:00
 b66e6e03-9a00-4423-bab7-e627913241b5,rest.to,resell,,,90,27,4,NAMECHEAP,07/03/2024 02:27,01/08/2028 00:00
 9919b406-1dbf-48e8-bc71-a43b7995ac7b,sensation.to,available,29.98,,74,8,9,namecheap,,
@@ -1384,7 +1385,7 @@ b782d285-75fc-4946-aa98-bb464a4d981d,life.to,resell,,,84,36,4,"Spaceship, Inc.",
 811c1437-bc32-459d-ab25-04cc0846d991,Zulutime.to,premium,,,,3,9,,,
 073f5f37-d27a-4c24-b85a-574986779176,giveafig.to,premium,,,66,1,10,,,
 a7572754-a0a1-4018-b485-8dbb47750be4,inregardsto.to,premium,,,50,1,13,,,
-15f3579b-ce0a-417d-856d-45deafdb2c7f,navy.to,resell,,,72,19,4,NAMECHEAP,26/12/2022 02:27,01/08/2026 00:00
+15f3579b-ce0a-417d-856d-45deafdb2c7f,navy.to,resell,,,72,17,4,NAMECHEAP,26/12/2022 02:27,01/08/2026 00:00
 01353805-ad84-4d60-9182-0193bcebf76e,summit.to,resell,,,66,43,6,NAMECHEAP,14/05/2020 02:27,01/08/2026 00:00
 438fbb72-e63c-46ec-a340-644715705a42,multiplayer.to,resell,,,,19,11,NAMECHEAP,07/04/2025 02:27,01/08/2026 00:00
 a748077b-f2ba-4dd0-b266-3217217edbab,mobiletelephone.to,premium,,,74,1,16,,,
@@ -1457,7 +1458,7 @@ bfb1774f-197d-4337-b86e-addcfb259cf0,research.to,resell,,,92,41,8,NAMECHEAP,29/0
 09731bdb-1a3c-4332-9300-0e50b8f20e76,lowback.to,premium,,,62,2,8,,,
 c3bc063d-06c6-440f-9394-ddc1d66c531b,spirits.to,resell,,,80,18,7,NAMECHEAP,04/02/2024 15:27,01/08/2026 00:00
 924cd629-2f19-4756-b119-a552b33cba3c,formalize.to,premium,,,74,4,9,,,
-f34ff8dd-53b3-4fc6-9bd9-e856a8220c65,chairwoman.to,premium,,,66,5,10,,,
+f34ff8dd-53b3-4fc6-9bd9-e856a8220c65,chairwoman.to,premium,,,66,3,10,,,
 5075256e-2853-4762-adde-5da7ec01b7ce,analysis.to,resell,,,80,23,8,NAMECHEAP,22/05/2024 07:54,22/05/2026 07:54
 3bf05246-2777-4621-9ece-77bb17cf1e5c,whocares.to,premium,,,,12,9,,,
 92cbba1d-3927-4239-8be1-831d661a0805,closeoff.to,premium,,,70,1,9,,,
@@ -1514,7 +1515,7 @@ c4a964f5-c998-4826-b3be-d962d8f12c56,letgo.to,resell,,,72,11,6,NAMECHEAP,11/08/2
 f7bf6f65-d6e8-4711-99c1-fd8ce610c015,preceding.to,premium,,,,3,9,,,
 f8171864-707a-4c4d-ac6d-228e1c72d8fc,rosegold.to,premium,,,,8,9,,,
 922efbb1-ff29-4f24-b944-f56d8824578d,aboveabit.to,available,29.98,,56,1,11,namecheap,,
-f4e64050-0252-4467-a78a-54a703bb374f,mention.to,resell,,,88,16,7,NAMECHEAP,24/02/2021 02:27,01/08/2026 00:00
+f4e64050-0252-4467-a78a-54a703bb374f,mention.to,resell,,,88,15,7,NAMECHEAP,24/02/2021 02:27,01/08/2026 00:00
 0e629aa8-7204-4f4d-841e-65befe35db26,rubyred.to,premium,,,,4,8,,,
 1da9b281-e2c3-4c07-92a5-64e1af1acde7,digitalcamera.to,premium,,,70,6,14,,,
 7d2ad0f1-0ee8-4337-b9bb-2da4ecbda6b7,thirdperson.to,premium,,,,5,12,,,
@@ -1572,7 +1573,7 @@ b3ab84dd-be5d-46ec-af14-0c906e8189eb,letterspatent.to,premium,,,65,1,14,,,
 575ed5f8-50d7-479d-bad0-090dd9b08851,crimes.to,premium,,,64,10,6,,,
 bf6d0bfc-1548-4674-aea9-e85438a88c41,generaldisease.to,premium,,,40,1,15,,,
 20ad7ddd-dfc0-4100-8873-ac3f06f102e7,wellbehaved.to,premium,,,,2,12,,,
-27173886-f959-4c7b-9a6f-d3a9dffb0e0a,speculate.to,premium,,,70,9,9,,,
+27173886-f959-4c7b-9a6f-d3a9dffb0e0a,speculate.to,premium,,,70,6,9,,,
 d27f1bb4-305d-4967-b7af-d643ba4de184,attheready.to,premium,,,74,2,12,,,
 34950b37-27c2-45a7-bbf8-32d49dc4d0a2,joined.to,resell,,,70,9,6,NAMECHEAP,04/02/2024 15:27,01/08/2026 00:00
 9d6b959a-d823-4a53-b314-f400403e26eb,endup.to,premium,,,72,3,6,,,
@@ -1622,7 +1623,7 @@ dfb5853f-308f-46ac-ba04-d88b51ffc02f,haveworkdone.to,premium,,,66,1,14,,,
 121ca487-61e8-4a5c-91a1-485f64f66f47,polythene.to,premium,,,66,3,9,,,
 bc253d39-29b9-49d7-9fca-3adb67525643,undoubtedly.to,premium,,,62,3,11,,,
 2e6b1355-8c9f-4b14-900d-70aeb23e8ea7,screening.to,available,29.98,,70,13,9,namecheap,,
-7e83e533-7c95-42f1-b429-1004765f2490,detailing.to,premium,,,68,18,9,,,
+7e83e533-7c95-42f1-b429-1004765f2490,detailing.to,premium,,,68,16,9,,,
 c557c87d-af91-4905-b7b0-a37551cf186d,woven.to,resell,,,90,28,5,NAMECHEAP,24/05/2023 02:27,01/08/2026 00:00
 4eaf4ab8-8f92-4498-b3a1-61d52b59012d,letmesee.to,premium,,,56,4,10,,,
 2f5cf20c-2dcb-483b-9b33-c9262f2fdbb0,bestpractice.to,premium,,,76,12,13,,,
@@ -1640,14 +1641,14 @@ d7e12359-495d-440e-b56f-c16a10f2ddcc,leader.to,resell,,,72,29,6,NAMECHEAP,06/10/
 69cda4c7-a555-4dd7-8b01-d7680c9fc4a5,bland.to,premium,,,54,13,5,,,
 1c0e9354-a120-4f89-91ba-98751e71593c,basic.to,resell,,,60,32,5,NAMECHEAP,08/09/2023 02:27,01/08/2026 00:00
 ddcee0b0-b30a-47bb-9727-9176227ee02b,snore.to,resell,,,82,7,5,NAMECHEAP,25/08/2025 18:45,25/08/2026 18:45
-83286d99-96f4-4729-b67d-679e201b3b36,funds.to,resell,,,78,21,5,NAMECHEAP,21/07/2023 02:27,01/08/2026 00:00
+83286d99-96f4-4729-b67d-679e201b3b36,funds.to,resell,,,78,20,5,NAMECHEAP,21/07/2023 02:27,01/08/2026 00:00
 ac8f93ca-3764-4b8a-a0c2-108bbb78f67b,commonsense.to,premium,,,82,30,12,,,
 7361bbd1-5464-44c0-b45b-e21cf5fb5bc9,modeller.to,premium,,,70,5,8,,,
-29f5dbbf-664d-4346-88a9-b658ee5b19c7,clay.to,resell,,,80,36,4,NAMECHEAP,19/02/2024 02:27,01/08/2026 00:00
+29f5dbbf-664d-4346-88a9-b658ee5b19c7,clay.to,resell,,,80,35,4,NAMECHEAP,19/02/2024 02:27,01/08/2026 00:00
 6f3d82a7-2f74-4baf-a29a-d5cd603ff7d6,criticise.to,premium,,,66,2,9,,,
 df67eaa9-1696-4b65-9f3a-4b69023fdc7e,putitabout.to,premium,,,,1,12,,,
 0c400e07-5e52-471b-84cc-ca65adaa6603,lowrise.to,premium,,,84,2,8,,,
-c822b249-bb0e-472c-9889-15b6277a5222,shin.to,resell,,,62,22,4,NAMECHEAP,15/11/2024 02:27,01/08/2028 00:00
+c822b249-bb0e-472c-9889-15b6277a5222,shin.to,resell,,,62,21,4,NAMECHEAP,15/11/2024 02:27,01/08/2028 00:00
 db21036d-b1af-4111-b5f4-a65d257deab1,kissmyass.to,premium,,,58,4,11,,,
 83279cfe-9e5a-42b0-a546-0839935a62e0,PuertoRico.to,premium,,,,5,11,,,
 5b810fce-4216-4024-824a-72d0ae76d580,springsnow.to,premium,,,,2,11,,,
@@ -1666,7 +1667,7 @@ ae05be38-1640-49cc-a615-58dd8134d9ee,cameroon.to,resell,,,75,97,8,NAMECHEAP,13/1
 049091e8-c25c-4cd8-a41e-75c816a88385,parent.to,resell,,,78,20,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 2b430e83-d62d-4e78-943b-597b4e884749,seventeen.to,resell,,,84,62,9,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 1f83c88d-72ce-4dc9-b879-96f82901952f,greenparty.to,premium,,,64,5,11,,,
-4ec2f9f7-0dbf-4cc5-b0dd-5e07cd2bca1f,carryon.to,premium,,,93,14,8,,,
+4ec2f9f7-0dbf-4cc5-b0dd-5e07cd2bca1f,carryon.to,premium,,,93,11,8,,,
 1a4ae617-86de-4bbb-ba1e-86b8c6236a59,minutes.to,resell,,,72,12,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 b4d7b848-dbe8-428a-a1d4-dfd534d4fff1,Iam.to,resell,,,100,45,4,NAMECHEAP,11/01/2024 02:27,01/08/2026 00:00
 b304cba4-5c3a-4f86-8da1-3b5b66dfe272,talkabout.to,premium,,,,12,10,,,
@@ -1679,7 +1680,7 @@ ecddea33-5c6f-4f9f-ba4f-36dd9f3f7019,borderline.to,premium,,,104,15,10,,,
 f0835ef7-272c-46ac-800c-ee0840b71678,Iwantmymoneyback.to,premium,,,54,2,20,,,
 0d865b08-2367-419f-9665-38f437a14abe,backtosquareone.to,premium,,,70,1,18,,,
 54b7cddd-79f2-4cd3-8ff4-5091fa437a81,makefreeof.to,premium,,,72,1,12,,,
-ea2c469b-757e-42e4-b495-9853ee2a04e2,mixing.to,resell,,,84,14,6,NAMECHEAP,06/07/2023 02:27,01/08/2026 00:00
+ea2c469b-757e-42e4-b495-9853ee2a04e2,mixing.to,resell,,,84,12,6,NAMECHEAP,06/07/2023 02:27,01/08/2026 00:00
 0bc681d5-6cee-414a-9e72-d50247769bf4,wideopen.to,premium,,,64,7,9,,,
 9d67104c-5872-4e88-841b-aca2b419505b,clash.to,resell,,,84,27,5,NAMECHEAP,11/05/2021 02:27,01/08/2026 00:00
 3f837f78-e460-4421-bd93-02062c0686d9,passive.to,resell,,,80,18,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
@@ -1701,7 +1702,7 @@ d641fe8e-d206-4daa-8b1d-2c0b2317cdd1,DJIA.to,premium,,,68,4,4,,,
 18b600d0-06ed-4e48-a061-1e90fac70988,daddy.to,resell,,,70,24,5,NAMECHEAP,19/03/2023 02:27,01/08/2026 00:00
 8f75bebb-c143-41f3-a4e7-5d2e37addf21,stepparent.to,premium,,,64,2,10,,,
 4800e1a5-ca81-49bd-a694-57ff3c214d01,brandnew.to,premium,,,72,15,9,,,
-ac4a5c67-12f4-4b04-a112-45ffc84e218e,coverup.to,premium,,,62,8,8,,,
+ac4a5c67-12f4-4b04-a112-45ffc84e218e,coverup.to,premium,,,62,6,8,,,
 72df0df4-e378-4c25-bf37-9901fc2f9f5e,Harold.to,premium,,,72,14,6,,,
 d90b6747-56df-4a0c-a8a9-9a60058fbc53,could.to,premium,,,78,8,5,,,
 18b1a32f-a3ba-4057-a362-a271d47a087f,getthewordout.to,premium,,,73,2,16,,,
@@ -1712,10 +1713,10 @@ f0de2b46-5194-4095-8b75-1e6c05ac27d5,pin.to,resell,,,74,33,3,Government of Kingd
 4ecf6ff7-62a2-4ae8-a14b-e0000073593b,unlocking.to,premium,,,72,6,9,,,
 527b3a4e-7fe6-480a-af3d-34fd21e9e2f1,viewer.to,premium,,,68,12,6,,,
 03ea8852-dd35-4d71-b9be-84d345a0b7e7,riskcapital.to,premium,,,,2,12,,,
-6626a294-fe0c-41ca-9b69-b3368fc50207,chore.to,premium,,,88,13,5,,,
+6626a294-fe0c-41ca-9b69-b3368fc50207,chore.to,premium,,,88,11,5,,,
 750fa468-a026-40ab-9759-bcccbe89f7d2,washington.to,resell,,,81,26,10,NAMECHEAP,04/05/2023 02:27,01/08/2026 00:00
 3209c06a-9a44-45d1-a889-959495458862,atthecorner.to,premium,,,69,2,13,,,
-12d3ac3a-1cf6-4edd-977b-d1651be3d953,buyer.to,resell,,,74,21,5,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
+12d3ac3a-1cf6-4edd-977b-d1651be3d953,buyer.to,resell,,,74,19,5,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
 c94e6370-715a-41dc-8a9f-7942747ab0a2,annotated.to,premium,,,64,3,9,,,
 bf90a9e5-b63b-4b9a-a8ff-f6a52dc737f3,possess.to,premium,,,78,5,7,,,
 7a923112-e95f-44c2-b07c-583a54a693c0,keepsomeonecompany.to,premium,,,76,1,20,,,
@@ -1745,7 +1746,7 @@ b4b11230-634b-4b31-9ccc-6adaa11a536b,replace.to,resell,,,78,14,7,NAMECHEAP,12/04
 d76e9fdf-f6c4-48f2-8b09-28e53de7cfb7,bag.to,resell,,,92,27,3,humbly LLC,26/06/2016 03:28,26/06/2026 03:28
 7a2ead79-d340-4b2f-a1dc-46174e5b29a4,andrew.to,resell,,,70,39,6,NAMECHEAP,17/01/2024 02:27,01/08/2026 00:00
 ef20d28a-b1a0-4927-b4ee-557d9758eeb6,warfare.to,premium,,,86,9,7,,,
-c380c7fe-c3ad-454a-b81f-bad41bf1bbcd,panel.to,resell,,,90,30,5,Government of Kingdom of Tonga,21/02/2022 02:27,23/02/2028 08:29
+c380c7fe-c3ad-454a-b81f-bad41bf1bbcd,panel.to,resell,,,90,29,5,Government of Kingdom of Tonga,21/02/2022 02:27,23/02/2028 08:29
 694983d6-5290-48f6-822a-606c54aa0c5e,briefingnote.to,premium,,,70,1,13,,,
 12d23525-3612-4073-acdf-d92173033b36,farther.to,premium,,,74,5,7,,,
 b6b7423b-10e1-4be8-97e5-171b9b1a2d69,adaptable.to,available,29.98,,76,11,9,namecheap,,
@@ -1756,7 +1757,7 @@ cc44175a-1b42-49b6-a0e4-520c2717b2d0,authorised.to,premium,,,70,4,10,,,
 31a7126a-b647-47d5-ae45-8ed64b9729fb,havelittletimefor.to,premium,,,60,1,20,,,
 4b79c05d-644d-4213-a7d6-9640833046ed,astonish.to,premium,,,78,5,8,,,
 b1073c80-9b82-4721-8d46-e9006a9a1246,distribution.to,resell,,,64,16,12,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-5eb33e21-49dc-434d-99ad-432a0ce99d0e,panther.to,resell,,,62,23,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+5eb33e21-49dc-434d-99ad-432a0ce99d0e,panther.to,resell,,,62,24,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 c0681648-9ea5-4517-838d-3b5ce6b75d40,voicemessage.to,premium,,,72,4,13,,,
 2ab16c97-e6bf-4c0b-a05b-08ad95651286,quantities.to,resell,,,,2,10,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 204106c4-c7e3-41d2-88bb-439086a146bc,erase.to,premium,,,86,10,5,,,
@@ -1786,7 +1787,7 @@ a5a78a12-05c6-4291-95b4-14a5b04191ce,henryford.to,premium,,,74,5,10,,,
 06e0b2f4-ca7d-4622-8d98-50414c33edfc,malealpha.to,premium,,,68,1,10,,,
 0719d102-7c87-49a6-98c2-4fccd2eab2c3,roadsign.to,premium,,,66,3,9,,,
 3ed08104-1e50-4c68-b20c-1f6bf1e787a9,mining.to,resell,,,66,27,6,NAMECHEAP,20/02/2023 02:27,01/08/2026 00:00
-202ef76b-f19a-4511-82b9-b9174a243b87,ganja.to,resell,,,63,20,5,NAMECHEAP,27/03/2023 02:27,01/08/2026 00:00
+202ef76b-f19a-4511-82b9-b9174a243b87,ganja.to,resell,,,63,18,5,NAMECHEAP,27/03/2023 02:27,01/08/2026 00:00
 39ed02b1-d765-4c5a-ac74-6757c0902924,prime.to,resell,,,76,82,5,NAMECHEAP,19/11/2023 02:27,01/08/2026 00:00
 c370960f-1822-4ee7-9864-a2d2cd19c303,goDutch.to,premium,,,68,5,8,,,
 395c42ae-dca8-4f1f-ad8f-6d19b876f898,bonus.to,resell,,,78,33,5,NAMECHEAP,22/11/2023 21:00,25/10/2026 13:48
@@ -1817,8 +1818,7 @@ f307e163-5a95-4130-bbd3-5aee38c372ac,tedious.to,premium,,,60,6,7,,,
 1ed2c744-ed75-4750-87af-910ee58943c0,visualise.to,premium,,,78,7,9,,,
 a3b9d725-2f2a-46d2-8c86-74a5d81c0566,childlabour.to,premium,,,52,1,12,,,
 3cd30bdc-b1ca-49fa-b3cb-35ef3be219c5,looks.to,resell,,,78,13,5,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-2fb255ff-6853-4e05-8c3a-6dd17d268fba,circus.to,resell,,,98,25,6,NAMECHEAP,29/04/2023 04:12,28/04/2026 07:33
-67975ebf-02eb-4a2b-b222-3cff97d15e99,choc.to,resell,,,74,13,4,NAMECHEAP,29/12/2024 02:27,01/08/2026 00:00
+67975ebf-02eb-4a2b-b222-3cff97d15e99,choc.to,resell,,,74,11,4,NAMECHEAP,29/12/2024 02:27,01/08/2026 00:00
 1d2241d5-baa7-4796-8503-719e8fd9481d,rein.to,resell,,,70,19,4,NAMECHEAP,17/06/2025 02:27,01/08/2028 00:00
 3563d1c4-7c1f-4cb5-b98f-46594500293f,seeingas.to,premium,,,54,1,9,,,
 76689b8a-d8b9-4b15-9d3a-b3b947c3d2fa,patient.to,resell,,,68,22,7,NAMECHEAP,01/06/2023 02:27,01/08/2026 00:00
@@ -1837,7 +1837,7 @@ b6d9510d-8acb-4b0c-9ad8-bc30ee24e7ff,winover.to,premium,,,76,2,8,,,
 8e93d15c-f91a-4f8f-86e3-0f65e1bc5e84,baggy.to,premium,,,80,8,5,,,
 1f647409-bf52-4a13-ba4e-955ecce10d8f,authorityfigure.to,premium,,,64,1,16,,,
 1b6544c0-1ebf-4b6f-b8f7-4c2edab9ae2f,irregular.to,premium,,,78,10,9,,,
-3d359189-70f2-4d72-8fc1-d798ed684fc4,context.to,resell,,,108,58,7,"Dynadot, LLC",18/11/2015 03:27,18/11/2027 03:27
+3d359189-70f2-4d72-8fc1-d798ed684fc4,context.to,resell,,,108,59,7,"Dynadot, LLC",18/11/2015 03:27,18/11/2027 03:27
 5aca42fb-b0d2-401a-be74-f79ff6232ad9,accounted.to,premium,,,46,3,9,,,
 9ea0f5fd-222a-411e-9339-5cd38d7a5adc,leading.to,resell,,,102,22,7,NAMECHEAP,17/03/2022 02:27,01/08/2026 00:00
 27d28ef9-af96-4310-aed9-248b932cf8d8,worker.to,resell,,,76,21,6,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
@@ -1858,8 +1858,8 @@ a9c84c5c-5d5e-4b2a-8c15-a69a45ca632e,gasstation.to,premium,,,68,8,11,,,
 89f2b84a-5e97-4467-a7e1-01908de1c942,overseas.to,resell,,,68,14,8,NAMECHEAP,28/04/2023 02:27,01/08/2026 00:00
 4529b0d1-7115-48e7-a83f-5b1c3d0bbeff,using.to,resell,,,82,9,5,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 ac31eb0d-71df-4163-af11-2478d3860875,rewarding.to,premium,,,71,7,9,,,
-70809692-aecb-4410-8e05-d8ac42f8e66a,coffin.to,premium,,,50,12,6,,,
-5a5cb8fa-ecdc-43cf-a07c-954973c3fcdc,sodawater.to,premium,,,70,5,10,,,
+70809692-aecb-4410-8e05-d8ac42f8e66a,coffin.to,premium,,,50,10,6,,,
+5a5cb8fa-ecdc-43cf-a07c-954973c3fcdc,sodawater.to,premium,,,70,4,10,,,
 dd6359fc-ef2f-4eec-a6b0-7b451e560359,shooting.to,resell,,,66,15,8,NAMECHEAP,25/08/2025 18:43,25/08/2026 18:43
 61082e31-cf0a-41a2-9f60-0d7e9af597cc,stark.to,resell,,,82,45,5,NAMECHEAP,16/09/2020 02:27,01/08/2026 00:00
 cbee0262-dd8d-4c60-b314-e68aa6e58808,practicalnurse.to,premium,,,76,1,15,,,
@@ -1871,13 +1871,13 @@ b9d802c1-e182-4995-a4b9-1a3360715c78,undisciplined.to,premium,,,56,5,13,,,
 52fb9c33-468e-4139-a35a-a4a26c2ae87b,helping.to,resell,,,78,14,7,Government of Kingdom of Tonga,22/11/2021 02:41,22/11/2026 02:41
 d3280cc6-721c-42f9-ad60-ac6f76b206c8,barter.to,resell,,,68,25,6,NAMECHEAP,30/12/2019 02:27,01/08/2026 00:00
 47a97052-20df-4572-8a5c-e9693c730384,makefunof.to,premium,,,70,1,11,,,
-5d622ab5-ecce-4bd6-9521-f50a8462e6dc,moscow.to,resell,,,74,24,6,NAMECHEAP,02/05/2023 02:27,01/08/2026 00:00
+5d622ab5-ecce-4bd6-9521-f50a8462e6dc,moscow.to,resell,,,74,22,6,NAMECHEAP,02/05/2023 02:27,01/08/2026 00:00
 e9dd3916-f937-4fa3-9c46-e9657984cdd9,median.to,resell,,,100,12,6,NAMECHEAP,13/11/2025 06:27,13/11/2026 06:27
 cc518aa0-a045-4264-b50c-c44a2a421bfb,marchon.to,available,29.98,,68,7,8,namecheap,,
 d99a174e-2741-4ded-886f-35512bbd2279,biggame.to,premium,,,74,8,8,,,
 f408f4ab-01f0-4c80-bb86-cadb700455cf,yellow.to,resell,,,116,37,6,NAMECHEAP,29/05/2021 02:27,01/08/2026 00:00
 ced8e853-b66a-4bda-869b-4cc8f8093731,uppercase.to,premium,,,104,9,9,,,
-349464ef-dc8b-42b8-9dad-70e38fd12f8b,deflation.to,premium,,,60,7,9,,,
+349464ef-dc8b-42b8-9dad-70e38fd12f8b,deflation.to,premium,,,60,5,9,,,
 7b232503-99ea-4b14-aaa4-e0d7be952571,tried.to,resell,,,76,6,5,NAMECHEAP,06/05/2024 02:27,01/08/2028 00:00
 d1d3914f-704b-46b3-b64e-fe3f42ff4a0e,diamonds.to,resell,,,62,17,8,NAMECHEAP,05/04/2023 02:27,01/08/2026 00:00
 8d93b981-a4e9-434e-bcdd-064ad007ed05,trend.to,resell,,,76,31,5,NAMECHEAP,07/07/2023 02:27,01/08/2026 00:00
@@ -1888,7 +1888,7 @@ b98250ec-80f8-4633-83db-ec459c3e7782,thank.to,resell,,,112,14,5,NAMECHEAP,07/05/
 2d44fb41-657f-4b01-9dab-a21e2cd9805f,farm.to,resell,,,72,39,4,NAMECHEAP,29/06/2023 21:00,23/04/2026 03:41
 10dcf68e-249e-4e58-a35a-b13c0acedcab,kleenex.to,premium,,,89,6,7,,,
 0c730f20-3b0c-4366-b20a-ef43cbbafadc,WinterHaven.to,premium,,,,4,12,,,
-2b263387-2d7c-4523-9549-3e01ffeba63e,civilwar.to,premium,,,60,9,9,,,
+2b263387-2d7c-4523-9549-3e01ffeba63e,civilwar.to,premium,,,60,7,9,,,
 d77cdc49-655f-490e-b61f-3627e7cdd055,sportsday.to,premium,,,76,4,10,,,
 adc711e3-3b08-4501-8e5a-9bcf88e40b15,uncommitted.to,premium,,,56,3,11,,,
 010dffc9-2538-49ec-afdb-5578f1a2d44b,suitable.to,premium,,,68,11,8,,,
@@ -1922,7 +1922,7 @@ fe6620c5-2658-43d7-bee4-77892e90466b,NewTestament.to,premium,,,,5,13,,,
 8074ae09-4d41-4cee-9984-61404ba387b9,appropriately.to,premium,,,64,1,13,,,
 7f3b15f1-626e-45dc-a739-5e25ebb78c80,Frenchroll.to,premium,,,52,1,11,,,
 3e495100-0ed0-4d55-b83c-dbbee93956e1,theory.to,resell,,,82,25,6,NAMECHEAP,30/06/2025 02:27,01/08/2028 00:00
-c7262198-8d6d-46aa-99e9-5b228d5c4865,marktwain.to,premium,,,82,8,10,,,
+c7262198-8d6d-46aa-99e9-5b228d5c4865,marktwain.to,premium,,,82,6,10,,,
 f7e097b0-94ec-49de-b2ab-252b3c4864ff,sportsbar.to,premium,,,80,5,10,,,
 d295fd8c-216e-4acd-85e6-3c4d1e290da1,reflexcamera.to,premium,,,68,1,13,,,
 e227333a-f308-43ed-82ad-f9bf236b6555,youngest.to,premium,,,70,4,8,,,
@@ -1969,7 +1969,7 @@ cec33810-a813-43e6-bfdf-d4b005e05168,con.to,resell,,,72,26,3,humbly LLC,07/10/20
 f7848ba0-0790-4b1d-a96c-b9533da7de2b,cherryontop.to,premium,,,82,8,13,,,
 9fbf630f-35cf-4c80-ae11-0bd7df91fca3,devices.to,resell,,,80,14,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 d2661f9a-b0cd-42d0-80c6-8f7009e741d1,touchdown.to,premium,,,,13,10,,,
-ccec1229-2feb-44c3-acf0-ffb8aa153168,goal.to,resell,,,106,30,4,humbly LLC,16/04/2023 02:27,18/06/2026 04:18
+ccec1229-2feb-44c3-acf0-ffb8aa153168,goal.to,resell,,,106,28,4,humbly LLC,16/04/2023 02:27,18/06/2026 04:18
 913feae3-8e3f-4014-8bd5-65dc991c91ed,howaboutno.to,premium,,,66,1,12,,,
 ac2fdbd5-171d-415f-a497-fdec011c1852,leisure.to,resell,,,70,20,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 345ceeb0-f7f6-42ed-bc17-90d2c4c6229a,WorldWideWeb.to,premium,,,,14,14,,,
@@ -2009,7 +2009,7 @@ f4c2d81f-0969-4cf4-8d39-1ee7cf778529,acids.to,premium,,,50,3,5,,,
 88524f00-80c2-43e0-a93d-18e6fa9d63fe,save.to,resell,,,70,30,4,humbly LLC,13/02/2018 03:29,13/02/2026 03:29
 a1bfc823-ae8a-4fc2-92ab-6a60df566267,todowith.to,premium,,,54,1,10,,,
 5581d4a8-7c30-45dd-880c-0c6d12b85470,mealdeal.to,premium,,,72,4,9,,,
-0d8c5d26-7562-4160-b535-ae867892b5e9,conference.to,resell,,,74,27,10,NAMECHEAP,22/04/2024 02:27,01/08/2026 00:00
+0d8c5d26-7562-4160-b535-ae867892b5e9,conference.to,resell,,,74,25,10,NAMECHEAP,22/04/2024 02:27,01/08/2026 00:00
 ac076fac-335d-402b-b84d-5e3c40850cb6,eleven.to,resell,,,88,34,6,NAMECHEAP,31/05/2024 02:27,01/08/2028 00:00
 6c857a45-4554-4e1d-bdfc-d3cdf3e92a78,firstaid.to,resell,,,74,17,9,NAMECHEAP,11/06/2020 02:27,01/08/2026 00:00
 21b7fb4b-5790-4525-9dab-f36a8382cbfe,Christmascard.to,premium,,,76,3,14,,,
@@ -2103,7 +2103,7 @@ d10906e8-f936-49d2-9a33-6770e5dff3d4,asopposed.to,premium,,,50,1,13,,,
 a56ff4b2-5eb2-4ca2-a045-3e3507f56db9,remain.to,premium,,,84,10,6,,,
 607e7deb-ccc8-4890-9565-33812580b05c,bloodstream.to,premium,,,66,4,11,,,
 f29d09ee-16e2-4c66-9659-b47e4bdb16e2,enterthepicture.to,premium,,,66,1,17,,,
-60aa30f9-60f0-447e-ae69-f5ba7ae805a7,nassau.to,premium,,,84,14,6,,,
+60aa30f9-60f0-447e-ae69-f5ba7ae805a7,nassau.to,premium,,,84,10,6,,,
 572d4cf3-4334-4632-b191-04f63a697b8d,usually.to,premium,,,70,6,7,,,
 bc608ddb-08af-4e7c-ad49-9e59c3646fb0,standon.to,premium,,,,3,8,,,
 0fa18390-4762-4f73-b978-efbd40b91f55,cashmachine.to,premium,,,68,4,12,,,
@@ -2125,21 +2125,21 @@ c867f6f1-5f6d-4c03-88f9-ef26f897d2d0,cheerfully.to,premium,,,72,3,10,,,
 dc1cf08a-a26a-40a8-81c0-7af32f38f32e,thunder.to,resell,,,63,26,7,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
 7c6ff14b-e64b-48ce-b925-a5e4ef1e37cd,farmwork.to,premium,,,68,2,9,,,
 92cbb0b3-a33b-4afc-8b56-ac53f0110100,cheesepizza.to,premium,,,74,2,12,,,
-efac887b-50e2-414b-8f6a-0a834a3952bf,marijuana.to,resell,,,67,31,9,NAMECHEAP,26/05/2023 02:27,01/08/2026 00:00
+efac887b-50e2-414b-8f6a-0a834a3952bf,marijuana.to,resell,,,67,30,9,NAMECHEAP,26/05/2023 02:27,01/08/2026 00:00
 e9a496c5-44bb-4e2b-b974-0212b60515c8,yesno.to,resell,,,,14,6,NAMECHEAP,14/04/2021 02:27,01/08/2026 00:00
 915d12b6-420e-46d4-8a9f-404b402c9a48,anybudy.to,premium,,,62,1,7,,,
 8ff389a4-8130-4ea4-a0ab-aafd2586c92a,dracula.to,premium,,,84,19,7,,,
 4ef6a955-0471-4e3b-a60f-2236f0a3dc7d,commercially.to,premium,,,60,2,12,,,
 fdea07f7-c953-4127-9f66-0b41fca2194e,infrared.to,premium,,,62,16,9,,,
 8802b9fa-e636-4688-bb31-eb6e68ced905,intriguing.to,premium,,,90,5,10,,,
-cb5778a0-e8dc-4550-a6a7-cb08d4f804bc,cot.to,resell,,,74,18,3,NAMECHEAP,11/02/2024 02:27,01/08/2026 00:00
+cb5778a0-e8dc-4550-a6a7-cb08d4f804bc,cot.to,resell,,,74,16,3,NAMECHEAP,11/02/2024 02:27,01/08/2026 00:00
 6b84b22a-34f7-491b-83d6-40ab1f1f17f8,onemoment.to,premium,,,98,7,10,,,
 4627b89f-d139-4b06-9952-dd5d4064b421,aromatic.to,premium,,,92,9,8,,,
 3dc2a1f5-2a62-4868-8f2b-89fdc5ec78a5,grass.to,resell,,,66,27,5,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 e1688076-4758-40ee-808c-4a43d4004227,wintertire.to,premium,,,72,1,11,,,
 7dc128e1-45bf-475c-a2ba-f911505daebe,strongpersonality.to,premium,,,76,1,18,,,
 b492c6bf-b80c-4b5a-b50d-2b6c88525ac7,traveler.to,resell,,,68,20,8,NAMECHEAP,30/11/2023 02:27,01/08/2026 00:00
-87121b24-2f38-4970-9670-0302167d740a,candidacy.to,premium,,,73,5,9,,,
+87121b24-2f38-4970-9670-0302167d740a,candidacy.to,premium,,,73,3,9,,,
 9dc387f9-65e5-46bf-bcaa-711d8acd44a0,NewWorld.to,premium,,,,19,9,,,
 0b84a16c-c931-474c-b11f-c43664f3bb1a,slip.to,resell,,,86,17,4,NAMECHEAP,18/09/2023 02:27,01/08/2028 00:00
 d2307e8a-f800-4a95-a56a-b9432e878573,moneylaundering.to,premium,,,58,4,16,,,
@@ -2158,10 +2158,10 @@ b97edb92-e6f9-48a9-a272-4f8d1a9c656d,maybe.to,resell,,,98,25,5,NAMECHEAP,09/06/2
 83619071-ec7d-4b7d-8c7e-ff165b8f2a87,center.to,resell,,,78,31,6,NAMECHEAP,02/05/2023 02:27,01/08/2026 00:00
 274437ec-8ec7-45a7-9157-0c1e03882a0f,Godonlyknows.to,premium,,,54,2,14,,,
 c7f5e87e-6bec-4811-8f0a-8b2829e1c06e,makehaste.to,premium,,,74,1,10,,,
-efe4e2a9-5c20-4507-9e98-149e02d7cc93,facing.to,premium,,,82,8,6,,,
+efe4e2a9-5c20-4507-9e98-149e02d7cc93,facing.to,premium,,,82,7,6,,,
 a229f953-6d27-4661-a7e6-da2ee01ddb84,darkweb.to,resell,,,48,19,8,NAMECHEAP,23/12/2024 02:27,01/08/2026 00:00
 1e480c18-9452-43d9-8d77-92a23f2efb7a,seeing.to,premium,,,98,10,6,,,
-7f5d6f77-0458-44e4-82d6-b3938d496af7,chime.to,resell,,,94,39,5,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
+7f5d6f77-0458-44e4-82d6-b3938d496af7,chime.to,resell,,,94,37,5,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
 c84a5708-c71c-4b84-bfd1-6c31f1cd7b9a,buried.to,premium,,,62,7,6,,,
 05899f27-3c8a-4395-899d-3e36104d6eb3,Instagrammable.to,premium,,,76,2,14,,,
 39f67a2d-1080-4595-b14d-e340b3cf7b57,twentytwo.to,available,29.98,,84,14,10,namecheap,,
@@ -2182,9 +2182,9 @@ d713ea5f-7c66-4864-880a-6c9a7c5ce2fa,comeupon.to,premium,,,68,1,9,,,
 996c1414-7e7f-431f-ba56-1ec98d03175b,economical.to,available,29.98,,68,5,10,namecheap,,
 a1362992-e7cd-40a8-a0f9-6c41dbb4300a,poster.to,resell,,,92,22,6,NAMECHEAP,07/09/2023 02:27,01/08/2026 00:00
 45342de9-099e-474f-a0ee-1577ea6c0f62,deskchair.to,premium,,,74,2,10,,,
-836de85d-af7f-43cb-93ab-46f1f2e8900a,tasting.to,premium,,,78,12,7,,,
+836de85d-af7f-43cb-93ab-46f1f2e8900a,tasting.to,premium,,,78,10,7,,,
 6804663a-18a1-4e0e-ae89-665b64b04309,anticancer.to,premium,,,70,5,10,,,
-01a31c31-6dad-42c9-b840-c937a60f722d,struggle.to,premium,,,82,11,8,,,
+01a31c31-6dad-42c9-b840-c937a60f722d,struggle.to,premium,,,82,10,8,,,
 6576e4fd-3e6c-40bb-b767-cb7ed37145d3,bychance.to,premium,,,56,6,9,,,
 7d86701d-af3d-4592-9955-ae7f6d64d8ab,wore.to,resell,,,,2,4,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 739b4c26-cbb8-4aa9-b9d3-6cdf8d5dd635,shear.to,premium,,,58,9,5,,,
@@ -2207,12 +2207,12 @@ dd867f74-22a7-4fab-bac2-94120129eb82,generalizeddisease.to,premium,,,34,1,19,,,
 b0ebda83-a298-466f-b824-d15d931a4b26,stylish.to,premium,,,76,16,7,,,
 17ec46b5-70de-420f-b288-cea3eebe2774,blue.to,resell,,,92,59,4,humbly LLC,07/03/2023 02:27,12/06/2026 11:54
 95cd2022-6788-4af1-bbd5-5d18738b3922,makeitbig.to,premium,,,58,2,11,,,
-8ad16b07-132d-4169-8bf9-d5296fd98ecd,crash.to,resell,,,98,33,5,NAMECHEAP,20/10/2024 02:27,01/08/2026 00:00
+8ad16b07-132d-4169-8bf9-d5296fd98ecd,crash.to,resell,,,98,32,5,NAMECHEAP,20/10/2024 02:27,01/08/2026 00:00
 89b9972b-4bad-4bb1-90c5-c4a0b03f2493,illustrated.to,resell,,,68,7,11,NAMECHEAP,13/04/2024 02:27,01/08/2028 00:00
 06e46872-1b3d-48ce-8e23-6095dd510a94,clinically.to,premium,,,56,9,10,,,
 9118d8da-54be-4ebb-9abd-0478775bafee,officelandscape.to,premium,,,72,1,16,,,
 c30aecd0-ae29-4f9d-98b8-a2be81a49c0f,fiftyfifty.to,premium,,,86,10,11,,,
-f75d8adf-9d45-40c3-9632-07363e339d77,expire.to,resell,,,58,12,6,NAMECHEAP,23/12/2023 02:27,01/08/2026 00:00
+f75d8adf-9d45-40c3-9632-07363e339d77,expire.to,resell,,,58,11,6,NAMECHEAP,23/12/2023 02:27,01/08/2026 00:00
 3cef00ab-2340-4f02-bf57-32b0d01908ad,anatomy.to,resell,,,78,18,7,NAMECHEAP,21/05/2022 02:27,01/08/2026 00:00
 a64a9669-bbb5-4b28-b248-2298f478dbff,forestfire.to,premium,,,58,5,11,,,
 4a342a22-29e4-49e8-acdf-7469913fa162,MMR.to,resell,,,80,9,3,NAMECHEAP,03/04/2021 02:27,01/08/2026 00:00
@@ -2220,7 +2220,7 @@ c836884c-8c5f-4da0-bb5c-f79edc30f403,outside.to,resell,,,60,27,7,NAMECHEAP,21/01
 1ca23239-fe4d-474b-92cc-1b13f39b2c80,wastebasket.to,premium,,,86,2,11,,,
 390c30ac-6257-4489-a113-5f4718dd290f,towed.to,premium,,,,2,5,,,
 26c4c78e-516a-4787-9f75-c615676d5674,seagull.to,premium,,,74,14,7,,,
-759c687b-d1f7-4616-9703-facb2bf5272b,purchase.to,resell,,,68,24,8,NAMECHEAP,16/01/2024 02:27,01/08/2026 00:00
+759c687b-d1f7-4616-9703-facb2bf5272b,purchase.to,resell,,,68,23,8,NAMECHEAP,16/01/2024 02:27,01/08/2026 00:00
 a52ff0b3-c175-44a8-8301-f58e1a8a5d03,goodby.to,premium,,,66,3,7,,,
 124b93ff-2065-4c5e-ae89-bfcd217733e4,allegro.to,resell,,,100,24,7,NAMECHEAP,24/08/2021 02:27,01/08/2026 00:00
 0aef19b5-a688-4955-b717-ef03b32dba98,shears.to,premium,,,66,5,6,,,
@@ -2255,7 +2255,7 @@ d7868e5a-5700-4a10-814b-345e449e978e,gourmet.to,resell,,,80,22,7,"Spaceship, Inc
 799ebd92-ab3a-49fd-8fbb-17f9a5330b8d,swallowup.to,premium,,,,1,10,,,
 89b357cf-3333-4d29-a550-938f2ae13e22,fivestar.to,premium,,,114,24,9,,,
 177c4b21-f87c-4741-af26-65cc6d68cf7a,burnt.to,premium,,,60,13,5,,,
-c454ac72-8959-4045-b96e-763cd26a05ac,phonecall.to,resell,,,72,9,10,NAMECHEAP,02/01/2024 02:27,01/08/2026 00:00
+c454ac72-8959-4045-b96e-763cd26a05ac,phonecall.to,resell,,,72,8,10,NAMECHEAP,02/01/2024 02:27,01/08/2026 00:00
 0bdd136d-3b41-4cda-af94-6450154cf33a,hangout.to,resell,,,78,10,8,NAMECHEAP,22/10/2023 02:27,01/08/2028 00:00
 6396849b-024b-4be4-8ea7-6dfc13064652,Astudent.to,premium,,,78,2,9,,,
 a7cf5801-0ffb-4bde-a956-71d2d581f9e4,vehicle.to,resell,,,94,23,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
@@ -2280,7 +2280,7 @@ feeecc6d-e300-4cc5-96ba-a1c89c0e3d85,wanting.to,resell,,,84,7,7,Government of Ki
 0d848093-278d-4b66-804b-ba663eb87d89,augratin.to,premium,,,70,1,9,,,
 f8916414-4ec8-4f35-a6bc-2dd43531a8a6,nowhile.to,premium,,,,1,8,,,
 80dd1d17-c86e-4fd1-8153-b15e9ad04914,trousers.to,premium,,,66,5,8,,,
-f441d635-4f0f-4e4f-a425-44b6c177fe9f,moviefilm.to,premium,,,70,5,10,,,
+f441d635-4f0f-4e4f-a425-44b6c177fe9f,moviefilm.to,premium,,,70,3,10,,,
 04e00440-fcad-447c-bddd-1b396136dead,sterile.to,premium,,,68,8,7,,,
 73ca9efd-182c-4c13-af91-16fcc491031a,colour.to,resell,,,116,20,6,NAMECHEAP,04/12/2023 02:27,01/08/2026 00:00
 2276c2a3-af7f-42fc-9805-82a0751074d2,keeptime.to,premium,,,72,3,9,,,
@@ -2307,7 +2307,7 @@ e1b1fe4c-c4aa-4af6-9b70-c0a915330b43,sortof.to,premium,,,62,5,7,,,
 2c3c1de2-3d1b-4964-9586-9034a4c1b59e,focus.to,resell,,,102,38,5,"Spaceship, Inc.",02/09/2024 02:28,04/09/2026 03:14
 4edb525f-17fb-4b73-b8ee-631d6b9e54b4,composite.to,resell,,,107,19,9,NAMECHEAP,07/08/2025 01:24,07/08/2026 01:24
 02f9de02-c9fd-4688-88f7-2e66d69f2798,showoff.to,premium,,,58,12,8,,,
-d3e54762-036e-4773-a9b9-11bd026a26cd,multitude.to,premium,,,70,12,9,,,
+d3e54762-036e-4773-a9b9-11bd026a26cd,multitude.to,premium,,,70,10,9,,,
 15532757-47f2-4721-a6db-adef04f77d67,gothedistance.to,premium,,,70,3,15,,,
 26f31762-5aba-43ac-9456-a148c3b2ba0f,allstar.to,resell,,,98,19,8,NAMECHEAP,18/07/2023 02:27,01/08/2028 00:00
 690de92e-39ff-4a63-98a5-28e4eb6ae388,streetnumber.to,premium,,,66,1,13,,,
@@ -2364,12 +2364,12 @@ d1ee55bf-baa0-444f-924b-48e573be88ff,transfer.to,resell,,,88,27,8,Government of 
 6b22264f-6e2a-4a13-91b8-649cefc66e78,jewel.to,resell,,,69,22,5,NAMECHEAP,25/02/2024 02:27,01/08/2028 00:00
 7fadef6c-db48-41b0-93a0-96e6df448a43,whatnow.to,premium,,,,14,8,,,
 6b6af93f-e7cf-4377-bdc7-6d9e84264f3c,thenagain.to,premium,,,56,4,10,,,
-2e57feba-1fb1-4efc-a629-28a616fab94e,lisbon.to,resell,,,90,20,6,NAMECHEAP,07/08/2025 01:26,07/08/2026 01:26
+2e57feba-1fb1-4efc-a629-28a616fab94e,lisbon.to,resell,,,90,18,6,NAMECHEAP,07/08/2025 01:26,07/08/2026 01:26
 d9bea047-3edf-454a-93be-1c2a5ec492a9,pitfall.to,premium,,,66,4,7,,,
 70b42f08-83d1-42fa-990c-b9540dcab89f,scratched.to,premium,,,56,4,9,,,
 faf135ee-2c29-4780-8427-1a0948f03769,howshouldIknow.to,premium,,,52,1,17,,,
 440e7e0b-f460-4d35-abe8-28e667b6d76c,discbrake.to,premium,,,66,4,10,,,
-031a5ca0-f700-4475-8ccb-ecb6d3d6c769,luncheon.to,premium,,,96,6,8,,,
+031a5ca0-f700-4475-8ccb-ecb6d3d6c769,luncheon.to,premium,,,96,3,8,,,
 8ee2b511-501c-401a-a7bf-ec3e93af07d3,unbearable.to,premium,,,58,5,10,,,
 0a547105-fd15-499c-a9a5-7d59fa758bd2,childofthekitchen.to,premium,,,64,1,20,,,
 40e0b84f-15f8-4c2b-bff3-46035b9deb92,makeright.to,premium,,,74,2,10,,,
@@ -2379,7 +2379,7 @@ faf135ee-2c29-4780-8427-1a0948f03769,howshouldIknow.to,premium,,,52,1,17,,,
 6b04b915-27e8-4a04-8006-46011518fcfe,tracing.to,premium,,,70,9,7,,,
 2f6b70aa-67c9-446d-aa53-1354c6006e00,reading.to,resell,,,68,28,7,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 6d15d7db-d312-4925-8325-45dc3daf5b68,official.to,resell,,,82,35,8,NAMECHEAP,14/03/2024 02:27,01/08/2028 00:00
-341aec47-6f27-460e-b941-c1e28963506b,recovery.to,resell,,,70,31,8,NAMECHEAP,30/07/2023 02:27,01/08/2026 00:00
+341aec47-6f27-460e-b941-c1e28963506b,recovery.to,resell,,,70,32,8,NAMECHEAP,30/07/2023 02:27,01/08/2026 00:00
 f67004e9-1ec9-4972-ab74-81bde7e65568,hindsight.to,resell,,,68,17,9,NAMECHEAP,16/05/2023 02:27,01/08/2026 00:00
 0c4d9362-12da-48d1-9f86-6de2a78edd36,vaccination.to,resell,,,,8,11,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 f175849c-8ce9-41f6-a6db-9794e8b59c73,apply.to,resell,,,94,35,5,Government of Kingdom of Tonga,19/06/1997 11:16,19/09/2026 23:00
@@ -2390,7 +2390,7 @@ c9e8084d-d6f2-4555-ac45-bb8ebfb1a0f5,lowlying.to,premium,,,56,1,9,,,
 cde8f915-7f18-420b-8889-15c749bf1eb2,banked.to,premium,,,50,12,6,,,
 67f1ba70-7511-4843-b8b8-bb30af54dc5d,treasure.to,resell,,,71,25,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 9df36219-a7de-4d2e-855f-25503b6dca59,stretch.to,resell,,,100,26,7,"Spaceship, Inc.",15/09/2025 11:30,15/09/2026 11:30
-717f965c-aab0-48f0-9257-3ed4d9e2dbae,decay.to,premium,,,70,13,5,,,
+717f965c-aab0-48f0-9257-3ed4d9e2dbae,decay.to,premium,,,70,12,5,,,
 38bdd008-d9b4-41ad-b56f-554fa11d76f7,whatkindof.to,premium,,,,1,12,,,
 045e84bb-c854-4bed-9441-6c2c84852a76,modernday.to,available,29.98,,70,6,10,namecheap,,
 b9dd7eca-0e38-41bb-abf7-80b0aa88c921,some.to,resell,,,80,36,4,NAMECHEAP,08/12/2019 06:19,08/12/2026 06:19
@@ -2524,7 +2524,7 @@ ffc7bfb9-0b21-4b2e-bdc4-043f7df75a53,married.to,resell,,,90,11,7,NAMECHEAP,12/04
 5ec3f5f3-c71b-498d-b44b-cffd940414cf,mouthy.to,premium,,,,4,6,,,
 fbbb5a13-bba9-4ef3-b0f8-e7542fd3ac36,seeds.to,resell,,,,22,5,NAMECHEAP,04/03/2021 02:27,01/08/2026 00:00
 9c16ee54-fb15-4d72-9a76-f424513517b0,affable.to,available,29.98,,80,5,7,namecheap,,
-31f708f9-4d52-4017-9c94-9ee8bf1d62b4,contrast.to,resell,,,86,20,8,NAMECHEAP,16/12/2021 02:27,01/08/2026 00:00
+31f708f9-4d52-4017-9c94-9ee8bf1d62b4,contrast.to,resell,,,86,19,8,NAMECHEAP,16/12/2021 02:27,01/08/2026 00:00
 4d66c469-a577-4fb8-9d66-a14274511523,whatsoever.to,premium,,,60,5,10,,,
 9dd34403-aa7b-432a-badb-bebbf59e6f99,ontheplusside.to,premium,,,72,1,16,,,
 3bd701c4-7e96-4b26-96e5-96bcb89f0e34,burned.to,resell,,,60,7,6,NAMECHEAP,25/09/2025 16:09,25/09/2026 16:09
@@ -2537,7 +2537,7 @@ c3cdfe42-87da-4d9a-a116-83ce915cd648,Rhoda.to,premium,,,69,4,5,,,
 f7557732-d7c3-477f-bf11-8373993d012b,matrixgroup.to,premium,,,64,5,12,,,
 375f2da6-efc1-49b6-b97c-0b83b1d539b3,generalofthearmy.to,premium,,,70,1,19,,,
 8ad0ff72-ae1b-4d50-a27e-ce001b0b125e,paying.to,resell,,,76,11,6,NAMECHEAP,29/06/2024 02:27,01/08/2026 00:00
-ebc9fa4c-7295-453b-897c-cdbc3105842d,stove.to,premium,,,88,12,5,,,
+ebc9fa4c-7295-453b-897c-cdbc3105842d,stove.to,premium,,,88,10,5,,,
 be82da91-0435-4315-9795-10bdf5719eb3,StCharles.to,premium,,,66,6,11,,,
 75176eda-ce04-447c-9e4f-2596c7d00885,letter.to,resell,,,94,21,6,Government of Kingdom of Tonga,12/11/2021 02:17,12/10/2028 03:31
 c028b67f-39f9-4131-a8a6-1c6cbf60fc48,preserved.to,premium,,,66,6,9,,,
@@ -2573,7 +2573,7 @@ fdbb0168-4c20-4055-b766-3948839b6015,built.to,resell,,,103,23,5,NAMECHEAP,14/10/
 5a47797a-fd05-4669-9417-0542593a9281,GermanReich.to,premium,,,52,1,12,,,
 75c41621-89c4-4f2e-ad1c-d2dfc11fe126,omen.to,resell,,,88,21,4,NAMECHEAP,28/02/2022 02:27,01/08/2026 00:00
 7a24fb73-6fa5-4508-9d9b-eb0b30999830,blueish.to,premium,,,72,4,7,,,
-f1441089-dd54-41ca-acec-84bd876b3c3e,chambers.to,premium,,,60,20,8,,,
+f1441089-dd54-41ca-acec-84bd876b3c3e,chambers.to,premium,,,60,19,8,,,
 25e7f445-4369-41b5-8a29-de1304dca20b,treatment.to,available,29.98,,78,18,9,namecheap,,
 41daac60-fc54-411c-9f1b-eb012b3a4a34,pointless.to,premium,,,54,15,9,,,
 b7692d7b-348a-4933-99f2-8586935eca8e,highlighting.to,premium,,,86,2,12,,,
@@ -2582,7 +2582,7 @@ b7692d7b-348a-4933-99f2-8586935eca8e,highlighting.to,premium,,,86,2,12,,,
 078c5fea-3875-4fbe-871e-5dae55db7a72,principal.to,resell,,,90,23,9,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
 e9d1f10b-4318-41b0-86c1-ded513f8d03d,zanzibar.to,premium,,,44,22,8,,,
 93228aa3-88b7-4cb6-843f-c16ef5c95cf3,entirety.to,premium,,,74,7,8,,,
-ae50ccb3-9c4d-482f-bbd4-22d22af495de,riyadh.to,resell,,,68,20,6,NAMECHEAP,12/02/2024 02:27,01/08/2026 00:00
+ae50ccb3-9c4d-482f-bbd4-22d22af495de,riyadh.to,resell,,,68,17,6,NAMECHEAP,12/02/2024 02:27,01/08/2026 00:00
 7c60d5ea-c757-488c-81f1-9786dca708f7,velcro.to,premium,,,98,61,6,,,
 1851c928-9104-4482-b566-062fc7e20c14,playitsafe.to,premium,,,,4,12,,,
 b139c12d-ac97-4a9f-9177-aac946726d56,earn.to,resell,,,66,28,4,NAMECHEAP,18/02/2024 21:50,23/08/2027 11:59
@@ -2594,7 +2594,7 @@ efe9ec88-1fba-448f-9080-d3bbf9bdcdc1,sideways.to,available,29.98,,70,13,8,namech
 51e4191c-ebe2-4275-9823-277a976a9f18,haveotherideas.to,premium,,,68,1,16,,,
 166d3ec6-46f5-43ad-be69-5253bacc2c71,healthier.to,premium,,,70,15,9,,,
 c359eaf4-6906-4060-8c69-2a21e481a8e1,centre.to,resell,,,66,21,6,NAMECHEAP,17/01/2024 02:27,01/08/2026 00:00
-064dacba-3324-40e1-a077-ec469f11a9b6,coast.to,resell,,,94,27,5,NAMECHEAP,27/10/2023 02:27,01/08/2026 00:00
+064dacba-3324-40e1-a077-ec469f11a9b6,coast.to,resell,,,94,24,5,NAMECHEAP,27/10/2023 02:27,01/08/2026 00:00
 ee20eb9a-70bf-4788-9803-0693006027d4,disgrace.to,premium,,,82,6,8,,,
 001c154c-0fbd-485b-95ca-c12a126dafb1,StVincent.to,premium,,,66,5,11,,,
 5b738c40-906c-4ff3-9216-71f2a7c3e5fa,hercules.to,premium,,,74,21,8,,,
@@ -2608,13 +2608,13 @@ eb3fd6a2-aa89-4ee9-b233-778b27186786,smell.to,premium,,,90,13,5,,,
 7b3952e9-8507-4991-b2e7-5d4598633695,renewal.to,resell,,,76,17,7,NAMECHEAP,05/04/2024 02:27,01/08/2026 00:00
 a198b994-e445-480a-a9e9-7d05d4850de6,oldlady.to,premium,,,60,3,8,,,
 75fa1727-c4eb-4664-91b3-1b2450be31d8,makeroom.to,premium,,,74,6,9,,,
-c87ebbdd-2bc3-463c-bc18-92078092ba93,screen.to,resell,,,72,32,6,NAMECHEAP,03/07/2023 10:30,28/06/2026 17:03
+c87ebbdd-2bc3-463c-bc18-92078092ba93,screen.to,resell,,,72,30,6,NAMECHEAP,03/07/2023 10:30,28/06/2026 17:03
 b557308c-aee2-4449-b6d6-78823bcacbf2,employer.to,resell,,,74,14,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 f4da041e-99f5-4b91-8ccb-c002d37a1a32,wrongful.to,premium,,,56,2,8,,,
 9ba3df58-4196-480d-9b0d-6753fc0034bb,fanletter.to,premium,,,68,2,10,,,
 2ec92e2c-88af-4f5d-a622-737c51d7452f,aladdin.to,premium,,,76,67,7,,,
 7858122b-4b05-49c8-aa4e-34e992c18815,twothousand.to,premium,,,,1,12,,,
-492b29e2-911e-4b99-9818-c5a235257c93,providence.to,resell,,,78,23,10,NAMECHEAP,14/04/2023 02:27,01/08/2026 00:00
+492b29e2-911e-4b99-9818-c5a235257c93,providence.to,resell,,,78,22,10,NAMECHEAP,14/04/2023 02:27,01/08/2026 00:00
 68a037d8-55db-441a-9f33-7a943f078bb2,horseback.to,available,29.98,,80,4,9,namecheap,,
 bd404adc-cccc-4b69-9741-44ffaf572a24,thirsty.to,premium,,,88,15,7,,,
 9de18ff7-2502-4f87-b53e-ca97fc2ea7c9,SierraLeone.to,premium,,,,3,12,,,
@@ -2632,8 +2632,8 @@ b2654727-8805-4a8a-98b4-9056fd412f9b,recordcompany.to,premium,,,70,1,14,,,
 fb53a0c6-8ccc-4e52-b083-fdf224285035,atthedropofahat.to,premium,,,74,1,20,,,
 bee0660b-1fda-42f4-9213-6c0a5f600094,curiously.to,premium,,,62,5,9,,,
 9ab59b56-0753-430e-b2ad-50528b5835b3,Bflat.to,premium,,,68,4,6,,,
-bb7b626e-739b-49b6-afed-0f16846bc1f0,complement.to,premium,,,96,11,10,,,
-868f6b51-d26f-4d51-95e0-c4d6892656e8,civiltime.to,premium,,,64,4,10,,,
+bb7b626e-739b-49b6-afed-0f16846bc1f0,complement.to,premium,,,96,9,10,,,
+868f6b51-d26f-4d51-95e0-c4d6892656e8,civiltime.to,premium,,,64,2,10,,,
 4af01bc7-909d-4543-a5a6-3db46f47fd42,onthebasisof.to,premium,,,50,1,15,,,
 0651455f-19a5-4ca2-ad9a-0f7de96dd364,dishonesty.to,premium,,,62,5,10,,,
 b672f496-0f6f-41a7-8055-0ecdb6c8c396,givebirth.to,premium,,,78,1,10,,,
@@ -2658,7 +2658,7 @@ afb19f98-df01-481e-bbec-1570aff7c5af,loft.to,resell,,,64,27,4,NAMECHEAP,21/07/20
 e8381754-ed99-46b2-aa85-fa6ed5a24543,swollen.to,available,29.98,,65,3,7,namecheap,,
 1ebfc12e-e9e9-4a7e-9ca5-8112b0a75522,dominated.to,available,29.98,,56,3,9,namecheap,,
 64210d11-7d41-4ed6-968d-da2beced9bcd,veer.to,resell,,,92,15,4,NAMECHEAP,29/09/2020 15:09,29/09/2026 15:09
-57dddd48-e2c2-4b79-96fe-fb07f63e791f,capitol.to,resell,,,64,18,7,NAMECHEAP,13/11/2025 06:28,13/11/2026 06:28
+57dddd48-e2c2-4b79-96fe-fb07f63e791f,capitol.to,resell,,,64,16,7,NAMECHEAP,13/11/2025 06:28,13/11/2026 06:28
 cbae636e-e89c-49d2-acc6-f5e6368be17e,hardfeelings.to,premium,,,62,3,13,,,
 841c4f0c-3a9b-4bb9-bc22-b325854bcc5c,bigben.to,premium,,,80,10,7,,,
 095b00ac-6d98-42e5-aafa-e1d68c78bc46,grin.to,resell,,,102,23,4,NAMECHEAP,17/08/2023 02:27,01/08/2026 00:00
@@ -2692,7 +2692,7 @@ d4fc5c67-7c86-40ee-af0d-2e28e42ceb2d,bits.to,resell,,,52,31,4,"Spaceship, Inc.",
 f09c7b02-0507-418f-a313-d6ab4a2622ad,omit.to,premium,,,70,6,4,,,
 f5a5d251-4e31-4f43-ac24-f00270d590d5,atbottom.to,premium,,,56,1,9,,,
 b8e47776-1636-4ad8-abd6-e7a3a2c4ddd7,royalpurple.to,premium,,,,3,12,,,
-c7deab5f-4eb9-4bf8-adb7-c860164314f6,kiev.to,premium,,,76,18,4,,,
+c7deab5f-4eb9-4bf8-adb7-c860164314f6,kiev.to,premium,,,76,16,4,,,
 1e7aecd8-56cc-426a-80cd-2ae0869c4482,acronym.to,premium,,,94,16,7,,,
 4f1828c6-36f4-41e0-8f8a-a5721de4eee1,somebudy.to,premium,,,58,1,8,,,
 1e18657c-9c78-4614-9d1e-089af0794b5f,havingsaidthat.to,premium,,,48,1,16,,,
@@ -2705,7 +2705,7 @@ e1447f77-e19c-4e37-989a-9d104c0ea48b,artgallery.to,premium,,,76,11,11,,,
 4415b262-4acf-4c3e-83d2-622d4c7da2e4,justmyluck.to,premium,,,48,2,12,,,
 30d08a5f-db54-465d-a78d-4909356242b3,mecca.to,premium,,,84,16,5,,,
 c51da934-9bdf-4b9b-98e5-8c5dd1ecf392,atsomepoint.to,premium,,,70,1,13,,,
-249826ca-23de-4ba5-ba83-a5fb3e1baba0,hanoi.to,premium,,,66,17,5,,,
+249826ca-23de-4ba5-ba83-a5fb3e1baba0,hanoi.to,premium,,,66,15,5,,,
 e8898cb6-d185-467a-916f-0dfd7a1be0ca,adieu.to,premium,,,90,8,5,,,
 04333592-3943-4ffc-8b4f-bdd19f847f87,bankholiday.to,premium,,,72,3,12,,,
 697990d9-a288-466d-9d9a-6f7dad9dfc45,hawaii.to,resell,,,70,36,6,NAMECHEAP,29/06/2023 21:03,25/08/2026 03:29
@@ -2748,7 +2748,7 @@ ca0d6342-0fc6-4286-9c90-9257ee334fcb,Americaneagle.to,premium,,,70,60,14,,,
 9eff71ac-6bef-430d-8f0a-74767a066894,mania.to,premium,,,62,16,5,,,
 c6668420-9469-451e-8e69-6344b527e49e,Olympicflame.to,premium,,,82,2,13,,,
 2708cc03-d7fb-43f7-9752-60d3ccfe2c99,pleasing.to,premium,,,96,9,8,,,
-c0939340-c118-4d03-b94f-fc652a61479f,crossroads.to,resell,,,68,33,10,NAMECHEAP,29/01/2023 02:27,01/08/2026 00:00
+c0939340-c118-4d03-b94f-fc652a61479f,crossroads.to,resell,,,68,31,10,NAMECHEAP,29/01/2023 02:27,01/08/2026 00:00
 785a16c1-9532-4f52-bd52-6f20059c6b35,thou.to,available,29.98,,60,9,4,namecheap,,
 53a3bfb9-b241-464f-82c8-3fc9d16cbf6e,backslash.to,premium,,,86,13,9,,,
 0702f966-e104-4d7a-bba8-165f109ca013,wool.to,resell,,,68,16,4,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
@@ -2757,7 +2757,7 @@ c0939340-c118-4d03-b94f-fc652a61479f,crossroads.to,resell,,,68,33,10,NAMECHEAP,2
 0739c3bd-e9f6-44be-a590-149fae3521de,steel.to,premium,,,62,31,5,,,
 0a31c857-e715-49dd-9642-f42014e37967,truly.to,resell,,,76,19,5,NAMECHEAP,19/11/2022 02:27,01/08/2026 00:00
 0bcc333c-62c6-4398-89b8-54521c0ad090,excelat.to,premium,,,82,2,8,,,
-9b6eb3c2-120e-43ae-b33c-bd5bdc93e191,giraffe.to,premium,,,78,24,7,,,
+9b6eb3c2-120e-43ae-b33c-bd5bdc93e191,giraffe.to,premium,,,78,22,7,,,
 5689b37f-b762-452c-8d2a-f6abb2e63dca,trace.to,resell,,,58,35,5,Government of Kingdom of Tonga,16/08/2022 01:17,16/07/2026 03:27
 9b1dec67-1858-4c34-b1a8-223bac0c318f,riding.to,resell,,,70,12,6,NAMECHEAP,04/04/2025 02:27,01/08/2026 00:00
 df915441-d935-4f4a-9222-a9403f5f48ed,puton.to,premium,,,,2,6,,,
@@ -2765,7 +2765,7 @@ bcdedb40-b992-456c-bda8-7c83a509dcbf,newage.to,premium,,,,19,7,,,
 270c6006-e566-4ff0-8964-e54d681c0ca9,previously.to,premium,,,60,5,10,,,
 556662a5-95ac-449c-8c78-283173aa2c8c,adored.to,available,29.98,,70,8,6,namecheap,,
 4ac694d3-a331-4381-9cf6-1e4044f74323,clipthechurch.to,premium,,,72,1,15,,,
-3494788d-68bb-4be0-bf47-395eb9d4c5e8,channukah.to,premium,,,68,3,9,,,
+3494788d-68bb-4be0-bf47-395eb9d4c5e8,channukah.to,premium,,,68,1,9,,,
 4ea1ed46-754e-4b0e-bf85-06c9e9f8b8dd,setloose.to,premium,,,,1,9,,,
 cf7a88ad-edd6-4499-be0e-a3d97cc1cf50,air.to,resell,,,84,49,3,humbly LLC,11/04/2019 03:29,11/04/2027 03:29
 0417ddae-03a7-4612-aae3-60353a4711ba,francisca.to,premium,,,72,3,9,,,
@@ -2791,7 +2791,7 @@ ec1ad288-2fbe-45b7-8d15-aa522790e4b9,interpersonal.to,premium,,,70,5,13,,,
 b63966da-f1ee-467e-854b-60f3dc563bd9,wisdom.to,resell,,,72,36,6,NAMECHEAP,20/11/2023 10:41,04/08/2027 10:37
 dc0daea2-244e-44b0-b501-544dffb0fd90,pressing.to,premium,,,79,7,8,,,
 698b968d-080e-474d-9610-148f588fb8d7,classicalguitar.to,premium,,,80,6,16,,,
-b84719fc-fa84-4a69-9c1d-e3769de0635a,checkover.to,premium,,,70,3,10,,,
+b84719fc-fa84-4a69-9c1d-e3769de0635a,checkover.to,premium,,,70,1,10,,,
 2f9fc435-1ade-4949-acdb-1b5010cc95de,whatthe.to,premium,,,,11,8,,,
 6546adb3-a639-4f76-a713-ae5f6bf81e5d,Idarebebound.to,premium,,,54,1,15,,,
 2558b048-4a56-4375-b459-0bfd822ece6a,birthday.to,resell,,,102,26,8,NAMECHEAP,11/07/2023 02:27,01/08/2026 00:00
@@ -2806,7 +2806,7 @@ f63c408c-f4ef-4cfe-9cb2-69bce8bac636,gforce.to,premium,,,76,14,7,,,
 afee82d7-a8ce-446d-8fac-1575e2cdf08e,chemically.to,premium,,,68,1,10,,,
 b193f65b-dacc-49aa-bfcd-04ef8418a991,guestchair.to,premium,,,68,1,11,,,
 29b1944f-30d1-43cd-b867-0ef9fcb03dc1,givesomeoneabreak.to,premium,,,72,1,20,,,
-e0b105fc-6d85-4061-a000-b5905c277b82,clearance.to,premium,,,66,15,9,,,
+e0b105fc-6d85-4061-a000-b5905c277b82,clearance.to,premium,,,66,14,9,,,
 a3aff860-708e-4dde-9480-3ef9aae850bb,received.to,resell,,,66,7,8,NAMECHEAP,01/09/2022 02:27,01/08/2026 00:00
 cbf76202-cee8-406c-8664-a522c7e6d079,saturday.to,resell,,,110,23,8,NAMECHEAP,16/06/2023 02:27,01/08/2028 00:00
 2c7cfb73-6e1c-465d-a95c-a1f84a8c759c,testimony.to,resell,,,68,10,9,NAMECHEAP,25/10/2023 07:12,25/10/2026 07:12
@@ -2877,7 +2877,7 @@ be8353fc-5c9d-43b6-80bd-0fd8996764b0,interviewee.to,premium,,,64,2,11,,,
 c2044c21-b13e-4218-a7cc-d78aa28bdb42,cinema.to,resell,,,84,31,6,NAMECHEAP,20/08/2023 02:27,01/08/2026 00:00
 68717e46-3ea6-4163-923f-7e40e6f64931,angelical.to,premium,,,68,2,9,,,
 d41f5566-0a20-4489-ba94-7fc72ec9f7dc,stagingarea.to,premium,,,64,3,12,,,
-152d6648-326c-4f94-8bbb-acadc75246fc,president.to,resell,,,70,26,9,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
+152d6648-326c-4f94-8bbb-acadc75246fc,president.to,resell,,,70,24,9,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
 af880371-9cde-406d-83a6-37123a7e79a2,VSCOgirl.to,premium,,,,1,9,,,
 ea3f196c-21df-49d5-9d1e-74ec13ef613a,permutation.to,premium,,,,5,11,,,
 5b3c7b71-b709-4e91-9cd5-021c95380be4,outofhand.to,premium,,,,5,11,,,
@@ -2916,7 +2916,7 @@ d8cdd5c8-bb34-49c1-8826-54cd3fee52a6,amethyst.to,premium,,,58,22,8,,,
 49cb3495-9b4b-46c0-a9aa-2fc82622a205,Christianname.to,premium,,,70,2,14,,,
 50206eb3-d1eb-4905-97d4-647495f06a8b,lizard.to,resell,,,66,26,6,NAMECHEAP,19/05/2024 02:27,01/08/2026 00:00
 4af0158a-83f2-4ae5-97d3-c4f410945330,anaemia.to,premium,,,62,3,7,,,
-0dfdb95a-184d-42d7-85fd-69e614d29575,conduction.to,premium,,,84,7,10,,,
+0dfdb95a-184d-42d7-85fd-69e614d29575,conduction.to,premium,,,84,4,10,,,
 895021e9-b6ea-4e61-9c4c-e5ff143b5831,directed.to,resell,,,70,11,8,NAMECHEAP,04/01/2021 07:36,04/01/2027 07:36
 0d782fce-53b4-4b6d-8c94-685a18bb973e,fat.to,resell,,,68,27,3,NAMECHEAP,29/06/2023 21:00,17/12/2026 01:45
 4dc1683c-219e-47a1-a3d9-c1724015b9cb,respected.to,premium,,,81,6,9,,,
@@ -2938,7 +2938,7 @@ d9610c67-ea45-4e4d-ae1a-47e4a883f2b3,fillout.to,premium,,,68,3,8,,,
 95e3c148-63e8-4cee-82d5-a844e800174d,sunset.to,resell,,,98,28,6,NAMECHEAP,01/08/2021 07:39,01/08/2026 07:39
 f6004dbc-3146-4954-8f8d-21e1511b5514,goodfriend.to,premium,,,58,5,11,,,
 716a3d1b-d9aa-4c27-825a-2c6950626098,Godknows.to,premium,,,56,4,9,,,
-7fea9aaa-e60b-4820-87e2-f8e4144bf12f,checklist.to,resell,,,88,24,9,NAMECHEAP,31/12/2023 02:27,01/08/2028 00:00
+7fea9aaa-e60b-4820-87e2-f8e4144bf12f,checklist.to,resell,,,88,23,9,NAMECHEAP,31/12/2023 02:27,01/08/2028 00:00
 a4101b3a-25fb-434a-9ea4-1799ebbef23d,injure.to,resell,,,68,5,6,NAMECHEAP,25/08/2025 18:45,25/08/2026 18:45
 3c2f9679-ce90-4de3-9baf-8a73a9e68915,hecksno.to,premium,,,68,1,8,,,
 8298988d-73b1-4c29-8d64-09a843a802a4,voluntarily.to,premium,,,62,3,11,,,
@@ -2963,7 +2963,7 @@ e60bb038-a22d-483f-9260-28d4c5101132,adding.to,resell,,,76,5,6,NAMECHEAP,12/04/2
 89775b93-32f3-4020-9972-050c4a91a70e,producing.to,premium,,,,4,9,,,
 ee7d3397-0719-41d2-9dbd-f4abae351b5d,bored.to,resell,,,68,25,5,NAMECHEAP,31/10/2022 02:27,01/08/2026 00:00
 24e8bd99-5f75-4212-a76a-8c10c197aa50,airportnovel.to,premium,,,73,1,13,,,
-21176438-a96c-4541-8297-e35a0ea403be,hanukah.to,premium,,,80,3,7,,,
+21176438-a96c-4541-8297-e35a0ea403be,hanukah.to,premium,,,80,2,7,,,
 d2ef0c07-65cb-42c6-a056-0476c0d8b87e,lucky.to,resell,,,76,42,5,"Sav.com, LLC",03/08/2024 23:44,04/08/2026 10:37
 3258102e-4114-49d4-9163-cde6e4d1c11c,admired.to,available,29.98,,70,7,7,namecheap,,
 2dd3d275-dafe-4f6d-a3f7-c13d9726629f,madeup.to,premium,,,70,8,7,,,
@@ -3008,7 +3008,7 @@ f68e9344-6dd6-4a81-87a7-01c3d4f972c2,kinda.to,premium,,,98,14,5,,,
 85fde412-3f57-4a1f-9f3b-3748c9315fb6,sensational.to,premium,,,74,9,11,,,
 ff141923-876a-4318-9579-9c40e2107afd,communicationmix.to,premium,,,70,1,17,,,
 5556f636-c520-42c6-a323-321d899b785c,DalaiLama.to,premium,,,80,2,10,,,
-28771222-8948-4667-ba19-8ddaae0fd010,shock.to,resell,,,54,25,5,NAMECHEAP,17/04/2023 02:27,01/08/2026 00:00
+28771222-8948-4667-ba19-8ddaae0fd010,shock.to,resell,,,54,21,5,NAMECHEAP,17/04/2023 02:27,01/08/2026 00:00
 b65e78f7-8868-4beb-bee2-6e5bfc598951,needs.to,premium,,,82,16,5,,,
 47451d1b-41a7-43b6-a6af-ab6830f3d5ef,ohreally.to,premium,,,60,3,9,,,
 bbe625e4-4b58-43a1-89cf-e00083ba73a6,especially.to,resell,,,58,6,10,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
@@ -3044,7 +3044,7 @@ a94d42f3-d1ea-4bdd-9413-ceb07d8b2896,refundable.to,premium,,,84,3,10,,,
 ed67ca5d-6144-40d2-81f7-e3722df03f15,oarblade.to,premium,,,64,1,9,,,
 3845a0eb-f261-45b0-b709-ec66909c7a3c,steppingstone.to,premium,,,74,10,14,,,
 b61ab559-00f7-4a1f-ba27-0d23924251f1,selfconfident.to,premium,,,68,1,14,,,
-d5a18f28-5f98-4bc6-90fe-a0e221ca8681,clam.to,premium,,,70,17,4,,,
+d5a18f28-5f98-4bc6-90fe-a0e221ca8681,clam.to,premium,,,70,15,4,,,
 a0b20af8-e020-4a5b-a9b0-2184c73d8379,exercising.to,resell,,,71,6,10,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 d95983df-0e0b-4dab-ac07-3ac9ee51b09b,follower.to,resell,,,64,12,8,NAMECHEAP,27/10/2023 02:27,01/08/2026 00:00
 7693cab2-9eb6-41ae-b43c-51ac4084af36,reliability.to,premium,,,,33,11,,,
@@ -3053,7 +3053,7 @@ f9046d4b-b5f2-4979-8350-eee953368f79,seeming.to,premium,,,86,3,7,,,
 a996c2ea-71ab-4878-8f6c-433a8962bdb1,shocking.to,available,29.98,,68,8,8,namecheap,,
 77cb2b77-3d24-4d4e-b08a-3be2174ebd2c,indecent.to,premium,,,56,6,8,,,
 bb7c1b14-1a76-4e6f-98d1-a4bf7f78d355,stuck.to,resell,,,52,13,5,NAMECHEAP,24/12/2023 02:27,01/08/2028 00:00
-efdaec7e-fb2c-4a54-964d-4e101fac997a,years.to,resell,,,88,14,5,NAMECHEAP,17/02/2023 02:27,01/08/2026 00:00
+efdaec7e-fb2c-4a54-964d-4e101fac997a,years.to,resell,,,88,12,5,NAMECHEAP,17/02/2023 02:27,01/08/2026 00:00
 a43b2571-18de-4e20-882c-46752534453d,mobilephone.to,premium,,,84,13,12,,,
 2fe40669-bf2f-4a2d-936f-469f305f7116,howtheturntables.to,premium,,,48,1,18,,,
 14a7fc5c-2058-4f89-b161-0123545a5e36,musiccentre.to,premium,,,72,2,12,,,
@@ -3071,11 +3071,11 @@ b3ebd9ca-6f60-46cb-8798-b382037f619d,committing.to,premium,,,64,1,10,,,
 6c42b22d-f2a8-4c9d-ad28-4f1b2a6759a3,outing.to,resell,,,77,9,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 d3c5cfa5-f58e-45b3-b8d4-5720b1b7a473,accepting.to,resell,,,74,5,9,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 ed2cbf9d-6e1e-4d2b-88ce-3a8ee39759b6,Godzilla.to,premium,,,86,10,8,,,
-088466f3-917b-481c-a8ec-68228790f5ff,campus.to,resell,,,99,40,6,NAMECHEAP,25/04/2023 02:27,01/08/2026 00:00
+088466f3-917b-481c-a8ec-68228790f5ff,campus.to,resell,,,99,38,6,NAMECHEAP,25/04/2023 02:27,01/08/2026 00:00
 4d8ecc9c-fa3e-4d92-a341-bdb199ed4e2e,letterofindemnity.to,premium,,,50,1,19,,,
 88189b21-f40c-4716-ad7b-45fa36ff5737,affirm.to,resell,,,80,81,6,NAMECHEAP,24/11/2019 02:27,01/08/2026 00:00
 abc101dc-e4d7-454c-b4f5-4bc4b9ee5957,uptospeed.to,premium,,,66,6,11,,,
-c0940247-532a-42df-9182-8b74c60b94ee,direction.to,resell,,,72,14,9,Government of Kingdom of Tonga,22/09/2022 02:27,28/09/2026 07:53
+c0940247-532a-42df-9182-8b74c60b94ee,direction.to,resell,,,72,12,9,Government of Kingdom of Tonga,22/09/2022 02:27,28/09/2026 07:53
 908e450a-1321-4966-8396-c0d054e02325,giveway.to,premium,,,64,2,8,,,
 bb6aab03-23bd-4775-b193-36936f8a2c99,Germanpizza.to,premium,,,78,1,12,,,
 8fe21bca-fa22-4617-9eaf-35cd01c0f7ad,balance.to,resell,,,100,31,7,NAMECHEAP,28/07/2020 04:06,28/07/2026 04:06
@@ -3119,7 +3119,7 @@ a02e71e4-6f93-421a-a725-869605d7014d,metric.to,resell,,,104,38,6,NAMECHEAP,08/07
 4f4bb676-f9db-4e82-a4b3-14ecb104a68f,ballroom.to,premium,,,96,11,8,,,
 a28dbc93-bf57-4e2d-965b-53e8c44a73e7,geometry.to,resell,,,68,21,8,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 e915bd7f-d914-4fb9-b187-7061d0e25d04,Nicky.to,resell,,,66,11,5,NAMECHEAP,13/06/2024 02:27,01/08/2026 00:00
-67671b19-03d8-4413-a328-711eb5784bdc,victoria.to,resell,,,82,32,8,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
+67671b19-03d8-4413-a328-711eb5784bdc,victoria.to,resell,,,82,30,8,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
 49afdb4d-930f-4bce-9b53-67a20ffb04a9,succinct.to,available,29.98,,69,9,8,namecheap,,
 0e6a1786-0cac-489e-b380-b0c6f81f9749,howlong.to,resell,,,54,4,8,NAMECHEAP,01/04/2023 02:27,01/08/2026 00:00
 576c306d-8be7-4f3f-ac1a-5210dd12bf48,germany.to,resell,,,70,97,7,NAMECHEAP,15/01/2025 02:27,01/08/2026 00:00
@@ -3130,14 +3130,14 @@ a705819b-b347-495d-be13-526426a7d165,justlikethat.to,premium,,,57,4,14,,,
 3837c281-120b-4c07-b7c9-6ed1d31cdef6,lip.to,resell,,,72,15,3,NAMECHEAP,17/04/2023 02:27,01/08/2026 00:00
 7590428a-59eb-4bf6-a5a2-3a034d9364ab,bumpinto.to,premium,,,68,1,9,,,
 aef0ae09-8ba5-4d86-868c-e63ee33ecd57,againstallodds.to,premium,,,74,8,16,,,
-4d5b9aa4-cc34-4bf5-a1d6-a31e296ff462,gallon.to,premium,,,66,8,6,,,
+4d5b9aa4-cc34-4bf5-a1d6-a31e296ff462,gallon.to,premium,,,66,6,6,,,
 67b45467-f70f-4cd4-ac27-46b570340eed,earliest.to,available,29.98,,60,3,8,namecheap,,
 171d6f1e-3e1e-4696-9e38-58fd2efa67b4,twelve.to,available,29.98,,88,22,6,namecheap,,
 396ce9c2-0631-4278-bc31-d5406f369dcb,sunday.to,resell,,,106,34,6,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
 e6536dbf-22a5-4346-bc14-da4010cda4b9,dignified.to,available,29.98,,66,5,9,namecheap,,
 447eb2c3-69d6-40c8-9f52-a8afd751178d,trauma.to,resell,,,62,22,6,NAMECHEAP,24/02/2024 02:27,01/08/2028 00:00
 fdc6c4a7-dbd9-4e37-9c23-3d3db4b5eeec,NorthKorea.to,premium,,,,7,11,,,
-66d31f6c-d016-4dcf-9143-2820cd37cebf,clarity.to,resell,,,76,49,7,NAMECHEAP,12/06/2020 02:27,01/08/2026 00:00
+66d31f6c-d016-4dcf-9143-2820cd37cebf,clarity.to,resell,,,76,47,7,NAMECHEAP,12/06/2020 02:27,01/08/2026 00:00
 0c45c7f4-34f3-4230-bae9-1259f45923c5,direct.to,resell,,,104,38,6,Government of Kingdom of Tonga,02/01/2016 20:51,02/01/2027 20:51
 b96803bb-5f0e-4d00-8214-c561e30d010f,prove.to,resell,,,98,16,5,NAMECHEAP,08/10/2023 02:27,01/08/2026 00:00
 c5b206ed-7363-46fc-b18f-b5c686274e47,racing.to,resell,,,78,25,6,NAMECHEAP,15/06/2023 01:24,09/06/2026 03:28
@@ -3146,8 +3146,8 @@ acdc5529-95c0-4a2b-9b8c-4f76bce57d22,checkin.to,resell,,,68,28,10,NAMECHEAP,21/0
 ea4e6b78-ee14-4a88-b49c-7152b1439b6a,cordial.to,available,29.98,,98,13,7,namecheap,,
 8ac6b9fb-1e52-4eea-ac11-d42a45dd796f,cliche.to,premium,,,91,11,6,,,
 b0430835-3464-467a-9ec1-7ee3e6e4f64c,easter.to,resell,,,110,19,6,NAMECHEAP,07/08/2025 00:35,07/08/2026 00:35
-51ca0163-139d-47d3-8ff2-7eadb363c58a,chanukkah.to,premium,,,68,4,9,,,
-82a2f19c-66a7-430f-a923-e534bf42da86,detection.to,resell,,,72,13,9,NAMECHEAP,13/11/2025 06:27,13/11/2026 06:27
+51ca0163-139d-47d3-8ff2-7eadb363c58a,chanukkah.to,premium,,,68,2,9,,,
+82a2f19c-66a7-430f-a923-e534bf42da86,detection.to,resell,,,72,10,9,NAMECHEAP,13/11/2025 06:27,13/11/2026 06:27
 b776a81c-9c92-4f74-a427-be323048bd05,commend.to,premium,,,103,9,7,,,
 232fffc5-51c4-4cc5-a5a2-95245caa94c0,IhopeImaybeshot.to,premium,,,48,1,20,,,
 7ced05d5-e091-4ade-a6d6-751fb169d463,paperplate.to,premium,,,70,2,11,,,
@@ -3180,7 +3180,7 @@ bad70849-1789-4b0b-ab0d-8864c0f8db15,transferableskill.to,premium,,,76,1,18,,,
 798c7eef-8b3d-4137-ae72-99876c6d7f46,thirteen.to,available,29.98,,84,13,8,namecheap,,
 5e6e2867-a343-44fa-88c5-3659de1f7bdc,havegot.to,premium,,,70,1,8,,,
 9b21ae99-b9ba-4e41-8098-0657223893bb,marginal.to,premium,,,74,97,8,,,
-33500358-34f1-4c7a-99fb-698c05fb17b1,canoe.to,resell,,,98,15,5,NAMECHEAP,05/04/2023 02:27,04/08/2028 10:37
+33500358-34f1-4c7a-99fb-698c05fb17b1,canoe.to,resell,,,98,13,5,NAMECHEAP,05/04/2023 02:27,04/08/2028 10:37
 660c14bd-703d-46cd-b944-352f47187758,yeahnah.to,premium,,,,6,8,,,
 27d99337-15ad-4b06-bab7-3f5ce04533c5,favorite.to,resell,,,66,21,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 ac426348-eb00-4803-a7e0-bef560db7fa2,rotten.to,resell,,,68,13,6,NAMECHEAP,27/08/2023 02:27,01/08/2026 00:00
@@ -3209,7 +3209,7 @@ b99d5228-52fd-40fc-ad06-00dc4331deac,polish.to,resell,,,94,21,6,NAMECHEAP,25/08/
 cd7c7759-014d-4726-84ae-a5c51ac2460f,virtuoso.to,resell,,,94,20,8,NAMECHEAP,07/08/2025 01:26,07/08/2026 01:26
 b0c67cf9-2946-4d10-8871-45bc43546c04,ethereal.to,resell,,,88,32,8,NAMECHEAP,23/05/2024 02:27,01/08/2026 00:00
 cf3bda3f-8b48-464f-9f99-b1ae8e09038e,oliveoil.to,premium,,,,14,9,,,
-6d5b92c0-5fcd-4580-885c-07436bd9a464,conductor.to,premium,,,74,19,9,,,
+6d5b92c0-5fcd-4580-885c-07436bd9a464,conductor.to,premium,,,74,20,9,,,
 f4623e93-643f-4155-ac9e-7f9f41b40275,antitumor.to,premium,,,88,2,9,,,
 56e1ff2d-1e60-4ad2-b44d-4cb6c46bcc73,communal.to,premium,,,66,13,8,,,
 ebc047bd-60d5-475b-afe8-71dc6a66e619,utmost.to,premium,,,92,8,6,,,
@@ -3264,7 +3264,7 @@ c93f165a-549d-48f5-85f0-b4d547a0ced0,wowfactor.to,premium,,,76,5,10,,,
 26906c9d-001d-4ecb-92af-c10f43c0b054,worsening.to,premium,,,58,2,9,,,
 c486d7fd-e323-45d0-ba06-a1e7f30ce622,solve.to,resell,,,102,27,5,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 3c199e82-08a2-44b9-9916-5c81421ebe1b,satanic.to,available,29.98,,48,12,7,namecheap,,
-f0de51d6-24e0-47a7-acdb-034340fbf649,jesus.to,resell,,,126,53,5,humbly LLC,26/03/2023 02:27,29/03/2027 12:37
+f0de51d6-24e0-47a7-acdb-034340fbf649,jesus.to,resell,,,126,52,5,humbly LLC,26/03/2023 02:27,29/03/2027 12:37
 c5961b43-c647-48ae-9458-6542a405d0c2,havethelastlaugh.to,premium,,,70,1,19,,,
 ccade390-b910-4d09-a732-dd689cac9315,organise.to,resell,,,76,10,8,NAMECHEAP,14/08/2023 02:27,01/08/2028 00:00
 5f735239-066f-4ed2-9b2c-76e516905881,cryout.to,premium,,,72,3,7,,,
@@ -3291,7 +3291,7 @@ ab6c8701-7c40-4909-a3da-92c92afb3e0a,sweatshirt.to,resell,,,74,5,10,NAMECHEAP,25
 f99f57c8-80ca-4653-9ff6-45b78a544bf8,StHelena.to,premium,,,66,3,10,,,
 3ac59c6d-4eb7-41dc-ade4-f004ae3acc51,atthat.to,premium,,,75,1,7,,,
 12215211-dfe1-4f6b-82ea-104be8680890,luncheonsausage.to,premium,,,74,1,16,,,
-d9f0cb2d-d37f-4b44-a8c8-939781785a1e,localtime.to,premium,,,68,8,10,,,
+d9f0cb2d-d37f-4b44-a8c8-939781785a1e,localtime.to,premium,,,68,5,10,,,
 d5d6dbaa-7369-4213-8b5d-b0bed9bdd8e8,peaking.to,premium,,,88,3,7,,,
 2982985b-b903-4c26-a240-5a0a736df07f,pricked.to,premium,,,,1,7,,,
 87602d78-011c-4de9-ac0b-c8d821439df2,problem.to,resell,,,84,17,7,NAMECHEAP,16/04/2023 02:27,01/08/2026 00:00
@@ -3340,14 +3340,14 @@ e02a96ee-f347-4492-9ffa-65f14defd26b,playoff.to,premium,,,72,7,8,,,
 28465038-906d-44f1-809c-5edeb63bf08e,tohellwith.to,premium,,,,1,12,,,
 d8260eec-4b8b-4b49-a7d5-ecf1712191d0,canadian.to,resell,,,88,26,8,NAMECHEAP,10/03/2024 02:27,01/08/2028 00:00
 c70e31c8-97da-47ff-84c5-0a419ff04194,baggagecheck.to,premium,,,70,1,13,,,
-d3fbc49f-b5fb-404a-a389-99742bff1e72,fortune.to,resell,,,72,53,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+d3fbc49f-b5fb-404a-a389-99742bff1e72,fortune.to,resell,,,72,48,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 4e00c80a-628b-4e71-afb3-a43a9129a464,setsail.to,premium,,,,9,8,,,
 bbdec1a1-9b6a-4ca1-8d63-517a7a588d0d,clipthewingsof.to,premium,,,72,1,17,,,
 6d561587-4a7c-455b-8ad4-3dc6db301268,such.to,resell,,,76,17,4,NAMECHEAP,07/08/2025 01:25,07/08/2026 01:25
 88337e33-37a2-4c52-84be-88a9175c613b,wagon.to,premium,,,64,10,5,,,
 11624acd-833d-441c-8e9a-6d1d88425a2a,teammate.to,premium,,,76,10,8,,,
 9294d3a5-027f-4d4a-bf5c-cfbbe0c948b0,universally.to,premium,,,62,5,11,,,
-ca3550cc-9c78-4f72-8318-6e1ab158ec91,sensor.to,resell,,,72,23,6,NAMECHEAP,08/04/2025 02:27,01/08/2028 00:00
+ca3550cc-9c78-4f72-8318-6e1ab158ec91,sensor.to,resell,,,72,21,6,NAMECHEAP,08/04/2025 02:27,01/08/2028 00:00
 2420e36b-e3d0-436b-858a-a9f2851632ca,queens.to,premium,,,62,27,6,,,
 3a7825fa-d3db-4841-afe3-a76f737086af,cruel.to,resell,,,112,11,5,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 9d927dd4-d1c6-41ac-83cc-93a93cd8dac4,revolved.to,premium,,,61,4,8,,,
@@ -3394,7 +3394,7 @@ b37cfd92-baea-4efe-9d6a-b0145bc035be,feminism.to,premium,,,68,10,8,,,
 e54141dd-7821-4faa-a6e8-6e66628798c6,whoknew.to,premium,,,,4,8,,,
 0f60c40b-3fa5-4800-b271-11461ae4ad28,poisoning.to,premium,,,56,3,9,,,
 9e79cd5c-362c-49b6-859a-d592b2575062,attorneygeneral.to,premium,,,64,2,16,,,
-304d1d72-cf91-4c65-a8e7-0428e9ae37f3,candybar.to,premium,,,73,7,9,,,
+304d1d72-cf91-4c65-a8e7-0428e9ae37f3,candybar.to,premium,,,73,6,9,,,
 d9d17bbf-2876-4d9a-a0c4-c0d90fe910f4,divers.to,premium,,,70,13,6,,,
 10551804-4082-4a39-b1b9-a14ef3ce35d5,Iknow.to,premium,,,58,18,6,,,
 49302f24-390c-459b-abe0-005347190b16,vein.to,resell,,,88,15,4,NAMECHEAP,30/07/2023 02:27,01/08/2026 00:00
@@ -3406,7 +3406,7 @@ d9d17bbf-2876-4d9a-a0c4-c0d90fe910f4,divers.to,premium,,,70,13,6,,,
 6f987c75-d5af-4745-9447-09392eb99698,broadcast.to,resell,,,114,24,9,NAMECHEAP,18/06/2023 02:27,01/08/2026 00:00
 6e509cae-23a9-4c9d-a367-ef42c4515d25,humanities.to,premium,,,70,8,10,,,
 5ca453fc-33b7-4e2d-aaf8-2b5ef7dba05d,pushabout.to,premium,,,,1,10,,,
-78acfb09-c5eb-4b94-8d0d-b1c37153ffeb,cake.to,resell,,,102,33,4,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
+78acfb09-c5eb-4b94-8d0d-b1c37153ffeb,cake.to,resell,,,102,30,4,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 b2cc4b3f-7030-49f2-9322-590de74a07ff,standfor.to,premium,,,,4,9,,,
 dd854d5a-6380-47e7-b0de-6d622254cb36,sep.to,resell,,,72,17,3,NAMECHEAP,08/06/2023 02:27,01/08/2026 00:00
 13f9967e-2049-498e-9336-993c52363bd7,essence.to,resell,,,72,26,7,NAMECHEAP,27/09/2022 02:27,01/08/2026 00:00
@@ -3450,7 +3450,7 @@ e316f0dd-3109-4405-aa07-c4f6a8297aae,baconexplosion.to,premium,,,76,1,15,,,
 c878a342-2385-49d0-a4aa-19cc9b2ab49e,speedlimiter.to,premium,,,66,2,13,,,
 ac738dd7-3193-4c61-a938-87aa2734be7c,wakingup.to,resell,,,75,4,9,NAMECHEAP,04/04/2022 02:27,01/08/2026 00:00
 53fc73a9-be34-46c7-82d5-6606c6235e73,worm.to,resell,,,60,23,4,NAMECHEAP,19/09/2024 02:27,01/08/2026 00:00
-d9b9d5c1-9c0b-4dc2-99fa-08f6f640efd3,richmond.to,resell,,,70,27,8,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
+d9b9d5c1-9c0b-4dc2-99fa-08f6f640efd3,richmond.to,resell,,,70,26,8,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
 e3dc0d02-5800-4222-b417-d8314fb2c753,commanding.to,premium,,,87,4,10,,,
 827f4f46-402e-4bfb-9b65-f257b9bf7041,further.to,resell,,,100,13,7,NAMECHEAP,07/03/2024 02:27,01/08/2028 00:00
 44c9c5be-9643-4b07-b55c-b055ee5e00c7,ofapiece.to,premium,,,,1,10,,,
@@ -3460,7 +3460,7 @@ b4fda289-1ec4-419a-846f-7e739937a653,tippingpoint.to,premium,,,70,12,13,,,
 2ce8c55b-45fb-4b2a-8d89-6e263de899f9,fellowman.to,premium,,,66,2,10,,,
 132fabf5-2f30-4805-9113-700ac89b1f44,totaled.to,premium,,,74,3,7,,,
 c366027d-aa7f-42ba-8b1c-51dbd8489d3f,sloth.to,resell,,,80,24,5,NAMECHEAP,27/09/2023 21:02,27/09/2026 21:02
-fc3ce9c6-35de-45af-8717-9bc7250ce5fe,california.to,resell,,,72,39,10,NAMECHEAP,18/11/2023 19:51,02/11/2026 22:05
+fc3ce9c6-35de-45af-8717-9bc7250ce5fe,california.to,resell,,,72,36,10,NAMECHEAP,18/11/2023 19:51,02/11/2026 22:05
 2a2311f4-af79-44bd-80f8-c3869b6d8f18,choice.to,resell,,,74,32,6,"Spaceship, Inc.",16/05/2025 21:49,19/05/2026 07:48
 caddc788-559e-4203-9b49-51e7f86922cc,superbly.to,premium,,,66,5,8,,,
 f6b81507-3363-4352-a7d1-8276743af4b4,WhiteCloud.to,premium,,,,11,11,,,
@@ -3486,8 +3486,8 @@ f4c57b3c-6962-4340-98da-e9ebf17e58b0,manmade.to,resell,,,62,12,8,NAMECHEAP,12/07
 34247c64-e9ab-4b10-8a83-0f50080a2f9f,concentrated.to,premium,,,62,6,12,,,
 2c33a1fd-ecdf-4a79-9917-365dcb567e95,fashion.to,resell,,,98,31,7,humbly LLC,09/02/2024 02:27,14/02/2026 05:35
 373eb983-a7da-4722-8823-5c2d229174b8,youthink.to,premium,,,,4,9,,,
-9a5c26b2-ac7f-40f8-b815-62a69d83e8f6,condolence.to,premium,,,64,7,10,,,
-b8d3b9bb-00ab-4162-9af7-577d7e40a4de,challenge.to,resell,,,86,26,9,NAMECHEAP,14/01/2024 02:27,01/08/2026 00:00
+9a5c26b2-ac7f-40f8-b815-62a69d83e8f6,condolence.to,premium,,,64,4,10,,,
+b8d3b9bb-00ab-4162-9af7-577d7e40a4de,challenge.to,resell,,,86,25,9,NAMECHEAP,14/01/2024 02:27,01/08/2026 00:00
 c58bf2bd-8599-411b-a887-3dbd5c92a1f9,sue.to,resell,,,74,16,3,NAMECHEAP,29/05/2023 02:27,01/08/2026 00:00
 3c2eefd7-2993-4f1c-8f88-ec4975cf9c41,ageing.to,available,29.98,,86,6,6,namecheap,,
 1c617e86-3593-479b-88bc-983a89fb57e4,seeabout.to,premium,,,,1,9,,,
@@ -3504,7 +3504,7 @@ a889d4e6-3ccc-4fd9-b491-b4d41ddac2fd,beautifully.to,premium,,,68,5,11,,,
 e10ad512-7eba-4588-b4f9-1735a7dde3ee,sight.to,resell,,,94,20,5,NAMECHEAP,10/09/2025 05:24,10/09/2026 05:24
 f3bb557d-97a3-4600-978a-2405dd65a9d7,gaspowered.to,premium,,,60,2,11,,,
 4127ff28-b76e-44bb-a412-94909277d78f,requested.to,premium,,,64,5,9,,,
-02c9ecea-b47a-4d35-9d2e-d2655ab6fd2e,colours.to,premium,,,72,14,7,,,
+02c9ecea-b47a-4d35-9d2e-d2655ab6fd2e,colours.to,premium,,,72,12,7,,,
 48d84b8b-8992-4aa8-81ca-8a26617c013b,Marco.to,resell,,,76,35,5,Government of Kingdom of Tonga,11/02/2015 05:09,11/02/2026 05:09
 d04befaa-e249-48d4-92c9-81d34d9de86a,discover.to,resell,,,66,75,8,"Spaceship, Inc.",25/07/2025 02:19,23/08/2026 11:59
 2f66085d-2ded-4d72-85bb-48fbd788da16,chiefjustice.to,premium,,,68,1,13,,,
@@ -3515,18 +3515,18 @@ f31774d9-80a7-4d58-9607-617bffb4e2ea,ifalle.to,premium,,,58,1,7,,,
 6110de5d-1c52-4d6b-b36a-17f1ad508a20,tailormade.to,premium,,,90,15,11,,,
 b061130a-67ca-4866-80ff-b7c386510328,smileyface.to,premium,,,78,6,11,,,
 13e8d699-7325-47a2-bdee-6818fba1287c,mist.to,resell,,,62,27,4,NAMECHEAP,03/07/2023 02:27,01/08/2026 00:00
-b58aeab1-9151-4aae-b35b-9b49a112c0c3,rage.to,resell,,,84,29,4,NAMECHEAP,05/07/2023 02:27,01/08/2026 00:00
+b58aeab1-9151-4aae-b35b-9b49a112c0c3,rage.to,resell,,,84,26,4,NAMECHEAP,05/07/2023 02:27,01/08/2026 00:00
 cd3ffcec-45ae-4406-865c-da247f2e2f16,shoulders.to,premium,,,,4,9,,,
 e8810c9f-a9c7-4d3b-957c-a6b1a53d2b5d,bash.to,resell,,,88,27,4,NAMECHEAP,14/01/2024 02:27,01/08/2026 00:00
 8949492a-eb01-49ca-9dc5-ff0c779f8d7e,howdo.to,premium,,,58,13,6,,,
 f1841a46-f33e-4210-bcec-4e32bd2e39b2,penetration.to,premium,,,,4,11,,,
 45d0cee0-6d0a-4733-8f33-1348a53a5e52,thanksto.to,premium,,,60,3,9,,,
-70fb131f-9cce-43c5-854f-a96097b253b8,caracas.to,premium,,,66,11,7,,,
+70fb131f-9cce-43c5-854f-a96097b253b8,caracas.to,premium,,,66,9,7,,,
 0c3bf05a-947b-49d0-a973-cf65f5376ab1,onequarter.to,premium,,,,2,11,,,
 a5ca7b0c-34c3-46ab-bd97-998a7de9e0c8,naturestudent.to,premium,,,,1,14,,,
 683a7a30-0d67-4e1d-a8f8-8647452c37c5,TraverseCity.to,premium,,,,7,13,,,
 032027da-d696-47ff-8494-6f12c77096d0,croptop.to,premium,,,76,4,8,,,
-148e9269-c2e9-45c2-b44d-f0855eaacec8,cue.to,resell,,,66,35,3,NAMECHEAP,25/04/2024 09:40,24/02/2027 03:28
+148e9269-c2e9-45c2-b44d-f0855eaacec8,cue.to,resell,,,66,33,3,NAMECHEAP,25/04/2024 09:40,24/02/2027 03:28
 aaa5169c-67ba-42df-9cb1-c0e9127ee3a9,Germanchamomile.to,premium,,,76,1,16,,,
 24815801-ee7b-4764-9276-fbd489957aa1,abovecited.to,available,29.98,,58,1,11,namecheap,,
 8f7d5522-6295-4d5a-8b2b-ee60317f10b7,collectivenoun.to,premium,,,72,1,15,,,
@@ -3542,7 +3542,7 @@ b9a5eff3-967b-4c28-82a6-ca57338aa971,youwhat.to,premium,,,,2,8,,,
 82679062-9535-4562-b178-009781f03a72,sweetdreams.to,resell,,,,14,12,NAMECHEAP,19/03/2025 02:27,01/08/2028 00:00
 6479c85f-663f-42a5-98a7-656cf9ff4e96,muhfucker.to,premium,,,62,1,9,,,
 c7829518-d9ad-45bc-bbb1-9cbd729728c4,statistics.to,resell,,,60,34,10,NAMECHEAP,07/08/2025 00:38,07/08/2026 00:38
-c87854fa-9cc0-41df-85a8-2a1ccde2a89d,confetti.to,premium,,,95,19,8,,,
+c87854fa-9cc0-41df-85a8-2a1ccde2a89d,confetti.to,premium,,,95,16,8,,,
 a1c9e41e-7048-4860-89f8-1416b1b07b65,Californian.to,premium,,,88,5,11,,,
 14beaf23-672d-4870-83d0-b464214d62e1,moderately.to,premium,,,56,4,10,,,
 c80fdb33-5742-4bdb-8e48-bfe8af1dd094,turned.to,premium,,,66,5,6,,,
@@ -3557,7 +3557,7 @@ f685cd0e-6868-4112-9243-bae822e2a7c2,eyewitness.to,premium,,,66,7,10,,,
 9fbb149b-3c45-4728-bc05-0160a1f588b5,slobabout.to,premium,,,,1,10,,,
 f47c3986-2d67-4404-8c72-ef4deef14a01,andfinally.to,premium,,,66,2,11,,,
 a24f8883-dc11-48c5-98c4-ca4362580c98,understood.to,premium,,,86,9,10,,,
-19be84bc-305c-44ef-8bee-024ab96aaca7,cucumber.to,premium,,,70,14,8,,,
+19be84bc-305c-44ef-8bee-024ab96aaca7,cucumber.to,premium,,,70,13,8,,,
 b83f0486-ea01-4458-b12e-44ceec62e45a,righteous.to,premium,,,91,10,9,,,
 a725bfb8-8824-4a0f-ab6d-cc15cb80cfc5,thousand.to,available,29.98,,84,11,8,namecheap,,
 f883872a-42fb-4f4d-9eb8-f8c0a85febb4,soundbar.to,premium,,,74,5,8,,,
@@ -3565,7 +3565,7 @@ c72dbee8-c165-44ba-9247-6f75afe39064,infront.to,available,29.98,,60,10,8,nameche
 88b52da4-d431-4827-8e3b-13bfecc3c9b9,thickandthin.to,premium,,,,2,14,,,
 d0884086-f105-4c73-8303-e8a879b92f6a,missinginaction.to,premium,,,60,2,17,,,
 12744f1c-ef52-4082-b088-2a077ff2cacd,overdue.to,premium,,,62,9,7,,,
-c9fd976e-09c3-4bb5-a6a2-f571b46e2d4e,filming.to,resell,,,74,10,7,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
+c9fd976e-09c3-4bb5-a6a2-f571b46e2d4e,filming.to,resell,,,74,8,7,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 236565c6-5ded-4752-9002-f4d7ab6dee1d,showandtell.to,premium,,,74,8,13,,,
 63213a68-1e8b-4aa5-886c-9ecfc310f864,subjects.to,premium,,,,3,8,,,
 744fe25c-857b-438e-a52f-5a1bf4e123b2,device.to,resell,,,80,29,6,NAMECHEAP,23/05/2023 05:12,30/05/2026 02:12
@@ -3583,10 +3583,10 @@ c9028f20-9dfd-482e-bcd0-18923fa4e5e0,Ibegyourpardon.to,premium,,,54,2,17,,,
 be2656c0-addc-40ab-ac93-5b42e859efdd,vector.to,resell,,,100,40,6,NAMECHEAP,23/03/2023 02:27,01/08/2028 00:00
 34ee7417-b66a-4154-937e-a13188890563,feel.to,resell,,,144,28,4,Government of Kingdom of Tonga,28/08/2017 11:46,24/09/2026 03:28
 008c68b8-98d6-478f-9362-07ad4ae0a985,would.to,premium,,,104,10,5,,,
-6534b179-1aad-4a33-a70e-88befe971af4,cookie.to,resell,,,70,35,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+6534b179-1aad-4a33-a70e-88befe971af4,cookie.to,resell,,,70,33,6,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 436e326b-04cf-43d7-b4a7-0896e6044e93,stands.to,premium,,,,6,6,,,
 829429e1-dc72-4265-bb74-095c0a8fbf26,valley.to,resell,,,60,31,6,NAMECHEAP,21/03/2023 02:27,01/08/2028 00:00
-a2ae21a7-1158-4911-b5d1-e0374cb2d7aa,channukkah.to,premium,,,68,3,10,,,
+a2ae21a7-1158-4911-b5d1-e0374cb2d7aa,channukkah.to,premium,,,68,1,10,,,
 28999197-1e18-444d-af37-9bd998fdb1dc,freaking.to,premium,,,80,5,8,,,
 04a345b5-fc43-499f-9ce3-604c2fcf61eb,advanced.to,resell,,,74,29,8,NAMECHEAP,20/06/2023 13:50,20/06/2027 13:50
 e4c8bc6a-e3be-4547-9368-724c392c2421,overwhelm.to,premium,,,80,4,9,,,
@@ -3624,7 +3624,7 @@ ebcf7fdb-030f-4303-8427-eaad38219aef,cometoahead.to,premium,,,66,1,14,,,
 4885a214-8596-442d-b050-e67302458429,dieselengine.to,premium,,,70,3,13,,,
 292ff6bb-96be-48e5-8e69-1c88454fcac6,answering.to,premium,,,74,7,9,,,
 6f3a8db6-79b3-457e-916a-c19928fc71b9,changing.to,resell,,,64,11,8,NAMECHEAP,17/08/2023 02:27,01/08/2026 00:00
-e540e800-6fd5-414a-bcd5-60f5ecec4b51,nebraska.to,resell,,,50,22,8,NAMECHEAP,13/11/2025 06:28,13/11/2026 06:28
+e540e800-6fd5-414a-bcd5-60f5ecec4b51,nebraska.to,resell,,,50,20,8,NAMECHEAP,13/11/2025 06:28,13/11/2026 06:28
 b39596bf-70c9-42a3-85a6-3a72541a7c1c,howdoyoumean.to,premium,,,54,1,15,,,
 47399f67-e25c-4117-b3e2-084174223bfd,surrogate.to,available,29.98,,100,10,9,namecheap,,
 0cf8baf3-4433-4552-8d89-634279eecc7a,arguement.to,premium,,,56,1,9,,,
@@ -3677,7 +3677,7 @@ c4ae5663-bacf-4fa9-8809-345764cf9caa,notwithstanding.to,premium,,,60,3,15,,,
 3108ee90-3755-48dc-93c3-2c82afc225ae,Iaskyou.to,premium,,,54,1,9,,,
 c3e17503-e859-4ee5-a8fa-bd479c9a918e,headoverheels.to,premium,,,84,5,15,,,
 2ca6253c-de39-4089-b343-73a16fed7770,digitalwatch.to,premium,,,74,2,13,,,
-5d8b2330-e347-449b-9694-f33c0111d338,campaigner.to,premium,,,69,9,10,,,
+5d8b2330-e347-449b-9694-f33c0111d338,campaigner.to,premium,,,69,7,10,,,
 fadce690-977d-4c0a-b358-5cad52910664,yall.to,premium,,,60,12,4,,,
 2f9f3198-75c5-41be-a642-4aa89a0ae130,verbs.to,resell,,,,5,5,NAMECHEAP,08/11/2023 02:27,01/08/2026 00:00
 d4aa33c6-3a35-4bdc-9931-61d416ea513d,sleeping.to,resell,,,86,11,8,NAMECHEAP,30/10/2023 02:27,01/08/2026 00:00
@@ -3706,7 +3706,7 @@ cb4132f4-d00c-468a-8ab8-bd8ef24b8d49,grayheaded.to,premium,,,60,1,11,,,
 74f23e4b-237e-44a3-84a9-d6b1ee57d852,Crayola.to,premium,,,80,10,7,,,
 824f39d8-1b06-4435-ba58-aa6647a43433,respecting.to,premium,,,52,2,10,,,
 466ac9b0-72c8-4b2e-bf3c-4681674b8f00,oyster.to,premium,,,64,23,6,,,
-c732151e-c52e-495b-85cf-d7f8f2c26cb7,god.to,resell,,,90,51,3,"Spaceship, Inc.",17/04/2023 05:00,31/08/2026 03:28
+c732151e-c52e-495b-85cf-d7f8f2c26cb7,god.to,resell,,,90,49,3,"Spaceship, Inc.",17/04/2023 05:00,31/08/2026 03:28
 3169fa48-e191-4c5c-b6c2-ab12eadd3449,kilogramme.to,premium,,,66,2,10,,,
 0c32e9c2-c920-4310-9d17-178989a941fd,righthere.to,premium,,,,6,10,,,
 8a2a3cf2-d74a-4558-974a-d7126c6a9e1d,upstairs.to,resell,,,88,12,8,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
@@ -3734,7 +3734,7 @@ ab39c6c6-9f4c-4968-9ccf-095a94e9fe7b,gothere.to,premium,,,64,6,8,,,
 37a9a298-7f62-40bf-b1ad-79076211eec8,youknowwhat.to,premium,,,,2,13,,,
 f0b70ab2-9e8c-4d47-979f-d04718c31d34,photography.to,resell,,,,21,11,NAMECHEAP,12/12/2023 02:27,01/08/2026 00:00
 f8210309-c43b-4d0a-ac49-a3907b4b07dc,StrongCity.to,premium,,,,2,11,,,
-3f7dcfba-8ea6-4bc3-8150-a713753a8c4b,congestion.to,premium,,,60,6,10,,,
+3f7dcfba-8ea6-4bc3-8150-a713753a8c4b,congestion.to,premium,,,60,5,10,,,
 7efd2199-5494-4b2e-9da0-a00eb9cf7a2d,present.to,resell,,,122,24,7,Government of Kingdom of Tonga,20/01/2022 02:27,28/01/2027 10:54
 f7a8b56b-42e3-4def-ba56-1f79df81ac35,butterfly.to,resell,,,96,38,9,NAMECHEAP,17/11/2020 01:05,17/11/2026 01:05
 a55bda2e-e75a-4f29-924a-0e0e8654d3a2,wouldithurt.to,premium,,,,1,13,,,
@@ -3745,7 +3745,7 @@ a55bda2e-e75a-4f29-924a-0e0e8654d3a2,wouldithurt.to,premium,,,,1,13,,,
 d8f973c6-66dc-479b-968e-4cb32491acbc,takepart.to,premium,,,,5,9,,,
 9652fc87-db0c-4471-8645-88857ce5e994,worn.to,resell,,,66,9,4,NAMECHEAP,22/10/2024 02:27,01/08/2026 00:00
 c51633ae-ef59-4079-872a-e71d9f1c6066,letthecatout.to,premium,,,71,1,15,,,
-87522a9f-9d5d-4ada-bb8e-4a4341959780,girth.to,premium,,,88,7,5,,,
+87522a9f-9d5d-4ada-bb8e-4a4341959780,girth.to,premium,,,88,5,5,,,
 d65af0e1-cd5b-4f8d-950f-afc443f2ba8f,employee.to,resell,,,74,21,8,NAMECHEAP,21/10/2020 21:46,21/10/2026 21:46
 b24dad47-02a2-454d-8962-17bcad89b2a3,rubber.to,resell,,,105,18,6,NAMECHEAP,25/02/2022 02:27,01/08/2026 00:00
 e247df81-a968-4bce-93a9-e75c08f53d88,standfirm.to,premium,,,75,4,10,,,
@@ -3757,7 +3757,7 @@ d9ed1ae1-4756-4a71-8ddf-1bc54e45b85c,headteacher.to,premium,,,74,2,12,,,
 a7b784a2-9e3a-4877-a948-e595f16f4872,morethan.to,premium,,,66,17,9,,,
 f16456ef-4d7a-4ec8-96be-a555c529363e,shineat.to,premium,,,78,2,8,,,
 89c32588-cb71-4483-80a8-dc7e26b0ab23,broadly.to,premium,,,65,6,7,,,
-2ac43b8a-42f7-44a1-bf4c-1c72d88fa542,hat.to,resell,,,78,24,3,NAMECHEAP,16/01/2024 02:27,01/08/2026 00:00
+2ac43b8a-42f7-44a1-bf4c-1c72d88fa542,hat.to,resell,,,78,21,3,NAMECHEAP,16/01/2024 02:27,01/08/2026 00:00
 b7c9a3f4-1d0d-45c8-9ad8-ab951e2de27c,chemicaltoilet.to,premium,,,56,1,15,,,
 6bb22f8c-a316-4e35-9e87-678032149e59,technologies.to,resell,,,,12,12,humbly LLC,30/05/2023 02:27,02/08/2026 08:09
 b0955afe-01fe-47ab-be3f-1d46b34d11d1,spoken.to,resell,,,64,12,6,NAMECHEAP,02/11/2021 02:27,01/08/2026 00:00
@@ -3799,7 +3799,7 @@ f8228db2-5d7e-462f-b947-a52fe3ed7748,atyourservice.to,premium,,,74,10,15,,,
 02dcdb8d-1302-498a-9005-7c378a5468d2,trained.to,premium,,,74,8,7,,,
 d3812cae-cb78-4676-bd8c-d4d07d5bffe8,taxshift.to,premium,,,56,1,9,,,
 8c994762-f400-4c11-9834-561222632b70,fresh.to,resell,,,78,38,5,NAMECHEAP,20/11/2023 10:40,04/08/2027 10:37
-8bf2f8f0-58bc-43f5-817d-7199376edb6f,director.to,resell,,,76,19,8,NAMECHEAP,21/08/2023 02:27,01/08/2026 00:00
+8bf2f8f0-58bc-43f5-817d-7199376edb6f,director.to,resell,,,76,17,8,NAMECHEAP,21/08/2023 02:27,01/08/2026 00:00
 d1539ed6-15d9-4699-8fae-98ac7b0949f9,batup.to,premium,,,48,2,6,,,
 a967d8fb-c60c-4206-a92f-7f8ccf7a9c46,firm.to,resell,,,118,26,4,NAMECHEAP,30/12/2023 02:27,01/08/2026 00:00
 cbc23c15-e6ae-4c77-8505-3f06794a962a,deepdown.to,premium,,,61,4,9,,,
@@ -3849,7 +3849,7 @@ f179d54f-5c1d-4f6f-a707-146ca3476820,SurfCity.to,premium,,,,7,9,,,
 3c24d72c-5305-4517-985a-cb1da412bd82,sheet.to,resell,,,64,18,5,humbly LLC,04/06/2024 02:27,05/06/2026 06:55
 3bc62eb3-de7a-455d-b8b4-e21471fd1173,fasten.to,premium,,,76,11,6,,,
 87127bab-8687-439a-961a-ab6c26637fac,penny.to,resell,,,66,29,5,NAMECHEAP,01/05/2020 02:27,01/08/2026 00:00
-217a76ce-157b-4207-804c-1a9dbcab90e9,shortfall.to,premium,,,66,5,9,,,
+217a76ce-157b-4207-804c-1a9dbcab90e9,shortfall.to,premium,,,66,3,9,,,
 22e0d40d-7c18-43c1-be95-dd8a17e3e169,hacking.to,resell,,,56,29,7,NAMECHEAP,16/01/2024 02:27,01/08/2026 00:00
 757186b9-34a2-4a44-8d77-ea91722533b3,monopoly.to,resell,,,64,20,8,NAMECHEAP,08/11/2021 02:27,01/08/2026 00:00
 8d172821-2d02-45c0-ac37-7f7e5c089755,late.to,resell,,,76,16,4,NAMECHEAP,12/07/2023 02:27,01/08/2026 00:00
@@ -3934,7 +3934,7 @@ dc3c696d-536a-4b15-b100-a68912110e82,HIVvirus.to,premium,,,56,1,9,,,
 6e21aa82-ee27-4c0c-9782-8ed228b64791,clown.to,resell,,,98,30,5,NAMECHEAP,26/03/2022 02:27,01/08/2026 00:00
 c024c74d-31b6-4b1b-a6d4-c5089eae5890,conquer.to,resell,,,87,19,7,NAMECHEAP,07/08/2025 01:24,07/08/2026 01:24
 3f56eecd-cf1a-4db1-96eb-4e504717a88c,completing.to,available,29.98,,68,4,10,namecheap,,
-09cca64e-3d16-4d41-ba5d-16a0c8eeb0b7,sense.to,resell,,,102,64,5,NAMECHEAP,04/05/2023 02:27,01/08/2028 00:00
+09cca64e-3d16-4d41-ba5d-16a0c8eeb0b7,sense.to,resell,,,102,63,5,NAMECHEAP,04/05/2023 02:27,01/08/2028 00:00
 a3aae046-2fed-454e-8b69-8f105f37d03f,copewith.to,premium,,,75,2,9,,,
 39b6aa7f-9c30-4b28-b5f2-f4b9f7827fe4,follow.to,resell,,,102,31,6,NAMECHEAP,19/05/2025 02:27,01/08/2026 00:00
 8a38ee35-e24c-429c-a03b-7bc6f33daca6,whichever.to,premium,,,60,3,9,,,
@@ -3945,7 +3945,7 @@ a3aae046-2fed-454e-8b69-8f105f37d03f,copewith.to,premium,,,75,2,9,,,
 e7351d1e-f464-4b52-86f9-0d25ad04d368,pyramid.to,resell,,,76,31,7,NAMECHEAP,17/10/2023 02:27,01/08/2028 00:00
 05dc50b4-9d97-4c20-8450-7bf7da76b45a,oddmanwins.to,premium,,,,1,12,,,
 a7109c03-adef-43fe-8f94-0f0ee421cdaf,lord.to,resell,,,84,28,4,NAMECHEAP,31/05/2024 02:40,01/11/2026 07:57
-6d4959f9-7094-4a94-9214-4cd59e51c23b,damascus.to,premium,,,66,15,8,,,
+6d4959f9-7094-4a94-9214-4cd59e51c23b,damascus.to,premium,,,66,13,8,,,
 fae12066-83a8-404e-9a6c-b5684a74de68,coldly.to,premium,,,52,4,6,,,
 9aa64f33-3e62-4506-8830-36330346f047,wooden.to,premium,,,64,27,6,,,
 c3fe3779-0eae-41de-9779-98594552d735,shakealeg.to,premium,,,,2,11,,,
@@ -3955,7 +3955,7 @@ c3fe3779-0eae-41de-9779-98594552d735,shakealeg.to,premium,,,,2,11,,,
 4cbf3cdf-92d5-4207-b84a-1bac2bbabc45,dice.to,resell,,,62,33,4,NAMECHEAP,30/11/2019 02:27,01/08/2026 00:00
 f0ac590a-1b64-4890-b0f1-62ae43d1c4ca,prepacked.to,premium,,,64,1,9,,,
 fcce8271-750d-4766-9dad-aa4ed4dfc786,relatedto.to,premium,,,64,1,10,,,
-1d52ce63-0811-4a90-9833-ca990f49555d,squall.to,premium,,,80,9,6,,,
+1d52ce63-0811-4a90-9833-ca990f49555d,squall.to,premium,,,80,7,6,,,
 d26e3c87-7867-49b8-8669-5609e9f3f9bc,allseasontire.to,premium,,,76,1,15,,,
 eb5667d4-a0db-414a-b6ba-4e204b83c142,organizations.to,resell,,,,5,13,NAMECHEAP,11/04/2024 02:27,01/08/2026 00:00
 1d0af165-29c3-41a6-b195-47a2bb99aca9,continual.to,available,29.98,,66,6,9,namecheap,,
@@ -3969,7 +3969,7 @@ df0140a6-3a10-415f-a911-56ee43d8a2ae,granny.to,premium,,,118,13,6,,,
 9aa1b703-df75-4990-bdbd-3a6112c13185,setaside.to,premium,,,,2,9,,,
 b85e4b57-98c9-4dd7-8b64-4e824cda5b13,incase.to,premium,,,74,7,7,,,
 87065018-3111-4841-90e8-d055a2ecad10,lowkeyed.to,premium,,,58,1,9,,,
-f7cab9f1-cac4-4162-a511-889afe953520,delta.to,resell,,,74,47,5,NAMECHEAP,01/09/2023 02:27,01/08/2028 00:00
+f7cab9f1-cac4-4162-a511-889afe953520,delta.to,resell,,,74,45,5,NAMECHEAP,01/09/2023 02:27,01/08/2028 00:00
 030b4303-7465-458f-830f-caee312e0d12,letterperfect.to,premium,,,72,2,14,,,
 fe2961ae-d12b-4559-98b7-4cbd94c61475,totime.to,premium,,,,2,7,,,
 bd199dd8-fbf0-4246-9b49-0c5fdebe13e5,oakland.to,resell,,,65,19,7,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
@@ -4030,13 +4030,13 @@ f25592af-141c-4ff2-89f4-f09f450c2f09,Fanta.to,resell,,,98,13,5,NAMECHEAP,08/10/2
 e99ef5df-d9cf-4d93-8464-082788e2620d,revised.to,premium,,,69,5,7,,,
 36291a48-a0be-4a49-bf43-5e8e55881fe6,asthesayinggoes.to,premium,,,44,1,18,,,
 7d8ff84c-a2a9-4d1f-866d-22c7cd5959d1,rigorous.to,premium,,,65,4,8,,,
-8e2d711e-3c43-47c8-b971-cda20dd31256,dakar.to,premium,,,66,15,5,,,
+8e2d711e-3c43-47c8-b971-cda20dd31256,dakar.to,premium,,,66,13,5,,,
 fe41d4f0-f3e3-4de4-a366-6b4522d78c57,BlackThursday.to,premium,,,48,2,14,,,
-a8058fb6-b3f0-4e31-947d-6ba0c4af8c7c,dickens.to,premium,,,72,10,7,,,
+a8058fb6-b3f0-4e31-947d-6ba0c4af8c7c,dickens.to,premium,,,72,9,7,,,
 f3c682f1-0a89-4179-aab2-055ab4852dbd,scrub.to,premium,,,104,15,5,,,
 96de675b-a7c8-4aed-b46a-53162c384363,atthecostof.to,premium,,,44,1,14,,,
 93ce25a3-83df-4015-ac89-6f92f63e0fda,soas.to,premium,,,,1,8,,,
-4538a92b-c4da-4efd-90c4-311c1a367d82,chew.to,resell,,,64,20,4,NAMECHEAP,30/03/2023 02:27,01/08/2026 00:00
+4538a92b-c4da-4efd-90c4-311c1a367d82,chew.to,resell,,,64,17,4,NAMECHEAP,30/03/2023 02:27,01/08/2026 00:00
 bfcc168f-fdb1-47c5-90e2-ad12cf0699a9,eventhough.to,premium,,,54,2,11,,,
 f1ff04ec-c290-4107-ab9d-9691fc651b76,dubstep.to,premium,,,74,5,7,,,
 27b90184-8e46-4c17-831a-b30ae7141b13,WestBay.to,premium,,,,6,8,,,
@@ -4076,14 +4076,14 @@ d7dcf24d-2daa-4178-8990-aecd578af9b0,second.to,resell,,,120,28,6,NAMECHEAP,23/08
 1a74f47b-d834-44a8-a296-1270d3d7839e,songbird.to,resell,,,76,17,8,NAMECHEAP,16/04/2023 02:27,01/08/2028 00:00
 c2798cc4-db44-406e-9d3c-a126efd3aa25,speedlimit.to,premium,,,66,3,11,,,
 8e7c57eb-0e07-47f9-9641-948d149057ba,watching.to,resell,,,64,10,8,NAMECHEAP,27/10/2023 02:27,01/08/2026 00:00
-1e279253-e795-41df-b536-63ca32657ea6,calender.to,premium,,,92,8,8,,,
+1e279253-e795-41df-b536-63ca32657ea6,calender.to,premium,,,92,6,8,,,
 cb47c5fe-97b9-42e5-8637-6725bc6d6f39,ingeneral.to,premium,,,58,2,10,,,
 de1159ca-ec6f-4cd7-b4d4-110f6c6cf238,bayer.to,resell,,,70,67,5,NAMECHEAP,23/02/2025 02:27,01/08/2028 00:00
-8b67cf48-ef4e-4250-88b2-32765c0d6077,platform.to,resell,,,92,49,8,NAMECHEAP,15/11/2024 05:10,14/12/2026 02:25
+8b67cf48-ef4e-4250-88b2-32765c0d6077,platform.to,resell,,,92,48,8,NAMECHEAP,15/11/2024 05:10,14/12/2026 02:25
 7e456b15-ba32-4f74-a563-2923f6fd319b,Gregorio.to,premium,,,62,6,8,,,
 833411a6-af19-467c-9d4f-de30fa57b6a4,chocolatemilk.to,premium,,,,3,14,,,
 7b657fef-7be1-4c58-a014-81a508932fab,withoutfail.to,premium,,,74,2,12,,,
-29b37625-1b45-40db-9964-269158921e35,desktop.to,resell,,,90,23,7,NAMECHEAP,03/06/2024 02:27,01/08/2026 00:00
+29b37625-1b45-40db-9964-269158921e35,desktop.to,resell,,,90,22,7,NAMECHEAP,03/06/2024 02:27,01/08/2026 00:00
 0500173f-ac1c-4db9-9d27-4e528dc514b4,hotticket.to,premium,,,76,3,10,,,
 07d7e166-53a2-49a6-90fd-781140f6f168,xvi.to,resell,,,66,8,3,NAMECHEAP,24/03/2025 02:27,01/08/2028 00:00
 ff3ee180-ebfe-4cc5-b02f-7b3872465fd2,wheelabout.to,premium,,,,1,11,,,
@@ -4116,7 +4116,7 @@ ed7dcb71-b210-4c3c-9478-6e920b0aebf9,bethere.to,premium,,,,9,8,,,
 58709ada-ba8f-4182-84cb-8082fd75e8b8,talkingpoint.to,premium,,,68,3,13,,,
 ca4ca5e3-63e5-4da8-a93f-0cf1a1e2624a,eyeofthebeholder.to,premium,,,70,3,19,,,
 3fe5cd8d-6ea5-44e5-9d46-93c81d332cf4,diskspace.to,premium,,,70,6,10,,,
-ab3cc0c9-47b6-4b74-a28c-82e85dd3e60f,library.to,resell,,,84,33,7,"Spaceship, Inc.",30/01/2025 12:36,13/11/2026 01:56
+ab3cc0c9-47b6-4b74-a28c-82e85dd3e60f,library.to,resell,,,84,32,7,"Spaceship, Inc.",30/01/2025 12:36,13/11/2026 01:56
 0647d4ca-21c4-4163-b8ea-57130b49b6d1,sunrise.to,resell,,,102,39,7,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
 ab8890aa-0821-4503-b186-c2e49d6c8dc6,receipts.to,resell,,,68,13,8,NAMECHEAP,11/06/2025 02:27,01/08/2028 00:00
 79baa1b6-baa2-4d1d-817a-9ee24b87082b,prenuptial.to,premium,,,88,3,10,,,
@@ -4139,12 +4139,12 @@ f775156d-88b7-4252-8c4e-1296acedc51b,beauty.to,resell,,,136,39,6,NAMECHEAP,25/03
 d423af12-d943-416b-bdb2-a0f7f9c58db0,retracted.to,premium,,,57,3,9,,,
 9bd8cec3-0b72-42a8-a279-073752608fa3,alive.to,resell,,,84,30,5,NAMECHEAP,06/08/2023 02:27,01/08/2026 00:00
 084c3e36-a9a4-42a9-bd13-f9b8da2d895e,perceiving.to,premium,,,70,2,10,,,
-a4a9774a-2fb9-4c0f-a129-d8b927bb151e,computing.to,resell,,,74,19,9,NAMECHEAP,07/08/2025 01:24,07/08/2026 01:24
+a4a9774a-2fb9-4c0f-a129-d8b927bb151e,computing.to,resell,,,74,18,9,NAMECHEAP,07/08/2025 01:24,07/08/2026 01:24
 98665aaa-50e6-4066-899c-fda55d4d486e,courses.to,resell,,,82,17,7,NAMECHEAP,11/04/2024 02:27,01/08/2026 00:00
 d9fac799-f292-48bb-83bd-e64780cd1c3f,attable.to,premium,,,68,3,8,,,
 c118b5a9-e613-4bc1-a40c-d1eb7a4bfb39,vacuum.to,resell,,,90,17,6,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 5eff0c40-3491-4d7b-b252-d4b4dd61f945,politicalparty.to,premium,,,66,4,15,,,
-f6717f91-e7c4-42a3-80c1-4fc516331915,extinction.to,premium,,,58,9,10,,,
+f6717f91-e7c4-42a3-80c1-4fc516331915,extinction.to,premium,,,58,7,10,,,
 07c6376d-0e59-40d9-ac0d-4b7254a3683f,haveseenthismovie.to,premium,,,62,1,20,,,
 3cc95585-3a84-45d9-a493-cbe9153de813,letterofintent.to,premium,,,74,2,16,,,
 d459a304-8ad9-4997-aa05-2bde5a367550,deuce.to,available,29.98,,66,9,5,namecheap,,
@@ -4175,7 +4175,7 @@ b2b70c71-10bc-43a8-9d03-16340b4838ab,mosque.to,resell,,,72,11,6,NAMECHEAP,25/08/
 9e30d1cb-43a7-43c7-8b2d-2b9222198649,courageous.to,premium,,,72,12,10,,,
 aec3a0d1-fa82-4914-97e8-1fb2470c624b,howto.to,resell,,,76,29,6,NAMECHEAP,17/05/2023 02:27,01/08/2026 00:00
 a6866aa7-d6b6-4b08-a93d-bdf89225d5b9,letterart.to,premium,,,70,2,10,,,
-5c0282e0-390a-431e-b292-0d4a67ab07b8,defense.to,resell,,,70,28,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+5c0282e0-390a-431e-b292-0d4a67ab07b8,defense.to,resell,,,70,27,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 fcf6407e-f9b4-4160-a8cc-36006b7082e9,getthebetterof.to,premium,,,73,1,17,,,
 6f8cc008-87d4-4257-a826-996e5fcc77df,hoops.to,resell,,,74,14,5,NAMECHEAP,07/08/2025 01:25,07/08/2026 01:25
 c4dad82a-f575-40fe-9301-430e35ab0066,stay.to,resell,,,62,33,4,NAMECHEAP,25/07/2023 02:27,01/08/2026 00:00
@@ -4195,7 +4195,7 @@ fc27f11f-b8c9-4caa-9afe-543088cd085e,confirming.to,resell,,,73,5,10,NAMECHEAP,12
 711ffb34-cf2f-4b66-9a54-3ccdf90d1b98,treehugger.to,premium,,,,5,11,,,
 0a8d3ded-26a3-48a9-bd1c-2266cf18f7b9,textbook.to,resell,,,84,13,8,NAMECHEAP,16/04/2023 02:27,01/08/2026 00:00
 612e085f-d7e3-4073-a9d1-a384d7cbc8cf,dowhat.to,premium,,,68,4,7,,,
-b31422f6-a438-47d8-8c72-0b64b34e6f06,europe.to,resell,,,68,39,6,NAMECHEAP,24/02/2023 02:27,01/08/2026 00:00
+b31422f6-a438-47d8-8c72-0b64b34e6f06,europe.to,resell,,,68,37,6,NAMECHEAP,24/02/2023 02:27,01/08/2026 00:00
 43be1513-5096-4b9e-92d1-29340f6e6929,waste.to,resell,,,104,22,5,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 671bb475-d746-4f56-badf-770636178d14,were.to,resell,,,78,10,4,NAMECHEAP,27/04/2022 02:27,01/08/2026 00:00
 f88f24a7-5f94-433f-a757-d4cc94d8aa0c,asofyet.to,premium,,,52,1,9,,,
@@ -4247,7 +4247,7 @@ ccb8bbf6-4c87-448d-9e92-d103f92dd4ff,revolt.to,resell,,,88,25,6,NAMECHEAP,31/05/
 b75239d9-5e92-4ad6-a38c-2789b539330e,worsened.to,premium,,,54,1,8,,,
 3aea53db-66d7-43ab-8026-bbcd24e8c9e2,generalequilibrium.to,premium,,,66,1,19,,,
 88ce1d5f-1a1a-4317-980e-665954ed08a3,rectify.to,resell,,,78,17,7,NAMECHEAP,10/08/2022 02:27,01/08/2026 00:00
-9768cfb7-f29b-4ad4-a7f8-dc88e88410a4,chimney.to,resell,,,90,14,7,NAMECHEAP,23/02/2024 02:27,01/08/2026 00:00
+9768cfb7-f29b-4ad4-a7f8-dc88e88410a4,chimney.to,resell,,,90,13,7,NAMECHEAP,23/02/2024 02:27,01/08/2026 00:00
 88e1fae2-8ebf-442f-a7cb-64654f8b5433,USdollar.to,premium,,,72,6,9,,,
 5d1762d8-30e5-4625-a701-83ff244cf8ca,machinescrew.to,premium,,,70,1,13,,,
 77092737-84b6-4031-9db1-46ed7a5da876,intheair.to,premium,,,70,4,10,,,
@@ -4270,10 +4270,10 @@ e7d99e96-37bb-4a36-b201-5314959996d5,maintain.to,resell,,,70,12,8,NAMECHEAP,16/0
 ac0aa78b-8ae5-4631-969e-1e84d9921367,inthat.to,premium,,,60,2,7,,,
 c902a283-84ba-4828-8dc0-0e1d479b3e6a,majestic.to,premium,,,72,18,8,,,
 ebd376a8-4023-4a14-b700-53b593d60a30,backwardslash.to,premium,,,66,1,14,,,
-f93cf48a-9961-4914-b50b-d039c5acebbd,campaign.to,resell,,,99,29,8,NAMECHEAP,25/12/2022 13:15,25/12/2026 13:15
+f93cf48a-9961-4914-b50b-d039c5acebbd,campaign.to,resell,,,99,27,8,NAMECHEAP,25/12/2022 13:15,25/12/2026 13:15
 e21d24ca-8253-483f-8e3c-32dc4da3b90a,hairfollicle.to,premium,,,72,2,13,,,
 ed20e128-142c-4237-b7e3-1cbd18d55e32,analyst.to,resell,,,82,19,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-bfdb9740-c912-4c31-a01b-4dde908a7c1c,conducting.to,premium,,,68,8,10,,,
+bfdb9740-c912-4c31-a01b-4dde908a7c1c,conducting.to,premium,,,68,5,10,,,
 1febe1d2-6568-4d4c-963b-becbb3c064fa,indate.to,premium,,,,3,7,,,
 c03d32e9-abaf-4a1c-a720-cb34ae90394d,stranger.to,premium,,,96,16,8,,,
 e9f59151-33eb-4a6e-a772-71cfe7f4c665,prompting.to,resell,,,73,20,9,NAMECHEAP,20/05/2023 09:21,20/05/2026 09:21
@@ -4286,7 +4286,7 @@ a3919cb6-5db7-4c0d-a248-d2c96159da46,pizzeria.to,resell,,,82,9,8,NAMECHEAP,07/08
 6ae99092-0d51-4896-9b04-9307a89b8ddc,ricemilk.to,premium,,,,2,9,,,
 ca279e18-d9f4-492a-84a2-2800b8d15935,whothehell.to,premium,,,,1,12,,,
 0d19c49e-b305-4b2f-9c7c-0ceefdc591bf,xviii.to,available,29.98,,66,5,5,namecheap,,
-d3100e72-49a4-4881-90fd-f738a9984a6d,hannukah.to,premium,,,68,4,8,,,
+d3100e72-49a4-4881-90fd-f738a9984a6d,hannukah.to,premium,,,68,2,8,,,
 f8e1a8b8-7af9-46b6-80c9-9109e2dab2be,nuts.to,resell,,,64,22,4,NAMECHEAP,25/08/2022 02:27,01/08/2026 00:00
 968d078c-4ce1-48d9-9363-04f2b0d98521,wobbly.to,premium,,,65,8,6,,,
 82879830-be03-4c5d-82a8-e17297e6e176,surgeprotector.to,premium,,,74,2,15,,,
@@ -4300,8 +4300,8 @@ d49558c9-faba-49f9-b09b-981c2c49d50d,drawup.to,premium,,,74,3,7,,,
 715a1442-9c78-4a10-8ca7-cae751d308f3,darken.to,premium,,,72,7,6,,,
 ed9c257e-9e1c-43d1-be0c-26abca4f1fe3,bloodflow.to,premium,,,70,2,10,,,
 14a9b7ca-b030-4297-b60d-db97e21ca910,justkidding.to,premium,,,76,3,12,,,
-672d596b-2dbf-4f8c-b1fb-b30ad967ce31,butter.to,resell,,,78,28,6,NAMECHEAP,07/09/2023 02:27,01/08/2026 00:00
-7859da48-5489-427f-aa5e-7248b6024e09,chanukah.to,premium,,,68,8,8,,,
+672d596b-2dbf-4f8c-b1fb-b30ad967ce31,butter.to,resell,,,78,27,6,NAMECHEAP,07/09/2023 02:27,01/08/2026 00:00
+7859da48-5489-427f-aa5e-7248b6024e09,chanukah.to,premium,,,68,6,8,,,
 44aede8f-2065-44c7-b784-08f5dc1b3c2b,lady.to,resell,,,92,19,4,NAMECHEAP,10/04/2024 02:27,01/08/2028 00:00
 d540cbd3-4551-43c6-a099-13a398e8a3b1,dislike.to,resell,,,88,9,7,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 4e5c8566-d122-41f0-8927-17953d986900,proclaim.to,premium,,,74,11,8,,,
@@ -4312,7 +4312,7 @@ d5f40570-9758-48ff-93a4-e27916349d63,with.to,resell,,,98,74,4,NAMECHEAP,26/09/20
 83676308-44fd-46c3-af96-601dcde60053,north.to,resell,,,76,33,5,NAMECHEAP,05/08/2023 02:27,01/08/2026 00:00
 19acff54-80d9-4db2-94cd-528d0280c20f,wiring.to,premium,,,74,9,6,,,
 0ee84265-ad0f-4343-b0fa-6f13eba7af26,maintained.to,premium,,,60,4,10,,,
-32ffd53a-d3e7-484c-840d-9435611ef8b0,kgb.to,premium,,,74,17,3,,,
+32ffd53a-d3e7-484c-840d-9435611ef8b0,kgb.to,premium,,,74,15,3,,,
 ae3a46cc-631a-4ff2-ae8f-32803800f15a,recover.to,resell,,,97,22,7,NAMECHEAP,22/04/2023 02:27,01/08/2026 00:00
 e3c9f8e7-334e-499c-ba99-c555a6150f81,generated.to,premium,,,50,13,9,,,
 bacd468b-8a88-425d-9e40-8ccd6af0ffa0,prayer.to,resell,,,78,22,6,humbly LLC,16/12/2023 02:27,28/12/2026 11:48
@@ -4356,7 +4356,7 @@ fd1234ae-9a4a-47a4-a485-18d135663715,toobad.to,premium,,,,2,7,,,
 632d050e-9791-4e6f-9e25-509fd0f67acf,cheesefood.to,premium,,,64,1,11,,,
 42748da4-afbc-4c1b-8721-7d5bffb20702,atstake.to,premium,,,58,3,8,,,
 05b346f6-ef66-48a7-81c9-7e97b45c1a73,tall.to,resell,,,106,13,4,NAMECHEAP,03/08/2024 02:27,01/08/2026 00:00
-0bf54f7a-847d-4076-9f17-78f374df3dba,cement.to,premium,,,68,13,6,,,
+0bf54f7a-847d-4076-9f17-78f374df3dba,cement.to,premium,,,68,11,6,,,
 d5b31e15-f5bd-4b18-aff2-111eaac3454c,sedative.to,premium,,,76,3,8,,,
 f7195993-66f6-4f68-a7c9-c2ac84560d0e,somesing.to,premium,,,58,2,8,,,
 d1ff1069-ad31-418f-ac73-f707d9ffb0a1,real.to,resell,,,78,49,4,NAMECHEAP,01/09/2023 09:50,29/03/2027 12:37
@@ -4372,15 +4372,15 @@ eb3add71-0d19-4fb3-b0f7-bbae9ff83785,suit.to,resell,,,72,14,4,NAMECHEAP,13/07/20
 c2ed5347-0cb1-4d78-b1c2-7414a51a0eb6,precise.to,premium,,,94,21,7,,,
 24a6316e-e995-4b1f-9a88-f429d63a5a64,tooneself.to,premium,,,62,1,10,,,
 e0551e8b-9961-45e2-99d3-dc90749514ca,bedlinen.to,premium,,,74,2,9,,,
-c26db718-617c-4171-92b4-9965f808b20b,cleaner.to,resell,,,70,21,7,NAMECHEAP,07/08/2025 00:35,07/08/2026 00:35
+c26db718-617c-4171-92b4-9965f808b20b,cleaner.to,resell,,,70,18,7,NAMECHEAP,07/08/2025 00:35,07/08/2026 00:35
 4e8cb1f4-78f8-49b5-8363-48aabb32493f,perspective.to,resell,,,88,24,11,NAMECHEAP,20/10/2022 02:27,01/08/2026 00:00
-e68a0726-faf1-45ad-954c-b87332d18ea8,concussion.to,premium,,,60,12,10,,,
+e68a0726-faf1-45ad-954c-b87332d18ea8,concussion.to,premium,,,60,10,10,,,
 479165ae-6373-4f11-b7ae-633099af667f,inviting.to,resell,,,88,7,8,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 11e05236-8549-4190-a6b6-694cfc791c79,which.to,resell,,,66,59,5,NAMECHEAP,05/10/2023 02:27,01/08/2026 00:00
 951c63d3-3ffb-4688-a0bb-510b95e3de2b,hardcider.to,premium,,,76,3,10,,,
 c736043c-bc22-4ba2-a7c7-315ace9a5bfa,Maidens.to,premium,,,80,3,7,,,
 4884c97c-0822-4cea-a1ff-657d1e4b5903,begin.to,resell,,,102,17,5,NAMECHEAP,10/02/2023 02:27,01/08/2026 00:00
-356bc40d-129a-432c-8dd3-72c9c819b4fd,cuisine.to,resell,,,78,17,7,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
+356bc40d-129a-432c-8dd3-72c9c819b4fd,cuisine.to,resell,,,78,15,7,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 0fae4bd5-d905-4628-826e-7cc84e3da80d,booklist.to,premium,,,70,5,8,,,
 bcf2cb3a-9769-4ef6-bc43-8ea3f7dbea7b,killedinaction.to,premium,,,38,2,16,,,
 82de087a-4e5b-4b15-85a0-7ea5fb70256f,actress.to,resell,,,78,9,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
@@ -4396,7 +4396,7 @@ e0c1c6db-073a-43ef-94eb-7a4806f7e7e4,standback.to,premium,,,,2,10,,,
 91b71d37-4f7a-435f-b67d-54378d8e891d,restrict.to,premium,,,74,4,8,,,
 ba665049-09ba-45a0-b14e-66c220b533b4,taxreturn.to,premium,,,64,8,10,,,
 246a262a-43d9-48c0-993a-19212556b305,inregardto.to,premium,,,50,1,12,,,
-99dfdf1e-9ce6-4934-8398-021c023ae14e,pretoria.to,premium,,,62,12,8,,,
+99dfdf1e-9ce6-4934-8398-021c023ae14e,pretoria.to,premium,,,62,11,8,,,
 080f2ff9-43e9-4743-b83b-b51814b53c6d,unemployment.to,resell,,,,6,12,NAMECHEAP,25/08/2025 18:42,25/08/2026 18:42
 e85eed4e-e7fd-48f6-9b8d-6f2c2f0055f9,mediocre.to,premium,,,74,15,8,,,
 ccd5b2cc-1767-4683-a2a7-97a5b104cd6e,genuinely.to,premium,,,64,6,9,,,
@@ -4442,7 +4442,7 @@ c99f235f-b091-4b6c-bdf4-ab816123c813,IDcard.to,premium,,,72,8,7,,,
 4582695f-cd85-40fc-8778-1fdf34136a89,picture.to,resell,,,100,27,7,NAMECHEAP,09/07/2025 23:12,09/07/2026 23:12
 fd987bc5-74f1-496f-94b3-fbfdef2161e0,whotheheck.to,premium,,,,1,12,,,
 f3c66c02-d07c-4500-84a6-3731d6edad7d,malaria.to,resell,,,62,7,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-ee9c5204-2367-480d-8872-7fcc68be8fee,irons.to,premium,,,62,10,5,,,
+ee9c5204-2367-480d-8872-7fcc68be8fee,irons.to,premium,,,62,8,5,,,
 4f3da397-b36c-414b-9245-a2f8c594160d,billbird.to,premium,,,64,2,9,,,
 85c42393-7c8b-4d65-90e1-a4412e96098f,NASAsupported.to,premium,,,,1,14,,,
 7c80b8ea-c9bc-4d28-97be-aef8a20db804,terminating.to,premium,,,,1,11,,,
@@ -4478,7 +4478,7 @@ a71b6e00-bd3f-4230-a4ba-cd8d25d8e9f3,cooked.to,resell,,,70,21,6,NAMECHEAP,12/04/
 3cc81bea-02e7-4cce-a727-4a7977730fe2,similarly.to,premium,,,56,2,9,,,
 f715d145-4c51-4cb3-b6dd-05bf7b0c50cc,tomorrow.to,resell,,,88,40,8,NAMECHEAP,06/08/2023 02:27,01/08/2026 00:00
 c6b49c67-0878-4b02-be92-47f89d32d09b,vegetarian.to,resell,,,78,17,10,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
-90cd7c42-3e61-440f-97f4-efff07105220,detecting.to,premium,,,68,7,9,,,
+90cd7c42-3e61-440f-97f4-efff07105220,detecting.to,premium,,,68,4,9,,,
 06453fd5-c9a5-411a-b06c-07e665271147,useless.to,premium,,,56,20,7,,,
 b1f5cc7e-192f-486a-a0a6-cff61c6ddeba,Godlovesomeone.to,premium,,,54,1,16,,,
 bd326553-0836-4580-8020-a22720ef849d,silotruck.to,premium,,,64,1,10,,,
@@ -4537,7 +4537,7 @@ b6750471-33c9-4d71-a60d-af7359bc138a,mothafukka.to,premium,,,62,1,10,,,
 c5a69aa0-9969-4de1-a88b-2be85afab1cf,ugly.to,resell,,,96,26,4,NAMECHEAP,04/04/2023 02:27,01/08/2026 00:00
 609f0094-0118-4507-96a0-75bf50a3e775,remover.to,premium,,,66,6,7,,,
 34852448-27e7-45a9-833b-4e2adcd814b5,macedonia.to,resell,,,74,52,9,NAMECHEAP,13/11/2025 00:30,13/11/2026 00:30
-aa04b595-5319-4a5c-b42d-bf392eb539ca,manila.to,resell,,,92,16,6,NAMECHEAP,27/05/2020 02:27,01/08/2026 00:00
+aa04b595-5319-4a5c-b42d-bf392eb539ca,manila.to,resell,,,92,13,6,NAMECHEAP,27/05/2020 02:27,01/08/2026 00:00
 3d76a18c-784c-4dae-9d02-5e65c07838bd,shove.to,premium,,,82,8,5,,,
 a168d77f-d3db-4dc2-911f-718eeb8ca48d,sat.to,resell,,,78,27,3,Government of Kingdom of Tonga,17/08/2020 02:15,17/07/2026 03:28
 384c5bda-5c82-46a0-802d-db6f70f176cd,moneyeconomy.to,premium,,,78,1,13,,,
@@ -4578,7 +4578,7 @@ ee5d5b30-d8ba-4c32-a9e7-3f97d18b3cff,whatabout.to,premium,,,,8,10,,,
 7df267de-8b03-45fd-a481-65c044a45e34,board.to,resell,,,66,30,5,NAMECHEAP,20/10/2024 02:27,01/08/2026 00:00
 18e45c26-0038-4a7a-ae5a-8de30c0848ea,cross.to,resell,,,74,33,5,NAMECHEAP,07/10/2024 02:27,01/08/2026 00:00
 313b18d5-6120-456b-ac89-adbdfd34315b,thankful.to,resell,,,72,11,8,NAMECHEAP,24/11/2022 02:27,01/08/2026 00:00
-207a01bb-d85c-4c4a-956e-cbc75886e763,hanukkah.to,premium,,,70,11,8,,,
+207a01bb-d85c-4c4a-956e-cbc75886e763,hanukkah.to,premium,,,70,10,8,,,
 18012f3d-ebf8-45c2-a304-c7e3f503f1ba,tornadowarning.to,premium,,,62,2,15,,,
 5496301a-35a1-4147-8555-85e8ee3e64df,Misses.to,premium,,,72,5,6,,,
 c9642d3b-cf9c-4279-86a0-0d2d8d334e99,mothahfuggah.to,premium,,,62,1,12,,,
@@ -4653,7 +4653,7 @@ f0417e9e-a272-49ba-bf51-eee4e93485a2,cutto.to,premium,,,69,4,6,,,
 e7e7f0d6-590c-427c-be76-ec57881fbbb8,unique.to,resell,,,104,43,6,NAMECHEAP,26/01/2024 02:27,01/08/2026 00:00
 b18bd998-6a03-4992-b25d-d866ef9dda69,irritable.to,premium,,,58,3,9,,,
 f8422ad9-e062-4c8a-8d50-d4159d7b0bc5,justnow.to,premium,,,56,10,8,,,
-8502939c-3818-4d8a-ae34-22716c29af2c,stockholm.to,resell,,,90,19,9,NAMECHEAP,24/01/2024 02:27,01/08/2028 00:00
+8502939c-3818-4d8a-ae34-22716c29af2c,stockholm.to,resell,,,90,17,9,NAMECHEAP,24/01/2024 02:27,01/08/2028 00:00
 5e83723f-5d60-4f29-a86f-a012cce66232,JesusChrist.to,premium,,,112,22,12,,,
 dd61e206-6324-4629-b998-0d179ba29263,existence.to,resell,,,76,11,9,NAMECHEAP,25/07/2023 02:27,01/08/2028 00:00
 bf654b70-266c-4b58-b654-6fe766575bd0,intwoshakes.to,premium,,,46,1,13,,,
@@ -4699,12 +4699,12 @@ a874aad5-76c8-4385-85b0-b3ba35b86337,orso.to,available,29.98,,62,11,5,namecheap,
 cac36790-53b4-48e4-9e47-b7cdf90d946d,thiscoming.to,premium,,,,1,11,,,
 49644596-11e4-4f3b-8e9b-e308e311a09c,giftcertificate.to,premium,,,76,2,16,,,
 f33c942a-cd06-41f8-a8a0-7dd3e9b47ea3,endowment.to,premium,,,70,8,9,,,
-e401bbe0-aec7-4d6b-9b6f-90b38d41a23d,redemption.to,premium,,,68,18,10,,,
+e401bbe0-aec7-4d6b-9b6f-90b38d41a23d,redemption.to,premium,,,68,16,10,,,
 dfa1f041-0306-4038-a2c9-525014432c46,myspace.to,resell,,,80,13,7,NAMECHEAP,09/03/2023 02:27,01/08/2026 00:00
 f93707ad-614b-4d0a-baa2-805f227ffa16,pickuptruck.to,premium,,,58,4,13,,,
 ad007ad7-6f1d-49b9-b2a1-be6e1b72f1b4,sombuddy.to,premium,,,58,1,8,,,
 ae518591-d088-494e-8095-118aacd02003,newsgroup.to,premium,,,64,4,9,,,
-3e926de3-3a8c-48eb-9be0-3e8dfa605c7b,nest.to,resell,,,74,42,4,humbly LLC,03/05/2023 02:27,26/03/2027 06:48
+3e926de3-3a8c-48eb-9be0-3e8dfa605c7b,nest.to,resell,,,74,41,4,humbly LLC,03/05/2023 02:27,26/03/2027 06:48
 f317e56d-92a7-47ac-b2d1-8a42f837de25,allweathertyre.to,premium,,,76,1,16,,,
 e4b158eb-f2e8-44a3-bb92-27f727e50db4,abundantly.to,premium,,,66,3,10,,,
 0549c76e-403a-45b7-86da-64cc8e9cd6f3,exclamation.to,premium,,,64,5,11,,,
@@ -4737,7 +4737,7 @@ be220111-fe57-4ece-b42c-7e79f514678f,trees.to,resell,,,66,22,5,NAMECHEAP,25/09/2
 0f2de09d-4393-4716-9212-e47f517dcb15,Pentium.to,premium,,,76,6,7,,,
 0e2b5c9c-7b74-4a85-9289-a22e4665ff18,webbrowser.to,premium,,,76,6,11,,,
 0e2e01e2-baa3-4f97-8a8b-717e1e521360,manya.to,premium,,,54,5,6,,,
-7fbfacaf-e852-48c0-88d3-6bcc640815e4,crowd.to,resell,,,98,34,5,NAMECHEAP,09/08/2023 02:27,01/08/2028 00:00
+7fbfacaf-e852-48c0-88d3-6bcc640815e4,crowd.to,resell,,,98,33,5,NAMECHEAP,09/08/2023 02:27,01/08/2028 00:00
 e4edf6b3-638b-4504-8c65-6ca47b796db3,nationaldebt.to,premium,,,,3,13,,,
 a8b2e258-9b49-4a5f-b243-dbe48291fbd9,walkfree.to,premium,,,,2,9,,,
 95499c91-e513-43ff-9c7a-43dd8e8eec41,seeingthat.to,premium,,,54,1,11,,,
@@ -4795,7 +4795,7 @@ f732ca3f-d160-4400-ae62-45e2bfee52e8,internationally.to,premium,,,66,2,15,,,
 30963e5a-e4f3-4392-bb12-050463972d3d,foodcourt.to,premium,,,76,11,10,,,
 f15aeea1-345c-4024-99e4-2c282c69beef,laugh.to,resell,,,108,14,5,humbly LLC,31/03/2023 02:27,04/08/2026 10:37
 e630ff1b-813d-4e96-9c41-388c68b3d642,shed.to,resell,,,62,27,4,NAMECHEAP,07/08/2025 01:23,07/08/2026 01:23
-61435509-e48b-4f81-89b2-826d76fcc162,detail.to,resell,,,102,22,6,NAMECHEAP,25/01/2024 02:27,01/08/2026 00:00
+61435509-e48b-4f81-89b2-826d76fcc162,detail.to,resell,,,102,20,6,NAMECHEAP,25/01/2024 02:27,01/08/2026 00:00
 92aebf6f-ad72-4bd5-9ec0-7b3bbfce262e,divinelaw.to,premium,,,69,2,10,,,
 affac0ae-50b0-4af5-87fb-f9733abc5fa7,onlytoo.to,premium,,,,1,8,,,
 664bbfcb-67ca-4350-a4dc-a25fae2da2ae,lamppost.to,premium,,,67,6,8,,,
@@ -4803,7 +4803,7 @@ affac0ae-50b0-4af5-87fb-f9733abc5fa7,onlytoo.to,premium,,,,1,8,,,
 b8847290-ec62-4c8d-8b50-9b67a56d6559,box.to,resell,,,68,78,3,NAMECHEAP,05/10/2023 22:40,03/06/2026 09:21
 2a926b8a-d3a8-4864-9f28-0fa6c90b970d,preference.to,premium,,,96,12,10,,,
 26503479-dd42-4d22-8d6f-2f69e4f7b7d3,SouthCarolina.to,premium,,,,12,14,,,
-7e9ca099-8da8-455b-a5a1-4ab1fbb25c7f,section.to,premium,,,94,14,7,,,
+7e9ca099-8da8-455b-a5a1-4ab1fbb25c7f,section.to,premium,,,94,12,7,,,
 86ea4cd4-b500-4718-a900-fb65e71234e4,savingsaccount.to,premium,,,72,2,15,,,
 e0572167-3e0d-43da-abc8-b55c042b3011,manykinded.to,premium,,,64,1,11,,,
 b1eec6c5-7725-43f6-986c-605d15f04b12,WestEuropean.to,premium,,,,1,13,,,
@@ -4863,11 +4863,11 @@ c82ebcf0-1de5-4604-a581-99903c066abb,maths.to,resell,,,74,28,5,NAMECHEAP,12/04/2
 e88ed24b-a84d-4040-8aba-abb2a3d76770,notify.to,resell,,,74,28,6,NAMECHEAP,06/06/2023 02:27,01/08/2026 00:00
 0ad8cf15-af5a-4617-9237-44111fd26026,onboard.to,resell,,,96,35,8,NAMECHEAP,04/10/2020 02:27,01/08/2026 00:00
 77b0207a-add1-40ad-b299-69400b50c79e,Rhiannon.to,premium,,,73,5,8,,,
-3fdaec40-c799-4489-ad40-a9eee77b28a3,retreat.to,resell,,,94,28,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+3fdaec40-c799-4489-ad40-a9eee77b28a3,retreat.to,resell,,,94,26,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 f9959648-ee40-4ee5-a25e-ca47ea0f5426,organised.to,premium,,,72,7,9,,,
 c80e9b40-34c7-48d0-979e-09488d445850,retiring.to,resell,,,73,5,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 0238a45e-e264-4259-a3a0-f872c38df712,evrything.to,premium,,,60,2,9,,,
-5ad697d3-3ee3-4e5d-ba5b-7a35976ffba8,lorry.to,premium,,,91,10,5,,,
+5ad697d3-3ee3-4e5d-ba5b-7a35976ffba8,lorry.to,premium,,,91,8,5,,,
 5d218e00-1425-4c82-9a41-0097a3b4460f,TahoeCity.to,premium,,,,3,10,,,
 af37a4fe-459d-4b51-94d6-f99a6c055f40,tossout.to,premium,,,64,3,8,,,
 6b30a861-75b2-4624-a143-1f63bf98bee8,hotshot.to,available,29.98,,112,15,7,namecheap,,
@@ -4887,7 +4887,7 @@ c92f8aa5-e926-46e9-a7ac-9d6c08830051,mobmentality.to,premium,,,56,1,13,,,
 8e3a8c8b-3fe9-4c78-aeb8-9e7dc810680a,annualreport.to,premium,,,78,6,13,,,
 3e5a45ec-9d9c-4d68-add9-3967f2bb041f,thirtythree.to,premium,,,70,9,12,,,
 88edcf89-879b-4b31-86b1-d24e8f440682,alveolar.to,available,29.98,,80,2,8,namecheap,,
-3d69859c-dc1e-44dd-bb93-6f7d21d4d161,covering.to,premium,,,66,8,8,,,
+3d69859c-dc1e-44dd-bb93-6f7d21d4d161,covering.to,premium,,,66,6,8,,,
 50364997-7a9b-458b-9c6b-4472cc4239bb,harddrive.to,premium,,,76,8,10,,,
 dbca0471-958b-4719-96b0-902014877232,refine.to,resell,,,78,24,6,NAMECHEAP,21/11/2019 08:24,21/11/2026 08:24
 be7bc245-92c8-4c91-a6ea-953f29924522,lightuparoom.to,premium,,,84,1,15,,,
@@ -4896,7 +4896,7 @@ be857aed-0712-493c-8f83-991e445eea62,whitestuff.to,premium,,,,7,11,,,
 c514e153-e376-44a2-a9ad-f38439446f76,thinkabout.to,premium,,,,7,11,,,
 b57402e2-e061-493d-824e-479261e5382c,worthwhile.to,premium,,,74,8,10,,,
 a382965a-0bdb-4f09-92b0-b9a721ab3d26,greatgrandson.to,premium,,,72,1,14,,,
-f5703aa7-aee9-4005-9964-6fa5ab657bfe,contempt.to,premium,,,54,6,8,,,
+f5703aa7-aee9-4005-9964-6fa5ab657bfe,contempt.to,premium,,,54,3,8,,,
 3f97f8c4-7e7c-461b-b9ec-bd378d9191a3,tentative.to,premium,,,81,6,9,,,
 45368d42-06a0-4023-8f45-c3becc8c2217,fraud.to,resell,,,86,30,5,NAMECHEAP,30/09/2023 02:27,01/08/2026 00:00
 b67bd825-53a3-405e-8711-fe04c6e890d6,moneyisnoobject.to,premium,,,54,1,18,,,
@@ -4904,16 +4904,16 @@ d700e487-3659-46e1-acf5-2bc13519d9c8,ladiesfirst.to,premium,,,54,5,12,,,
 ad930c05-c7cc-41c3-9e24-33753e003451,polyester.to,premium,,,86,10,9,,,
 08db7aef-f197-43b0-ac35-4f2236e846dd,finale.to,premium,,,76,12,6,,,
 51aeee4a-7d4d-4fe1-a80d-5400ec0f4d88,rockbottom.to,premium,,,80,8,11,,,
-ed0ca3f9-0977-47de-b936-d288fd07511d,lunch.to,resell,,,111,26,5,"Spaceship, Inc.",23/05/2025 07:44,10/06/2026 03:12
+ed0ca3f9-0977-47de-b936-d288fd07511d,lunch.to,resell,,,111,24,5,"Spaceship, Inc.",23/05/2025 07:44,10/06/2026 03:12
 3bd5a34a-426b-4976-ad1f-0542f23d9140,probable.to,premium,,,85,11,8,,,
 399836db-ad38-4219-8cf5-858353293434,dispose.to,resell,,,88,8,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 00d71799-c544-49cf-ab8f-d26bccbd3439,showaleg.to,premium,,,,1,10,,,
-d2f36901-fcb3-474a-8218-02c090b596d0,passion.to,resell,,,74,32,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
+d2f36901-fcb3-474a-8218-02c090b596d0,passion.to,resell,,,74,29,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 002dfab8-a515-4b12-8664-0025b99e87c1,tothinkthat.to,premium,,,,1,13,,,
 39f0e393-6c2b-47b0-9e15-e94fbaee9288,gun.to,resell,,,56,31,3,NAMECHEAP,04/03/2023 09:30,01/11/2026 01:15
 e7d73cbc-05ef-442c-8a02-553a30d3f4c9,substitution.to,premium,,,,2,12,,,
 c78fcd48-adff-4e54-9e63-37a2b52e3a94,motherfukkah.to,premium,,,62,1,12,,,
-7bbb0180-4b72-4fd4-85a8-70feaaffb677,madrid.to,resell,,,76,26,6,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
+7bbb0180-4b72-4fd4-85a8-70feaaffb677,madrid.to,resell,,,76,24,6,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
 94e463dc-80e5-4136-8ca9-08e3440b85b2,afloat.to,premium,,,72,10,6,,,
 6a7dca53-e46e-4556-9182-4e031cae0880,atthebestoftimes.to,premium,,,74,1,20,,,
 e6d6cb3f-670a-4bd1-96e6-68a6890a3140,delayed.to,available,29.98,,56,8,7,namecheap,,
@@ -4932,7 +4932,7 @@ d582b4d5-109f-4a41-9827-96bc3ba48b8f,shoppingcentre.to,premium,,,70,3,15,,,
 d2bbc711-3551-4f38-8307-6166b10ee2aa,encounter.to,resell,,,92,16,9,NAMECHEAP,18/01/2023 02:27,01/08/2026 00:00
 e4508b97-f436-4622-b324-3811c7cf1692,ideally.to,premium,,,68,8,7,,,
 3c480188-a831-42dd-93f4-93f107db4b77,serialkiller.to,premium,,,56,4,13,,,
-9b7592fa-75a5-4176-852d-228bd6e86214,lemon.to,resell,,,66,40,5,NAMECHEAP,28/01/2025 02:27,01/08/2026 00:00
+9b7592fa-75a5-4176-852d-228bd6e86214,lemon.to,resell,,,66,41,5,NAMECHEAP,28/01/2025 02:27,01/08/2026 00:00
 6fd9fe81-5e3c-46d6-9862-5d7327273e1d,sweetFA.to,premium,,,38,2,8,,,
 c03fb2c9-f9ab-42a2-aaba-d19743fb0992,jamesbond.to,premium,,,88,10,10,,,
 1b121dd1-b5c5-411a-8fee-5f7f39266c7f,unused.to,premium,,,56,7,6,,,
@@ -4940,7 +4940,7 @@ c03fb2c9-f9ab-42a2-aaba-d19743fb0992,jamesbond.to,premium,,,88,10,10,,,
 b3739386-b7a8-4a57-9410-9630fe6392ec,tend.to,resell,,,76,15,4,"Spaceship, Inc.",16/04/2023 02:27,01/07/2027 10:33
 1b3e9ea1-fa2d-44c1-980b-545b7e623ff4,dominance.to,premium,,,68,8,9,,,
 94498021-e5f7-4460-8f0a-5461c5c32394,possibly.to,premium,,,62,6,8,,,
-5cc42ef1-f63e-489f-a3ac-ff72a650ff96,cleveland.to,resell,,,60,23,9,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
+5cc42ef1-f63e-489f-a3ac-ff72a650ff96,cleveland.to,resell,,,60,19,9,NAMECHEAP,13/11/2025 00:29,13/11/2026 00:29
 a880a387-2465-4327-b172-e8f8d978544e,dothedishes.to,premium,,,66,2,13,,,
 9ecb30aa-26cf-4dcb-8ea5-5cfc26055c04,trillionaire.to,premium,,,80,12,12,,,
 db81a198-9e43-4cbb-aff6-d8a515c18163,amicable.to,premium,,,70,6,8,,,
@@ -4951,13 +4951,13 @@ a0502871-df93-4a7b-aaf0-018317cff0fa,agile.to,resell,,,92,42,5,NAMECHEAP,25/09/2
 678001fb-a911-4a5c-9883-d4e0bd74cd34,twothirds.to,premium,,,,3,10,,,
 b861eee6-5497-4243-b401-4824b30658f9,easymark.to,premium,,,64,5,9,,,
 efc5c250-588c-4ce5-8296-6bd69d97c2aa,incompatible.to,premium,,,74,2,12,,,
-b05cc249-48df-4ae2-a8db-5fe49898ece3,channels.to,resell,,,68,17,8,NAMECHEAP,26/06/2023 02:27,01/08/2026 00:00
+b05cc249-48df-4ae2-a8db-5fe49898ece3,channels.to,resell,,,68,14,8,NAMECHEAP,26/06/2023 02:27,01/08/2026 00:00
 93db2df7-6c48-4d2f-86f3-dcf14b45cfed,impact.to,resell,,,92,73,6,"Spaceship, Inc.",21/07/2025 07:01,09/10/2026 08:19
 c9348e0b-5216-4ff2-8b37-4e0052ef8dd0,equivalent.to,resell,,,110,6,10,NAMECHEAP,22/04/2021 02:27,01/08/2026 00:00
 f388f323-18b1-4a46-bdee-aa8fe56878ce,themasses.to,premium,,,,3,10,,,
 2408fcb7-34ef-4a5b-bfa7-d65d37084a99,panoramic.to,premium,,,88,12,9,,,
 af8cdc6c-246b-439f-a0f7-6566f9437833,advancing.to,available,29.98,,72,9,9,namecheap,,
-3857b280-4161-4322-af4d-6aa6b09e3fd4,praise.to,resell,,,108,19,6,NAMECHEAP,12/04/2021 02:27,01/08/2026 00:00
+3857b280-4161-4322-af4d-6aa6b09e3fd4,praise.to,resell,,,108,18,6,NAMECHEAP,12/04/2021 02:27,01/08/2026 00:00
 f4cca99a-3974-4f82-8f9c-eda36255f297,favourable.to,premium,,,86,2,10,,,
 8880aade-0996-428c-8b7a-1b9b88e5907c,generalpurpose.to,premium,,,62,3,15,,,
 21e03591-a8f2-4dc6-bbee-269b5d6988dd,rather.to,resell,,,66,10,6,NAMECHEAP,19/12/2022 02:27,01/08/2026 00:00
@@ -5005,7 +5005,7 @@ e0a86a8f-94b6-44f8-9e69-ce8a7ebdb511,futile.to,premium,,,60,6,6,,,
 64c15b54-46a0-4faf-a059-79acac79fcd2,passinggrade.to,premium,,,68,1,13,,,
 03a2bd35-7c9c-4f3c-9b0e-7d935671a7b9,medals.to,premium,,,66,6,6,,,
 eb787a62-78f2-4bfa-884d-44c05e67f4bd,covered.to,available,29.98,,74,14,7,namecheap,,
-ba460151-5bf7-4ad9-83f9-50315e7bb0bc,wording.to,premium,,,70,8,7,,,
+ba460151-5bf7-4ad9-83f9-50315e7bb0bc,wording.to,premium,,,70,6,7,,,
 6aa3657c-1cc5-4ed6-be5b-92e270b13fa3,grandad.to,premium,,,80,4,7,,,
 524bd90c-a330-44b8-a08c-306483d2434d,hardatwork.to,premium,,,74,1,12,,,
 85673d15-f0dd-46d6-9af5-3e0bd5dd5a8b,visualized.to,premium,,,70,6,10,,,
@@ -5053,7 +5053,7 @@ d6fa4a44-6708-43fc-8386-244c0283a078,labour.to,resell,,,62,12,6,NAMECHEAP,21/03/
 0b1843e8-0cc6-42d9-82fc-da88a66db7af,havetherighttime.to,premium,,,64,1,19,,,
 6fff9663-6a9a-4b0a-a682-a1b3532ef57c,aaa.to,resell,,,70,42,3,Government of Kingdom of Tonga,22/12/2017 02:24,22/12/2026 03:28
 25f80935-f266-4dda-ae74-20909ad62045,secondly.to,premium,,,54,4,8,,,
-013f99d4-c7a5-4ff8-b3f9-ff407adf46d1,memory.to,resell,,,74,43,6,NAMECHEAP,19/08/2023 02:27,01/08/2026 00:00
+013f99d4-c7a5-4ff8-b3f9-ff407adf46d1,memory.to,resell,,,74,42,6,NAMECHEAP,19/08/2023 02:27,01/08/2026 00:00
 d085e65e-af79-47cf-8f17-a3059409ccab,transparency.to,resell,,,,20,12,NAMECHEAP,19/01/2024 02:27,01/08/2028 00:00
 a8883ad4-4169-4044-80d5-0a38b50e70ca,fix.to,resell,,,66,33,3,NAMECHEAP,20/06/2023 13:50,20/06/2027 13:50
 f8b67bbb-6594-4163-9bef-6a7b88be84d3,entranceexamination.to,premium,,,64,1,20,,,
@@ -5081,7 +5081,7 @@ ab9cfc33-7042-40ea-a54e-0835ff94ea78,artimitateslife.to,premium,,,55,1,17,,,
 1e059a94-b216-4386-8722-52a03c2bd151,YubaCity.to,premium,,,,2,9,,,
 887a76df-c515-470c-901d-c6dc9670906c,make.to,resell,,,104,39,4,NAMECHEAP,11/12/2025 15:59,11/12/2027 15:59
 b2a49cc8-ace8-44ff-a89b-14ad231665e8,anything.to,resell,,,76,32,8,NAMECHEAP,05/05/2023 02:27,01/08/2026 00:00
-b2e46471-924b-450e-9714-4f40f4690c3f,curry.to,resell,,,70,27,5,NAMECHEAP,27/11/2023 02:27,01/08/2026 00:00
+b2e46471-924b-450e-9714-4f40f4690c3f,curry.to,resell,,,70,26,5,NAMECHEAP,27/11/2023 02:27,01/08/2026 00:00
 5ca20717-faf4-46c7-b63d-9ed3f666490b,carriage.to,premium,,,68,8,8,,,
 2812fedd-9381-4aa2-ac6c-13049a9d6440,condolences.to,premium,,,76,4,11,,,
 c8240d63-213d-419e-a5c9-1bbca9a5507e,sympathetic.to,premium,,,68,3,11,,,
@@ -5090,7 +5090,7 @@ c8240d63-213d-419e-a5c9-1bbca9a5507e,sympathetic.to,premium,,,68,3,11,,,
 67c3cf25-aa9d-4714-80c0-e7869e237058,bringhome.to,premium,,,72,4,10,,,
 437a46a7-2a25-4cc0-a09e-e6e0332b023f,reduce.to,resell,,,78,10,6,NAMECHEAP,10/03/2023 02:27,01/08/2026 00:00
 e4fca811-84a3-4e4d-8641-55e56b48ce3e,circuit.to,resell,,,90,29,7,NAMECHEAP,04/04/2025 02:27,01/08/2028 00:00
-92f92a58-0782-4604-9684-ef8672d72bd3,cincinnati.to,resell,,,86,18,10,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
+92f92a58-0782-4604-9684-ef8672d72bd3,cincinnati.to,resell,,,86,14,10,NAMECHEAP,13/11/2025 00:28,13/11/2026 00:28
 0af8eac8-74f0-42d9-b5da-5ceaead06053,failedstate.to,premium,,,54,2,12,,,
 4342f1db-ea1b-4b43-a1dc-d64964c8dd65,momentum.to,resell,,,74,49,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 e1667fab-483e-46b4-81ca-c078d57da48d,construction.to,resell,,,66,30,12,NAMECHEAP,06/12/2023 02:27,01/08/2026 00:00
@@ -5112,7 +5112,7 @@ e2d7422d-96ff-4af3-9d82-191f6ff197b5,warishell.to,premium,,,,1,11,,,
 4ebd252b-c4ac-4597-84f0-d9d28465499c,lorditover.to,premium,,,68,1,12,,,
 7c54302d-fa01-4305-8682-ed88cc90586e,inspired.to,resell,,,74,31,8,NAMECHEAP,26/12/2023 02:27,01/08/2028 00:00
 ebf7dc73-4ef4-4e7d-b236-da6a17720eee,spoof.to,resell,,,104,10,5,NAMECHEAP,05/11/2023 02:27,01/08/2026 00:00
-0d8de3da-f37e-4c1a-8ff1-d6e7d8c6415f,palace.to,resell,,,66,22,6,NAMECHEAP,25/12/2023 02:27,01/08/2026 00:00
+0d8de3da-f37e-4c1a-8ff1-d6e7d8c6415f,palace.to,resell,,,66,21,6,NAMECHEAP,25/12/2023 02:27,01/08/2026 00:00
 96742903-c19d-4ea5-a827-9bf60d66ff88,witty.to,resell,,,76,15,5,NAMECHEAP,01/03/2022 02:27,01/08/2026 00:00
 1dbb0940-a64e-4d35-ae13-d9ca6f29ec56,pilot.to,resell,,,114,37,5,NAMECHEAP,20/06/2023 02:27,01/08/2026 00:00
 867778fe-4d86-45a4-99d4-dd1a02998a91,pail.to,premium,,,70,7,4,,,
@@ -5168,7 +5168,7 @@ ee470a84-5f1b-4212-8168-6ccc1647fcee,tieup.to,premium,,,,3,6,,,
 9aae9b7d-f520-45dc-8b46-7985597da9aa,pointat.to,premium,,,,2,8,,,
 755b06f0-2bfc-447d-a5af-31e2f0e46b87,affiliation.to,premium,,,74,6,11,,,
 15e44152-9197-4770-ae0a-525906b79f05,feeling.to,resell,,,106,20,7,NAMECHEAP,06/11/2023 02:27,01/08/2026 00:00
-68e3a25f-37de-408d-94ed-3958bec91720,oslo.to,premium,,,54,24,4,,,
+68e3a25f-37de-408d-94ed-3958bec91720,oslo.to,premium,,,54,23,4,,,
 087fa056-33fb-419d-b70d-cc01076791f3,powerstrip.to,premium,,,74,2,11,,,
 c9094916-5eac-4629-85d4-f68d206c91f0,pussy.to,resell,,,50,24,5,NAMECHEAP,07/08/2025 00:34,07/08/2026 00:34
 7a2c1caf-babb-4cf4-8519-412ae8b04fd4,saved.to,resell,,,76,17,5,NAMECHEAP,14/10/2024 02:27,01/08/2028 00:00
@@ -5177,14 +5177,14 @@ c9094916-5eac-4629-85d4-f68d206c91f0,pussy.to,resell,,,50,24,5,NAMECHEAP,07/08/2
 da3bfa14-a0d5-434c-af1f-f0a8d989dbff,yearend.to,premium,,,74,5,8,,,
 3f97a954-6ca1-4c52-965b-0abb2ba0ac7d,suntea.to,premium,,,82,3,7,,,
 3c11f78c-b597-4fc2-922a-f7377434a240,poor.to,resell,,,54,16,4,NAMECHEAP,25/03/2021 02:27,01/08/2026 00:00
-e0846716-278b-43b4-8192-57bca7de3b37,cell.to,resell,,,94,31,4,NAMECHEAP,22/01/2024 02:27,01/08/2026 00:00
+e0846716-278b-43b4-8192-57bca7de3b37,cell.to,resell,,,94,29,4,NAMECHEAP,22/01/2024 02:27,01/08/2026 00:00
 8a601ce0-d12d-4ca5-a92e-9dcf62cc9d41,embracing.to,premium,,,78,6,9,,,
 64baf27b-5e91-4924-8c00-6e31b0453269,childneglect.to,premium,,,52,1,13,,,
 b4c5061f-ad33-4b68-9c1a-4ac4d15fa5da,occurring.to,premium,,,80,2,9,,,
 6c389379-ff5b-4cc8-aef0-a86de63528b4,informally.to,premium,,,58,2,10,,,
 ea95e435-8ca1-479a-938f-1834271a963d,ofcourse.to,premium,,,66,10,9,,,
-c75fa84a-b1f8-444c-8a0f-d405cd27f155,checkinto.to,premium,,,70,4,10,,,
-a45c898e-a674-492c-b42f-9ff0417ae7dc,cinderella.to,premium,,,78,14,10,,,
+c75fa84a-b1f8-444c-8a0f-d405cd27f155,checkinto.to,premium,,,70,2,10,,,
+a45c898e-a674-492c-b42f-9ff0417ae7dc,cinderella.to,premium,,,78,12,10,,,
 d5aa0870-12c8-4e2d-9c1b-17b427edee4e,unsatisfactory.to,premium,,,54,1,14,,,
 1339ea18-e26a-497a-aecc-d02428b5da18,instantmessage.to,premium,,,92,2,15,,,
 bc2ad88c-1b8e-4ada-a727-8ea5830f17cf,businessventure.to,premium,,,76,1,16,,,
@@ -5196,7 +5196,7 @@ a2450c83-bee7-4d2c-a1d3-8368aae43429,specially.to,premium,,,58,3,9,,,
 5a47db24-aa6b-4f48-8fa5-277e27e8c64b,prepared.to,resell,,,66,14,8,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00
 87cab171-1381-4bae-af58-41326ed14ad8,surface.to,resell,,,68,66,7,NAMECHEAP,07/11/2022 02:27,01/08/2026 00:00
 165b042d-c86d-4b64-9adf-ec0fb5e8d5c9,wipeup.to,premium,,,70,2,7,,,
-20fdc6d4-1501-4076-a76d-ba90657aeacd,morgan.to,resell,,,64,83,6,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
+20fdc6d4-1501-4076-a76d-ba90657aeacd,morgan.to,resell,,,64,82,6,NAMECHEAP,04/05/2024 02:27,01/08/2028 00:00
 3036b11d-ddc3-49ef-8eb0-4650cae60d94,been.to,resell,,,60,8,4,humbly LLC,14/04/2017 03:29,14/04/2026 03:29
 db0f1081-4e63-432b-925e-debf94c0180c,tasking.to,premium,,,68,6,7,,,
 163ef932-a395-40d6-8810-3b60bad9d3e5,mainman.to,premium,,,72,3,8,,,
@@ -5217,7 +5217,7 @@ d3d84858-d2c9-4c6c-8a96-3160f0495c74,powerful.to,resell,,,82,29,8,NAMECHEAP,20/1
 54d627ba-7853-41ce-a505-ab8a0956737b,pitching.to,premium,,,72,6,8,,,
 f90ea092-6b22-4aea-a906-5df4411a04d5,spreadsheet.to,resell,,,96,12,11,NAMECHEAP,09/12/2021 02:27,01/08/2026 00:00
 5e3859cf-3cd6-48f8-97b3-00677aa42029,Liam.to,resell,,,81,29,4,NAMECHEAP,09/08/2021 02:27,01/08/2026 00:00
-9201bed9-b6e7-417a-b931-57345fbebc78,lookinto.to,premium,,,70,5,9,,,
+9201bed9-b6e7-417a-b931-57345fbebc78,lookinto.to,premium,,,70,3,9,,,
 c7ea067b-a29f-4bc4-932e-f8c9c0cfc902,invariably.to,premium,,,62,2,10,,,
 60744aa3-2ed4-4da7-a5dd-67b5b9f6d3d0,UPC.to,resell,,,72,19,3,NAMECHEAP,24/03/2023 02:27,01/08/2026 00:00
 9b9f50f8-1a51-487d-b50d-72314c3041d8,hattrick.to,premium,,,76,10,9,,,
@@ -5256,7 +5256,7 @@ cb85f600-bc3a-4830-a135-fb92648f9de1,portland.to,resell,,,62,21,8,NAMECHEAP,20/1
 929ee15d-e899-4856-b5b8-565e3f6e4fca,characters.to,premium,,,56,10,10,,,
 7a836237-75b3-41b1-aaba-3866cce95306,breezy.to,premium,,,76,22,6,,,
 3386a779-99de-424d-922f-f653ee2c5985,throw.to,resell,,,102,12,5,NAMECHEAP,30/12/2019 02:27,01/08/2026 00:00
-6fd4a181-a9f0-42a1-aa29-94fcd30622c8,charleston.to,resell,,,74,22,10,NAMECHEAP,22/03/2024 02:27,01/08/2026 00:00
+6fd4a181-a9f0-42a1-aa29-94fcd30622c8,charleston.to,resell,,,74,20,10,NAMECHEAP,22/03/2024 02:27,01/08/2026 00:00
 8fef1745-7fc1-425e-8221-b72e88e281af,documentation.to,premium,,,66,15,13,,,
 acaacb88-f285-4a98-bac2-0ec4de32e4e9,useup.to,premium,,,,3,6,,,
 73f013cf-6836-42bf-af80-3988b63e4f83,toiletroll.to,premium,,,68,3,11,,,
@@ -5267,7 +5267,7 @@ e6170c62-8c4a-45b5-a64d-f0f5132ec092,terrific.to,resell,,,74,14,8,NAMECHEAP,25/0
 f9eed3e4-7ff6-4c2f-9023-808d7eaf4c9d,TheBahamas.to,premium,,,,3,11,,,
 88b4bf0f-2877-4d90-a399-9fc772b9e4a5,takingaway.to,premium,,,,1,11,,,
 ba30c5ed-3358-4037-948d-9e73aa891369,scarred.to,premium,,,56,4,7,,,
-0dd833dd-4119-4fd2-ab1c-a2837fda4f93,sensing.to,premium,,,64,12,7,,,
+0dd833dd-4119-4fd2-ab1c-a2837fda4f93,sensing.to,premium,,,64,10,7,,,
 a3982d74-fae3-472d-9006-058ee13d326a,offof.to,premium,,,50,1,6,,,
 b185e487-412c-4706-ab60-7fda94ba6d2f,surfaces.to,premium,,,,6,8,,,
 c15e639b-64d4-436e-86fe-dd00c7be3836,blockade.to,resell,,,76,5,8,NAMECHEAP,30/08/2022 02:27,01/08/2026 00:00
@@ -5318,7 +5318,7 @@ b08a2b40-f46f-482e-aacb-c4397aee8aee,described.to,available,29.98,,62,4,9,namech
 e6237589-380c-4606-a6b9-791d6b853dc6,known.to,resell,,,92,19,5,NAMECHEAP,05/11/2022 02:27,01/08/2026 00:00
 88c1c9e4-a913-44f4-945e-b53afc57a307,gracious.to,available,29.98,,90,10,8,namecheap,,
 96e39819-2873-42c6-b184-bb6d6a03a6a6,diminishing.to,premium,,,77,2,11,,,
-df4bca99-8375-436f-a454-ec651844c155,cancer.to,resell,,,82,33,6,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
+df4bca99-8375-436f-a454-ec651844c155,cancer.to,resell,,,82,30,6,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00
 3a91a6a2-ff21-4671-b414-ca8e806b5635,naturewriter.to,premium,,,,1,13,,,
 3c7787f0-5864-4585-894a-3f42f29909de,coding.to,resell,,,82,38,6,NAMECHEAP,17/04/2023 02:27,01/08/2026 00:00
 a6d1f9f1-3db7-4c3c-849e-e4c2da686464,smelling.to,premium,,,64,3,8,,,
