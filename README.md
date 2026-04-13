@@ -1,20 +1,20 @@
-# Available .TO One-Word Domains (5,356)
+# Available .TO One-Word Domains (5,355)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C354%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C356%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C353%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C355%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .to one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 5,354-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,356 domains** on the canonical page below.
+> **Important:** this repository is a **public 5,353-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **5,355 domains** on the canonical page below.
 
-**Public extract:** 5,354 rows · **Live catalog:** 5,356 domains
+**Public extract:** 5,353 rows · **Live catalog:** 5,355 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/to`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TO one-word domain ca
 
 ### Files
 
-- `to.csv` — public CSV extract (5,354 rows)
-- `to.json` — public JSON extract (5,354 rows)
+- `to.csv` — public CSV extract (5,353 rows)
+- `to.json` — public JSON extract (5,353 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -79,10 +79,10 @@ print(df.head())
 | silly.to     | available | $29.98    | —             | 82             | 23     | 5      | namecheap       |
 | cameroon.to  | resell    | —         | —             | 75             | 97     | 8      | NAMECHEAP       |
 | sheraton.to  | premium   | —         | —             | 52             | 84     | 8      | —               |
-| crafty.to    | available | $29.98    | —             | 68             | 23     | 6      | namecheap       |
+| crafty.to    | available | $29.98    | —             | 68             | 22     | 6      | namecheap       |
 | lithuania.to | resell    | —         | —             | 64             | 97     | 9      | NAMECHEAP       |
 | grandprix.to | premium   | —         | —             | 72             | 83     | 10     | —               |
-| sincere.to   | available | $29.98    | —             | 72             | 22     | 7      | namecheap       |
+| twelve.to    | available | $29.98    | —             | 88             | 21     | 6      | namecheap       |
 | indeed.to    | resell    | —         | —             | 94             | 85     | 6      | NAMECHEAP       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 5,354-row public sample | 5,356 live domains                               |
+| 5,353-row public sample | 5,355 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |

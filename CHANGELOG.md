@@ -2,8 +2,8 @@
 
 ## 2026-04-13
 
-- Refreshed the public extract to 5,354 rows.
-- Updated the live catalog reference to 5,356 domains.
+- Refreshed the public extract to 5,353 rows.
+- Updated the live catalog reference to 5,355 domains.
 - Regenerated README copy and trust files from the shared manifest.
 
 For stable historical references, publish dated GitHub Releases with attached CSV and JSON assets.
