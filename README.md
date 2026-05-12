@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Acup.to          | available | $29.98    | —             | 80             | 5      | 5      | namecheap |
-| LGBTQ.to         | available | $29.98    | —             | 86             | 17     | 5      | namecheap |
+| LGBTQ.to         | available | $29.98    | —             | 86             | 20     | 5      | namecheap |
 | finals.to        | available | $29.98    | —             | 80             | 7      | 6      | namecheap |
 | dogsit.to        | available | $29.98    | —             | 96             | 2      | 6      | namecheap |
 | gearup.to        | available | $29.98    | —             | 80             | 16     | 7      | namecheap |
@@ -83,7 +83,7 @@ print(df.head())
 | regions.to       | resell    | —         | —             | 64             | 59     | 7      | NAMECHEAP |
 | veterans.to      | available | $29.98    | —             | 56             | 23     | 8      | namecheap |
 | shortcuts.to     | resell    | —         | —             | 48             | 41     | 10     | NAMECHEAP |
-| smartest.to      | available | $29.98    | —             | 64             | 20     | 8      | namecheap |
+| justin.to        | resell    | —         | —             | 58             | 38     | 7      | NAMECHEAP |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
