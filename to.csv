@@ -62,6 +62,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0568ce04-e329-4f9f-864a-1f90ba9b083d,exclaimed.to,available,29.98,,50,2,9,namecheap,,
 056fde30-d5c0-4601-80b6-f14dae8ffa35,SuezCanal.to,available,29.98,,58,3,10,namecheap,,
 05ab7dda-010e-42ab-8975-28d3d933ae8d,havenousefor.to,available,29.98,,56,0,15,namecheap,,
+05d5edd2-4153-4890-b68e-c2058e10a87e,markets.to,resell,,,62,25,7,humbly LLC,02/08/2019 03:19,02/08/2026 03:19
 05daf664-2cde-4d2f-8f74-060ef2a1ea0d,patches.to,available,29.98,,53,16,7,namecheap,,
 06110483-6939-46fc-bec7-2151b0127f51,tomorrows.to,available,29.98,,60,11,9,namecheap,,
 0614b225-906e-4775-84b9-74c992a61f52,bosses.to,available,29.98,,54,8,6,namecheap,,
@@ -484,7 +485,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2cb5641b-ae32-4140-8390-4d997a74e63f,pairs.to,available,29.98,,54,11,5,namecheap,,
 2cce1952-4fae-4fe0-915d-19afc1fc1b66,highpolitics.to,available,29.98,,62,0,13,namecheap,,
 2ccfc00a-80b1-4e38-aa0e-31dd72aa3538,someoneelse.to,available,29.98,,54,3,12,namecheap,,
-2d3805db-1813-493b-a4e0-38abac613384,players.to,resell,,,69,25,7,"Spaceship, Inc.",25/09/2024 04:32,01/10/2026 05:07
+2d3805db-1813-493b-a4e0-38abac613384,players.to,resell,,,69,21,7,"Spaceship, Inc.",25/09/2024 04:32,01/10/2026 05:07
 2d57ca21-bcb9-4371-a352-80987bd1bf27,manysortedlogic.to,available,29.98,,64,1,17,namecheap,,
 2d615386-cdef-4a00-8d3b-3782c34139ad,subsidiaries.to,available,29.98,,51,2,12,namecheap,,
 2d660641-c17a-4581-bf97-7d3d2be7dbf5,havea.to,available,29.98,,60,7,6,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b42923e-95c2-4b24-a3e1-4222bcaf95fb,inmyview.to,available,29.98,,48,2,10,namecheap,,
 5b51caeb-d0a0-4e3f-8783-df7a022370d5,honeymooning.to,available,29.98,,82,2,12,namecheap,,
 5b6a9d17-8ed1-4085-a931-b2148f500d1c,receives.to,resell,,,52,3,8,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
-5b8d9eba-eabf-41d8-85f7-e4a0bfa6993b,speeds.to,available,29.98,,53,8,6,namecheap,,
