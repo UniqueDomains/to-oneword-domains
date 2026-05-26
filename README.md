@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .to one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 8,115 domains · **Median ask:** $30.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/to`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | stirup.to        | available | $29.98    | —             | 82             | 3      | 7      | namecheap |
 | getlife.to       | available | $29.98    | —             | 80             | 5      | 8      | namecheap |
 | headout.to       | available | $29.98    | —             | 82             | 6      | 8      | namecheap |
-| fitin.to         | available | $29.98    | —             | 84             | 2      | 8      | namecheap |
+| fitin.to         | available | $29.98    | —             | 84             | 1      | 8      | namecheap |
 | dogstail.to      | available | $29.98    | —             | 94             | 1      | 8      | namecheap |
 | aloevera.to      | available | $29.98    | —             | 80             | 10     | 9      | namecheap |
 | bedframe.to      | available | $29.98    | —             | 80             | 3      | 9      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
