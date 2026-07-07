@@ -1,10 +1,10 @@
-# Available .TO One-Word Domains (8,115)
+# Available .TO One-Word Domains (8,117)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C115%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C117%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .to one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,115 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,117 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,115 domains · **Median ask:** $30.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,117 domains · **Median ask:** $30.60 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/to`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TO one-word domain ca
 
 ### Files
 
-- `to.csv` — public CSV extract (1,000 rows)
-- `to.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `to.csv`, public CSV extract (1,000 rows)
+- `to.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.to          | available | $29.98    | —             | 80             | 5      | 5      | namecheap |
-| LGBTQ.to         | available | $29.98    | —             | 86             | 20     | 5      | namecheap |
-| finals.to        | available | $29.98    | —             | 80             | 7      | 6      | namecheap |
-| dogsit.to        | available | $29.98    | —             | 96             | 2      | 6      | namecheap |
-| gearup.to        | available | $29.98    | —             | 80             | 16     | 7      | namecheap |
-| pierogi.to       | available | $29.98    | —             | 82             | 7      | 7      | namecheap |
-| stirup.to        | available | $29.98    | —             | 82             | 3      | 7      | namecheap |
-| getlife.to       | available | $29.98    | —             | 80             | 5      | 8      | namecheap |
-| headout.to       | available | $29.98    | —             | 82             | 6      | 8      | namecheap |
-| fitin.to         | available | $29.98    | —             | 84             | 1      | 8      | namecheap |
-| dogstail.to      | available | $29.98    | —             | 94             | 1      | 8      | namecheap |
-| aloevera.to      | available | $29.98    | —             | 80             | 10     | 9      | namecheap |
-| bedframe.to      | available | $29.98    | —             | 80             | 3      | 9      | namecheap |
-| IsleofMan.to     | available | $29.98    | —             | 62             | 91     | 11     | namecheap |
-| nets.to          | resell    | —         | —             | 54             | 81     | 4      | NAMECHEAP |
-| keepthechange.to | available | $29.98    | —             | 46             | 59     | 15     | namecheap |
-| regions.to       | resell    | —         | —             | 64             | 59     | 7      | NAMECHEAP |
-| veterans.to      | available | $29.98    | —             | 56             | 23     | 8      | namecheap |
-| shortcuts.to     | resell    | —         | —             | 48             | 41     | 10     | NAMECHEAP |
-| justin.to        | resell    | —         | —             | 58             | 38     | 7      | NAMECHEAP |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| xii.to   | available | $29.98    | —             | medium         | low    | 3      | namecheap       |
+| ala.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| bern.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| Ann.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| bust.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| axe.to   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| cons.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| cry.to   | resell    | —         | —             | high           | low    | 3      | humbly LLC      |
+| knew.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap       |
+| ear.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| rang.to  | available | $29.98    | —             | low            | low    | 4      | namecheap       |
+| feb.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| xiii.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap       |
+| gag.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| yuck.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| HBO.to   | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
+| abit.to  | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
+| His.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| below.to | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
+| hum.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,115 live domains                         |
+| 1,000-row public sample | 8,117 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These .to domains span a wide range of word styles, from concise brandables like Acup.to to direct dictionary and phrase-like names such as finals.to, forces.to, dogsit.to, and playin.to. For founders, the key question is whether a name is memorable, easy to say, and ownable without confusion. For investors, the focus is whether the ask leaves room versus likely resale demand for this extension. The median ask of 30.06 suggests many names may look inexpensive upfront, but quality still varies sharply. Give extra weight to clean spelling, broad commercial use, and obvious trademark exposure in names like audible.to.
+This list includes 8,117 one-word domain names on the .to extension, ranging from compact compound words like makewhole.to and turninto.to to name-style options such as WonderWoman.to. The median asking price across the set is about $30, making many of these domains accessible for quick evaluation. .to domains tend to read short and memorable, which supports both quick brand launches and speculative holding. When comparing these domains, look at word clarity, spelling simplicity, and whether the term carries trademark risk before locking in a choice.
 
-- Prioritize short, clear .to names with clean spelling
-- Compare ask price to the strength of the exact word
-- Check trademark exposure before valuing brandable upside
-- Favor names with broad use over narrow or awkward phrasing
+- 8,117 one-word domain names on the .to extension
+- Median asking price near $30 across this set
+- Compound-word and name-style domains included
+- Updated daily as new .to listings appear
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
