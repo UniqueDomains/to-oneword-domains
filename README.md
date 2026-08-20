@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .to one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,555 domains · **Median ask:** $36.29 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| half.to  | resell    | —         | —             | high           | low    | 4      | NAMECHEAP                      |
-| pure.to  | resell    | —         | —             | high           | medium | 4      | NAMECHEAP                      |
-| fancy.to | resell    | —         | —             | high           | low    | 5      | Government of Kingdom of Tonga |
-| tough.to | available | $29.98    | —             | high           | low    | 5      | namecheap                      |
-| xii.to   | available | $29.98    | —             | medium         | low    | 3      | namecheap                      |
-| ala.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| bern.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| Ann.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| bust.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| axe.to   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                |
-| cons.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| cry.to   | resell    | —         | —             | high           | low    | 3      | humbly LLC                     |
-| knew.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap                      |
-| ear.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| rang.to  | available | $29.98    | —             | low            | low    | 4      | namecheap                      |
-| feb.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| xiii.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap                      |
-| gag.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| yuck.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| HBO.to   | resell    | —         | —             | high           | medium | 3      | NAMECHEAP                      |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| xii.to   | available | $29.98    | —             | medium         | low    | 3      | namecheap       |
+| ala.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| bern.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| Ann.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| bust.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| axe.to   | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| cons.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| cry.to   | resell    | —         | —             | high           | low    | 3      | humbly LLC      |
+| knew.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap       |
+| ear.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| rang.to  | available | $29.98    | —             | low            | low    | 4      | namecheap       |
+| feb.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| xiii.to  | available | $29.98    | —             | medium         | low    | 4      | namecheap       |
+| gag.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| yuck.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
+| HBO.to   | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
+| abit.to  | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
+| His.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
+| below.to | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
+| hum.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
