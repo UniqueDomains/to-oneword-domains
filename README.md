@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .to one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,373 domains · **Median ask:** $36.98 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| half.to  | resell    | —         | —             | high           | low    | 4      | NAMECHEAP       |
 | xii.to   | available | $29.98    | —             | medium         | low    | 3      | namecheap       |
 | ala.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
 | bern.to  | available | $29.98    | —             | high           | low    | 4      | namecheap       |
@@ -84,6 +83,7 @@ print(df.head())
 | abit.to  | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
 | His.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
 | below.to | available | $29.98    | —             | medium         | low    | 5      | namecheap       |
+| hum.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
