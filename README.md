@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .to one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,141 domains · **Median ask:** $44.38 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
 | ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| xii.to  | available | $64.99    | $64.99        | low            | low    | 3      | namesilo                       |
+| ahuh.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
 | ala.to  | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
 | bern.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
 | ann.to  | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| bust.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| axe.to  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                |
 | cons.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
+| axe.to  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
+| cows.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
+| bag.to  | resell    | —         | —             | high           | low    | 3      | humbly LLC                     |
+| djia.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
 | bar.to  | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| knew.to | available | $29.98    | —             | medium         | low    | 4      | namecheap                      |
-| cod.to  | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| oreo.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
+| knew.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
 | cry.to  | resell    | —         | —             | high           | low    | 3      | humbly LLC                     |
-| rang.to | available | $29.98    | —             | low            | low    | 4      | namecheap                      |
+| oreo.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
+| dvd.to  | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
+| pale.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
 | ear.to  | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| xiii.to | available | $64.99    | $64.99        | low            | low    | 4      | namesilo                       |
-| feb.to  | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| xxvi.to | available | $64.99    | $64.99        | low            | low    | 4      | namesilo                       |
-| hbo.to  | resell    | —         | —             | high           | medium | 3      | NAMECHEAP                      |
-| yuck.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| los.to  | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
+| rang.to | available | $29.98    | —             | medium         | low    | 4      | namecheap                      |
+| era.to  | resell    | —         | —             | high           | medium | 3      | Government of Kingdom of Tonga |
+| rile.to | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
+| eve.to  | resell    | —         | —             | high           | medium | 3      | Government of Kingdom of Tonga |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
