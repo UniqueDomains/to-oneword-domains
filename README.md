@@ -1,10 +1,10 @@
-# Available .TO One-Word Domains (10,984)
+# Available .TO One-Word Domains (17,616)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C984%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C616%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .to one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,984 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,616 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,984 domains · **Median ask:** $39.63 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 17,616 domains · **Median ask:** $46.83 · **High-demand under $2,500:** 33
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| dji.to   | available | $29.98    | —             | high           | low    | 3      | namecheap                      |
-| steel.to | resell    | $29.98    | —             | high           | low    | 5      | NAMECHEAP                      |
-| nwo.to   | available | $29.98    | —             | high           | low    | 3      | namecheap                      |
-| aim.to   | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| ahuh.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| ala.to   | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| bern.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| ale.to   | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| brow.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| ana.to   | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| clam.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| ann.to   | resell    | —         | —             | high           | low    | 3      | NAMECHEAP                      |
-| cons.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| axe.to   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| cows.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| bag.to   | resell    | —         | —             | high           | low    | 3      | humbly LLC                     |
-| djia.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| bar.to   | resell    | —         | —             | high           | low    | 3      | Government of Kingdom of Tonga |
-| giza.to  | available | $29.98    | —             | high           | low    | 4      | namecheap                      |
-| con.to   | resell    | —         | —             | high           | low    | 3      | humbly LLC                     |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| uut.to  | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo   |
+| ala.to  | resell    | —         | —             | high           | low    | 3      | Tonic      |
+| zdv.to  | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo   |
+| amy.to  | resell    | —         | —             | high           | low    | 3      | Tonic      |
+| adar.to | available | $64.99    | $64.99        | medium         | low    | 4      | namesilo   |
+| bam.to  | resell    | —         | —             | high           | low    | 3      | Tonic      |
+| ayin.to | available | $64.99    | $64.99        | high           | low    | 4      | namesilo   |
+| sot.to  | resell    | —         | —             | medium         | low    | 3      | Tonic      |
+| beda.to | available | $64.99    | $64.99        | high           | low    | 4      | namesilo   |
+| vet.to  | resell    | —         | —             | high           | low    | 3      | NAMECHEAP  |
+| bern.to | available | $29.98    | —             | high           | low    | 4      | namecheap  |
+| xvi.to  | resell    | —         | —             | medium         | low    | 3      | Tonic      |
+| clop.to | available | $39.98    | $39.98        | medium         | low    | 4      | namecheap  |
+| ames.to | resell    | —         | —             | high           | low    | 4      | Tonic      |
+| cons.to | available | $29.98    | —             | high           | low    | 4      | namecheap  |
+| bags.to | resell    | —         | —             | high           | low    | 4      | Tonic      |
+| dike.to | available | $39.98    | $39.98        | medium         | low    | 4      | namecheap  |
+| been.to | resell    | —         | —             | medium         | low    | 4      | humbly LLC |
+| diss.to | available | $64.99    | $64.99        | medium         | low    | 4      | namesilo   |
+| bite.to | resell    | —         | —             | high           | low    | 4      | Tonic      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,984 live domains                        |
+| 1,000-row public sample | 17,616 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 14 high-demand names under $2,500          |
+| Basic exported fields   | 33 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
