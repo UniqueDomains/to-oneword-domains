@@ -1,10 +1,10 @@
-# Available .TO One-Word Domains (19,969)
+# Available .TO One-Word Domains (21,646)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C969%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .to one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,969 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,969 domains · **Median ask:** $47.06 · **High-demand under $2,500:** 49
+**Public extract:** 1,000 rows · **Live catalog:** 21,646 domains · **Median ask:** $47.01 · **High-demand under $2,500:** 56
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/to`
 **Best for:** founders, investors, studios
 
@@ -70,9 +70,9 @@ print(df.head())
 | amy.to  | resell    | —         | —             | high           | low    | 3      | Tonic      |
 | adar.to | available | $64.99    | $64.99        | medium         | low    | 4      | namesilo   |
 | bam.to  | resell    | —         | —             | high           | low    | 3      | Tonic      |
-| ayin.to | available | $64.99    | $64.99        | high           | low    | 4      | namesilo   |
+| aron.to | available | $20.70    | $20.70        | high           | low    | 4      | spaceship  |
 | cfa.to  | resell    | —         | —             | high           | low    | 3      | —          |
-| beda.to | available | $64.99    | $64.99        | high           | low    | 4      | namesilo   |
+| ayin.to | available | $64.99    | $64.99        | high           | low    | 4      | namesilo   |
 | sot.to  | resell    | —         | —             | medium         | low    | 3      | Tonic      |
 | bern.to | available | $20.70    | $20.70        | high           | low    | 4      | spaceship  |
 | xvi.to  | resell    | —         | —             | medium         | low    | 3      | Tonic      |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,969 live domains                        |
+| 1,000-row public sample | 21,646 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 49 high-demand names under $2,500          |
+| Basic exported fields   | 56 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TO One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
