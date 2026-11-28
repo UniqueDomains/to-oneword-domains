@@ -4,9 +4,9 @@
 
 1,000 real .to one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [71,875 names on .to](https://unique.domains/tld/to); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [72,081 names on .to](https://unique.domains/tld/to); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-61,218 one-word .to names are free to register today. Cheapest first year $20.70 at Spaceship, renewal $20.70 there. 65 .to sales in the last 12 months, median $305.
+61,430 one-word .to names are free to register today. Cheapest first year $20.70 at Spaceship, renewal $20.70 there. 65 .to sales in the last 12 months, median $305.
 
 Live page: [unique.domains/tld/to](https://unique.domains/tld/to?utm_source=github&utm_medium=referral&utm_campaign=repo_to_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 30,722 names in the live list today.
+- The files hold 1,000 rows of the 30,854 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
